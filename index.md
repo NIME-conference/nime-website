@@ -1,6 +1,8 @@
 ---
 layout: page
-feature_image: {{site.baseurl}}/assets/nime_banner.png
+title: NIME
+feature_image: "assets/nime_banner.png"
+feature_text: ## Hello world
 ---
 
 Welcome to NIME 2019 in Porto Alegre, Brazil, 3-6 June 2019.

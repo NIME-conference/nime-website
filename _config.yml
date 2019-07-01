@@ -1,0 +1,76 @@
+# Site settings
+
+title: NIME – The International Conference on New Interfaces for Musical Expression
+email: website@nime.org
+description: >- # this means to ignore newlines until "baseurl:"
+  The International Conference on New Interfaces for Musical Expression 
+  gathers researchers and musicians from all over the world to share their 
+  knowledge and late-breaking work on new musical interface design.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: nimeconf
+github_username:  NIMEconference
+
+# Build settings
+markdown: kramdown
+theme: alembic-jekyll-theme
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: News
+  url: /news/
+- title: Past NIMEs
+  url: /past-nimes/
+- title: Proceedings
+  url: /archives/
+- title: Hosting
+  url: /hosting/
+- title: Committees
+  url: /committees/
+- title: Mailing List
+  url: /list/
+- title: Statements
+  url: /statements/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "News from NIME"
+    feature_text: |
+      News from NIME
+    feature_image: "https://picsum.photos/2560/600?image=866"

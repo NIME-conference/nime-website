@@ -1,0 +1,46 @@
+---
+title: false
+styles: true
+---
+
+
+
+$body-font: 'PT Sans Narrow', sans-serif;
+$header-font: 'PT Sans', sans-serif;
+
+// Background colours
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #fafafa;
+$featureBackgroundColour: #f9fafa;
+$accentColour: #797986;
+
+// Text colours
+$headingColour: #242e2b;
+$bodyColour: #384743;
+$linkColour: #797986;
+$hoverColour: #33334d;
+$focusColour: #fa407a;
+$captionColour: #a8adac;
+$white: #ffffff;
+
+// Typography
+$bodytype: (
+  font-family: $body-font,
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: $header-font,
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+@import "alembic";
+
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow:400,700&display=swap');

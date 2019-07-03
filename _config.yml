@@ -36,9 +36,11 @@ plugins:
 - jekyll-scholar
 
 scholar:
-  style: apa
+  style: "/assets/acm-sigchi-proceedings.csl"
   repository: preprints
   bibliography_template: bibliography
+  group_by: year
+  group_order: descending
 
 # # Pagination
 # paginate: 2 # jekyll-paginate > items per page

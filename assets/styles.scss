@@ -39,6 +39,12 @@ $headingtype: (
   cap-height: 0.75
 );
 
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+);
+
 @import "alembic";
 
 

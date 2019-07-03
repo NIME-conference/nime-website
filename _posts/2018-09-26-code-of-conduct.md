@@ -1,17 +1,16 @@
 ---
 layout: post
 title: NIME Conference Code of Conduct
-permalink: http://www.nime.org/code-of-conduct/index.html
-post_id: 1875
+permalink: /code-of-conduct/
 categories:  []
 ---
 
-###**Short version**
+### Short version
 
 NIME is dedicated to a harassment-free conference experience for everyone. Our code of conduct can be found at: 
 [http://www.nime.org/code-of-conduct](http://www.nime.org/code-of-conduct).
 
-###Long version
+### Long version
 
 NIME is dedicated to providing a harassment-free conference experience for everyone regardless of all ethnicities, countries of origin, gender identities and expressions, ages, abilities, religions, sexual orientations, physical appearances, body sizes, economic backgrounds, scholarly or professional backgrounds, employment, religions, and other differences.
 

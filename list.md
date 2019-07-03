@@ -4,3 +4,18 @@ title: Mailing List
 permalink: /list/
 ---
 
+The NIME community runs the mailing list [community@nime.org](mailto:community@nime.org),  which is used for posting useful information about the world of new instrument design. The mailing list is moderated, and fairly low-traffic (less than one e-mail per day).
+
+Posts to the list should be restricted to calls for papers/works, job announcements, and topics of specific interest to the NIME community.
+
+Except where specifically relevant to a large proportion of the NIME community, posts regarding products, software and concert performances should not be posted.
+
+In order to subscribe to the list, please send an email to [community.subscribe@nime.org](mailto:community.subscribe@nime.org). To unsubscribe from the list, send an email to [community.unsubscribe@nime.org](mailto:community.unsubscribe@nime.org).
+
+### Mailing List Archive
+
+The mailing list is hosted on [Google Groups](https://groups.google.com/forum/#!forum/nime-community), which provides a [searchable archive of discussions](https://groups.google.com/forum/#!forum/nime-community).
+
+<!-- ### Technical Issues
+
+Please direct any questions about the mailing list to [Andrew Johnston](http://www.uts.edu.au/staff/andrew.johnston). -->

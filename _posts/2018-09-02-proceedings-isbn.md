@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Proceedings ISBN
-permalink: http://www.nime.org/archives/proceedings-isbn/index.html
-post_id: 1861
+permalink: /archives/proceedings-isbn/
 categories:  []
 ---
 

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: NIME 2015 - Call for works
-permalink: http://www.nime.org/nime-2015-call-for-works/index.html
-post_id: 232
 categories: 
 - Uncategorized
 ---

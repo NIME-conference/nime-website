@@ -1,8 +1,7 @@
 ---
 layout: page
-title: NIME
+title: The International Conference on New Interfaces for Musical Expression
 feature_image: "assets/nime_banner.png"
-feature_text: ## Hello world
 ---
 
 Welcome to NIME 2019 in Porto Alegre, Brazil, 3-6 June 2019.

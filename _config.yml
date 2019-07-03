@@ -1,6 +1,6 @@
 # Site settings
 
-title: NIME – The International Conference on New Interfaces for Musical Expression
+title: NIME
 email: website@nime.org
 description: >- # this means to ignore newlines until "baseurl:"
   The International Conference on New Interfaces for Musical Expression 
@@ -86,17 +86,6 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
-
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site favicons & manifest icons
-# 9. Site navigation
 
 # 1. Files excluded from Jekyll builds
 # exclude:

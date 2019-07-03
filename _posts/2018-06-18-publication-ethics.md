@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ethical guidelines for NIME publications
-permalink: http://www.nime.org/publication-ethics/index.html
+permalink: /publication-ethics/
 post_id: 1851
 categories:  []
 ---

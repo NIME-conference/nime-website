@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: NIME Conference Code of Conduct
 permalink: /code-of-conduct/
 date: 2018-09-26

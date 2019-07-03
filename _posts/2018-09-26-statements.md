@@ -6,10 +6,8 @@ post_id: 1866
 categories:  []
 ---
 
-The NIME Steering Committee has issued the following statements:*[The NIME Conference Diversity Statement](http://www.nime.org/diversity)
+The NIME Steering Committee has issued the following statements:
 
- 	
-*[The NIME Conference Code of Conduct](http://www.nime.org/code-of-conduct)
-
- 	
-*[Ethical guidelines for NIME publications](http://www.nime.org/publication-ethics/)‎
+* [The NIME Conference Diversity Statement](http://www.nime.org/diversity)
+* [The NIME Conference Code of Conduct](http://www.nime.org/code-of-conduct)	
+* [Ethical guidelines for NIME publications](http://www.nime.org/publication-ethics/)‎

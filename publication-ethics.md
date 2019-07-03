@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: Ethical guidelines for NIME publications
 permalink: /publication-ethics/
 date: 2018-09-26
-categories:  []
 ---
 
 # Ethical guidelines for NIME publications

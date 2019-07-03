@@ -2,6 +2,7 @@
 layout: post
 title: NIME Conference Code of Conduct
 permalink: /code-of-conduct/
+date: 2018-09-26
 categories:  []
 ---
 
@@ -19,3 +20,4 @@ We do not tolerate harassment of conference participants in any form. Harassment
 By attending the NIME conference you are agreeing to this code of conduct at all conference venues and conference-related social events. The policy extends equally to exhibitors, vendors, and other attendees. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 If you are being harassed, noticed that someone else is being harassed, or have any other concerns, please contact a member of the conference staff immediately. Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+

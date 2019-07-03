@@ -2,6 +2,7 @@
 layout: post
 title: NIME Conference Diversity Statement
 permalink: /diversity/
+date: 2018-09-26
 categories:  []
 ---
 

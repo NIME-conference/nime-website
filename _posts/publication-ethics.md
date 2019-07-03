@@ -2,7 +2,7 @@
 layout: post
 title: Ethical guidelines for NIME publications
 permalink: /publication-ethics/
-post_id: 1851
+date: 2018-09-26
 categories:  []
 ---
 

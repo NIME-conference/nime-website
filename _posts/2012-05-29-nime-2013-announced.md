@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NIME 2013 announced
-permalink: http://www.nime.org/nime-2013-announced/index.html
 post_id: 128
 categories: 
 - Uncategorized

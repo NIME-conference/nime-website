@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: Proceedings ISBN
 permalink: /archives/proceedings-isbn/
-categories:  []
 ---
 
 The **ISSN** for the NIME proceedings series is: ISSN 2220-4806.

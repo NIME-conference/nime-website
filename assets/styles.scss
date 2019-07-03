@@ -44,3 +44,46 @@ $headingtype: (
 
 // Font import, if you're using a non-standard web font
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Sans+Narrow:400,700&display=swap');
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.collapse {
+  display: block;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .5s cubic-bezier(0, 1, 0, 1);
+&.show {
+    max-height: 99em;
+    transition: max-height .5s ease-in-out;
+  }
+}
+
+
+/*
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collcontent {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+
+
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+*/

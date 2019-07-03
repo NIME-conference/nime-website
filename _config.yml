@@ -33,10 +33,16 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+- jekyll-scholar
 
-# Pagination
-paginate: 2 # jekyll-paginate > items per page
-paginate_path: blog/page:num # jekyll-paginate > blog page
+scholar:
+  style: apa
+  repository: preprints
+  bibliography_template: bibliography
+
+# # Pagination
+# paginate: 2 # jekyll-paginate > items per page
+# paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: nimeconf # jekyll-seo-tag > Owners twitter username

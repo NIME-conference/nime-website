@@ -18,3 +18,5 @@ This page contains a list of all publications that have been published at the NI
 ## NIME publications (in backwards chronological order)
 
 <!-- [bibtex template=av-bibtex group=year group_order=desc sort=author order=asc file=https://github.com/NIME-conference/NIME-bibliography/blob/master/BibTeX/nime.bib?raw=true] -->
+
+{% bibliography --file nime %}

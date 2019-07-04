@@ -41,6 +41,8 @@ scholar:
   bibliography_template: bibliography
   group_by: year
   group_order: descending
+  bibliography_list_tag: "ul"
+  bibliography_item_tag: "li"
 
 # # Pagination
 # paginate: 2 # jekyll-paginate > items per page

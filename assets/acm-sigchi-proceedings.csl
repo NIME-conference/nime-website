@@ -23,9 +23,12 @@
     <contributor>
       <name>Lilly Irani</name>
       <email>lirani@ics.uci.edu</email>
-    </contributor>
-    <category citation-format="numeric"/>
-    <category field="engineering"/>
+    </contributor>    
+    <category field="psychology"/>
+    <category field="generic-base"/>
+    <category citation-format="author-date"/>
+    <!-- <category citation-format="numeric"/> -->
+    <!-- <category field="engineering"/> -->
     <updated>2012-09-27T22:06:38+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
@@ -98,7 +101,6 @@
   <macro name="access">
     <choose>
       <if variable="DOI">
-
         <text variable="DOI" prefix="http://doi.org/"/>
       </if>
 <!--       <else-if variable="URL">
@@ -130,7 +132,7 @@
       <key variable="issued"/>
     </sort>
     <layout>
-      <text variable="citation-number" suffix="."/>
+<!--       <text variable="citation-number" suffix="."/> -->
       <group delimiter=". " suffix=". ">
         <text macro="author"/>
         <text macro="year"/>
@@ -144,7 +146,10 @@
           <else-if type="paper-conference">
             <group suffix="." delimiter=", ">
               <text macro="conference"/>
-              <text variable="page"/>
+              <group suffix="" delimiter="">
+                <label variable="page" form="short" suffix=" "/>
+                <text variable="page"/>
+              </group>
             </group>
           </else-if>
           <else-if type="chapter paper-conference" match="any">
@@ -183,4 +188,39 @@
       <text macro="access" prefix=" "/>
     </layout>
   </bibliography>
+
+<!-- # APA -->
+<!--   <bibliography hanging-indent="true" et-al-min="8" et-al-use-first="7" entry-spacing="0" line-spacing="2">
+    <sort>
+      <key macro="author"/>
+      <key macro="issued-sort" sort="ascending"/>
+    </sort>
+    <layout>
+      <group suffix=".">
+        <group delimiter=". ">
+          <text macro="author"/>
+          <text macro="issued"/>
+        </group>
+        <group delimiter=". ">
+          <text macro="title" prefix=" "/>
+          <group>
+            <text macro="container-contributors"/>
+            <text macro="secondary-contributors"/>
+            <group delimiter=", ">
+              <text macro="container"/>
+              <text variable="collection-title"/>
+            </group>
+          </group>
+        </group>
+        <text macro="locators"/>
+        <group delimiter=", " prefix=". ">
+          <text macro="event"/>
+          <text macro="publisher"/>
+        </group>
+      </group>
+      <text macro="access" prefix=" "/>
+    </layout>
+  </bibliography> -->
+
+
 </style>

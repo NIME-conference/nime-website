@@ -43,7 +43,7 @@ The Advisory Board consists of former chairs, and serve as support for the Steer
 * [Woon Seung Yeo](https://www.linkedin.com/in/michaeljlyons), KAIST, Daejeon (Chair NIME 2013)
 * [Atau Tanaka](http://web.eecs.umich.edu/~gessl/), Goldsmiths, University of London (Chair NIME 2014)
 * [Rebecca Fiebrink](http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html), Goldsmiths, University of London (Chair NIME 2014)
-* [Jesse Allison](http://allisonic.com/), Louisiana State University (Chair NIME 2015)
+* [Jesse Allison](https://www.lsu.edu/cmda/music/people/faculty/allison.php), Louisiana State University (Chair NIME 2015)
 * [Andrew Brown](https://www.griffith.edu.au/music/queensland-conservatorium/staff/andrew-brown), Griffith University (Chair NIME 2016)
 * [Stefania Serafin](http://imi.aau.dk/~sts/), Aalborg University Copenhagen (Chair NIME 2017)
 * [Dan Overholt](http://vbn.aau.dk/en/persons/daniel-overholt(ffec9cea-8641-4c7f-b9e4-9f57c427bda8).html), Aalborg University Copenhagen (Chair NIME 2017)

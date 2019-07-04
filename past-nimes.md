@@ -2,6 +2,7 @@
 layout: page
 title: Past NIMEs
 permalink: /past-nimes/
+feature_image: "/assets/nime_logos_banner.jpg"
 ---
 
 The conference began as a workshop at the ACM Conference on Human Factors in Computing Systems (CHI) in 2001 in [Seattle, Washington](http://en.wikipedia.org/wiki/Seattle,_Washington "Seattle, Washington"). Since this [NIME 2001](http://www.nime.org/2001), international conferences have been held annually around the world.

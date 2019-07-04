@@ -12,6 +12,7 @@ This website serves as the [permanant home for the NIME proceedings](/archives),
 
 <!-- 
 NIME2018: https://youtu.be/xc5I3wbwH_4
+NIKE2014: https://youtu.be/eJHzNMAWQR8
 best of NIME2014: https://youtu.be/beLxqGKvI-M
 NIME2017: https://youtu.be/eTSNJPs8OH8
 NIME2016: https://youtu.be/VmyNYds8z00

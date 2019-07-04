@@ -5,8 +5,6 @@ permalink: /publication-ethics/
 date: 2018-09-26
 ---
 
-# Ethical guidelines for NIME publications
-
 The publication of a paper in the **Proceedings of the international conference on new interfaces for musical expression** is an essential building block in the development of a coherent and respected network of knowledge. It is a direct reflection of the quality of the work of the authors and the institutions that support them. Peer-reviewed papers support and embody academic research methods. It is therefore important to agree upon standards of expected ethical behavior for all parties involved in the act of publishing: the authors, the editors, the peer reviewers, the publisher and the society.
 
 ## Duties of authors

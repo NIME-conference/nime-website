@@ -5,9 +5,9 @@ permalink: /past-nimes/
 feature_image: "/assets/nime_logos_banner.jpg"
 ---
 
-The conference began as a workshop at the ACM Conference on Human Factors in Computing Systems (CHI) in 2001 in [Seattle, Washington](http://en.wikipedia.org/wiki/Seattle,_Washington "Seattle, Washington"). Since this [NIME 2001](http://www.nime.org/2001), international conferences have been held annually around the world.
+The conference began as a workshop at the ACM Conference on Human Factors in Computing Systems (CHI) in 2001 in [Seattle, Washington](https://en.wikipedia.org/wiki/Seattle,_Washington "Seattle, Washington"). Since this [NIME 2001](https://www.nime.org/2001), international conferences have been held annually around the world.
 
-_**NB: The pages below are historic web documents, and are not updated. If you are looking for the proceedings of the conferences, all papers are located in the common [NIME archive]({{site.baseurl}}/archives/).**_
+**NB: The pages below are historic web documents, and are not updated. If you are looking for the proceedings of the conferences, all papers are located in the common [NIME archive]({{site.baseurl}}/archives/).**
 
 *   [NIME 2001](http://www.nime.org/2001): Seattle, Washington
 *   [NIME 2002](http://www.nime.org/2002): Media Lab Europe, Dublin, Ireland

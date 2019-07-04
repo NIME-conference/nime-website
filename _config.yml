@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   gathers researchers and musicians from all over the world to share their 
   knowledge and late-breaking work on new musical interface design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nime.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nime.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language

@@ -48,7 +48,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 * **2013** (Daejeon) Bill Verplank, Ajay Kapur
 * **2014** (London) Hiroshi Ishii, Laetitia Sonami
 * **2015** (Baton Rogue) R. Luke DuBois, Sile O’Modhrain
-* **2016** (Brisbane) Miya Massoka, Garth Paine
+* **2016** (Brisbane) Miya Masaoka, Garth Paine
 * **2017** (Copenhagen) Ge Wang, Dorit Chrysler, Chris Chafe
 * **2018** (Blacksburg) Onyx Ashanti, R. Benjamin Knapp, Ikue Mori, Pamela Z
 * **2019** (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez

@@ -23,4 +23,5 @@ NIME2007 documentary: https://youtu.be/ZRHLtkeWwwA
 
 [**NIME2020**](http://nime2020.bcu.ac.uk) will take place at The Royal Birmingham Conservatoire, UK, 21-25 July 2020.
 
-[![NIME2020 Logo]({site.baseurl}/assets/logos/nime2020.png)](http://nime2020.bcu.ac.uk)
+[![NIME2020
+Logo]({{site.baseurl}}/assets/logos/nime2020.png)](http://nime2020.bcu.ac.uk)

@@ -7,4 +7,4 @@ categories: announcement conference
 
 [Announcing **NIME2020**](http://nime2020.bcu.ac.uk)! July 21-25, Royal Birmingham Conservatoire, UK.
 
-[![NIME2020 Logo]({site.baseurl}/assets/logos/nime2020.png)](http://nime2020.bcu.ac.uk)
+[![NIME2020 Logo]({{site.baseurl}}/assets/logos/nime2020.png)](http://nime2020.bcu.ac.uk)

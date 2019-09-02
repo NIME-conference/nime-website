@@ -8,7 +8,7 @@ The International Conference on New Interfaces for Musical Expression gathers re
 
 {% include video.html id="JnLylwvWIpE" %}
 
-This website serves as the [permanant home for the NIME proceedings](/archives), for historical records of NIMEs past, and planning documents and policies related to NIMEs of the future.
+This website serves as the [permanent home for the NIME proceedings](/archives), for historical records of NIMEs past, and planning documents and policies related to NIMEs of the future.
 
 <!-- 
 NIME2018: https://youtu.be/xc5I3wbwH_4

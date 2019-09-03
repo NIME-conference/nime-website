@@ -38,6 +38,8 @@ scholar:
   style: "/assets/acm-sigchi-proceedings.csl"
   repository: preprints
   bibliography_template: bibliography
+  details_layout: detail_page
+  bibliography: nime
   group_by: year
   group_order: descending
   bibliography_list_tag: "ul"

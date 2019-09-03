@@ -25,3 +25,9 @@ NIME2007 documentary: https://youtu.be/ZRHLtkeWwwA
 
 [![NIME2020
 Logo]({{site.baseurl}}/assets/logos/nime2020.jp2)](http://nime2020.bcu.ac.uk)
+
+
+
+<!-- ### Test -->
+
+<!-- Here's a link: {% cite_details Tomas2019 --text Click Here For More Details %} -->

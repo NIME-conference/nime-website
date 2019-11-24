@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The International Conference on New Interfaces for Musical Expression
-feature_image: "assets/nime_banner.jp2"
+feature_image: "assets/nime_banner.jpg"
 ---
 
 The International Conference on New Interfaces for Musical Expression gathers researchers and musicians from all over the world to share their knowledge and late-breaking work on new musical interface design. The conference started out as a workshop at the [Conference on Human Factors in Computing Systems](https://www.acm.org/sigchi/) (CHI) in 2001. Since then, an annual series of international conferences have been held around the world, hosted by research groups dedicated to interface design, human-computer interaction, and computer music.
@@ -24,10 +24,4 @@ NIME2007 documentary: https://youtu.be/ZRHLtkeWwwA
 [**NIME2020**](http://nime2020.bcu.ac.uk) will take place at The Royal Birmingham Conservatoire, UK, 21-25 July 2020.
 
 [![NIME2020
-Logo]({{site.baseurl}}/assets/logos/nime2020.jp2)](http://nime2020.bcu.ac.uk)
-
-
-
-<!-- ### Test -->
-
-<!-- Here's a link: {% cite_details Tomas2019 --text Click Here For More Details %} -->
+Logo]({{site.baseurl}}/assets/logos/nime2020.jpg)](http://nime2020.bcu.ac.uk)

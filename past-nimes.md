@@ -24,7 +24,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2013](/2013/): Korea Advanced Institute of Science and Technology, Daejeon, South Korea. (archived site)
 *   [NIME 2014](http://www.nime.org/2014): Goldsmiths University, London, UK (archived site)
 *   [NIME 2015](https://nime2015.lsu.edu/): Louisiana State University, Baton Rouge, Louisiana, USA
-*   [NIME 2016](http://nime2016.org/): Griffith University, Brisbane, Australia
+*   [NIME 2016](https://web.archive.org/web/20161201181354/http://nime2016.org/): Griffith University, Brisbane, Australia
 *   [NIME 2017](http://www.nime2017.org/): Aalborg University Copenhagen, Denmark
 *   [NIME 2018](http://nime2018.org/): Blacksburg, VA, USA
 *   [NIME 2019](https://www.ufrgs.br/nime2019/): Porto Alegre, Brazil

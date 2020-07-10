@@ -7,9 +7,9 @@ categories: publication community
 
 # Workshop
 
-Date: 21 July 2020
-Time: asynchronous activities + synchronous 9-10 & 17-18 UK time
-Location: Zoom
+- Date: 21 July 2020
+- Time: asynchronous activities + synchronous 9-10 & 17-18 UK time
+- Location: Zoom and online
 
 ## Workshop organisers
 

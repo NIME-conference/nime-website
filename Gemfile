@@ -16,7 +16,7 @@ group :jekyll_plugins do
   # Scholar
   gem 'jekyll-scholar'
   # Theme
-  gem "alembic-jekyll-theme", "~> 3.1.0"
+  gem "alembic-jekyll-theme", "~> 3.2.0", git: "https://github.com/cpmpercussion/alembic"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

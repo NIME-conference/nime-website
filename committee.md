@@ -20,7 +20,7 @@ The Steering Committee is responsible for [guiding the future direction](https:/
 The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences (see [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/officers) for details). It is composed of volunteers from the NIME community.
 
 * Mailing list officers: 
-	- [Michael Lyon](https://www.linkedin.com/in/michaeljlyons), 
+	- [Michael Lyons](https://www.linkedin.com/in/michaeljlyons)
 	- [Andrew Johnston](http://andrewjohnston.net/)
 	- [Tom Mitchell](https://people.uwe.ac.uk/Person/TomMitchell)
 * Web page officer: 

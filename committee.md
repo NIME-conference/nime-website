@@ -6,23 +6,27 @@ permalink: /committee/
 
 ## Steering Committee
 
-The Steering Committee is responsible for guiding the future direction of the NIME conference. It is composed of the previous, current and  future NIME conference chairs, currently:
+The Steering Committee is responsible for [guiding the future direction](https://nime.gitbook.io/conference-cookbok/steering/steeringcommittee) of the NIME conference. It is composed of previous, current and  future NIME conference chairs, currently:
 
 * [Alexander Refsum Jensenius](http://www.arj.no), University of Oslo (Chair of SC, Chair NIME 2011)
 * [Ico Bukvic](http://imi.aau.dk/~sts/), Virginia Tech (Chair NIME 2018)
 * [Rodrigo Schramm](http://professor.ufrgs.br/rschramm), Federal University of Rio Grande do Sul (Chair NIME 2019)
 * [Lamberto Coccioli](https://www.bcu.ac.uk/conservatoire/research/research-staff/lamberto-coccioli), Royal Birmingham Conservatoire (Chair NIME 2020)
+* [Sally-Jane Norman](https://people.wgtn.ac.nz/sallyjane.norman), Victoria University of Wellington (Chair NIME 2020)
 * [Gus Xia](https://shanghai.nyu.edu/academics/faculty/directory/gus-xia), NYU Shanghai (Chair NIME 2021)
 
 ## NIME Officers
 
-The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences. It is composed of volunteers from the NIME community.
+The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences (see [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/officers) for details). It is composed of volunteers from the NIME community.
 
 * Mailing list officers: 
 	- [Michael Lyon](https://www.linkedin.com/in/michaeljlyons), 
 	- [Andrew Johnston](http://andrewjohnston.net/)
+	- [Tom Mitchell](https://people.uwe.ac.uk/Person/TomMitchell)
 * Web page officer: 
 	- [Charles Martin](https://cecs.anu.edu.au/people/charles-martin)
+* WiNIME officer: 
+	- [Anna Xambó](http://annaxambo.me/)
 * Paper proceedings archive officer
 * Music proceedings archive officer
 * Paper template officer

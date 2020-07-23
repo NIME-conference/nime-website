@@ -28,10 +28,12 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2017](http://www.nime2017.org/): Aalborg University Copenhagen, Denmark
 *   [NIME 2018](http://nime2018.org/): Blacksburg, VA, USA
 *   [NIME 2019](https://www.ufrgs.br/nime2019/): Porto Alegre, Brazil
+* [NIME 2020](https://nime2020.bcu.ac.uk/): Birmingham, UK
+* [NIME 2021](http://nime2021.org/): Shanghai, China
 
 {% include video.html id="JnLylwvWIpE" %}
 
-**Keynote speakers**
+## Keynote speakers
 
 * **2001** (Seattle) Max Matthews
 * **2002** (Dublin) Tod Machover, Joel Chadabe
@@ -52,3 +54,13 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 * **2017** (Copenhagen) Ge Wang, Dorit Chrysler, Chris Chafe
 * **2018** (Blacksburg) Onyx Ashanti, R. Benjamin Knapp, Ikue Mori, Pamela Z
 * **2019** (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez
+* **2020** (Birmingham) Drake Music Labs, Lilja Maria Asmundsdottir, Crewdson & Cevanne, Dunning & Underwood
+
+## Awards
+
+### Pamela Z Award for Innovation
+
+This award recognizes a person who is doing significant work that improves the discussion about diversity in NIME - either through their research, connecting people or through actions such as organisation and awareness. It was named after Pamela Z because she was a keynote in the founding year, because she is a pioneer in this field and an extraordinary artist, and because spending time each NIME thinking about an award named after a prolific African American woman is a way of continually highlighting the value of her work, and representing voices that are often invisible in the community.
+
+- 2019: [Margaret Schedel](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/)
+- 2018: [Sarah Belle Reid](https://www.sarahbellereid.com/)

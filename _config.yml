@@ -38,7 +38,7 @@ scholar:
   repository: preprints
   bibliography_template: bibliography
   details_layout: detail_page
-  bibliography: nime
+  bibliography: nime_papers
   group_by: year
   group_order: descending
   bibliography_list_tag: "ul"

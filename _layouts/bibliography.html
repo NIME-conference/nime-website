@@ -8,7 +8,12 @@
 <button class="btn btn-primary button-{{key}}-abstract" data-toggle="collapse" data-target=".collapse.{{key}}-abstract" data-text="Collapse">Abstract</button>
 {% endif %}
 <button class="btn btn-primary button-{{key}}-bibtex" data-toggle="collapse" data-target=".collapse.{{key}}-bibtex" data-text="Collapse">BibTeX</button>
+{% if entry.doi %}
+<a class="button" href="https://doi.org/{{entry.doi}}">Download PDF</a>
+<a class="button" href="https://doi.org/{{entry.doi}}">DOI</a>
+{% else %}
 <a class="button" href="{{entry.url}}">Download PDF</a>
+{% endif %}
 
 {% if entry.abstract %}
 <div class="block collapse {{key}}-abstract">

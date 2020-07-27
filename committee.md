@@ -19,19 +19,22 @@ The Steering Committee is responsible for [guiding the future direction](https:/
 
 The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences (see [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/officers) for details). It is composed of volunteers from the NIME community.
 
-* Mailing list officers: 
+* Mailing list officers:
 	- [Michael Lyons](https://www.linkedin.com/in/michaeljlyons)
 	- [Andrew Johnston](http://andrewjohnston.net/)
 	- [Tom Mitchell](https://people.uwe.ac.uk/Person/TomMitchell)
-* Web page officer: 
+* Web page officer:
 	- [Charles Martin](https://cecs.anu.edu.au/people/charles-martin)
-* WiNIME officer: 
+* WiNIME officer:
 	- [Anna Xambó](http://annaxambo.me/)
 * Paper proceedings archive officer
+  - [Benedikte Wallace](https://www.uio.no/ritmo/english/people/phd-fellows/benediwa/)
 * Music proceedings archive officer
+  - [Federico Visi](https://www.federicovisi.com/)
+* Ethics officer
+		- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
 * Paper template officer
 * Diversity officer
-* Ethics officer
 * Environmental issues officer
 * Sponsorship officer
 

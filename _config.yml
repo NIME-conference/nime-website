@@ -37,7 +37,7 @@ scholar:
   style: "/assets/acm-sigchi-proceedings.csl"
   repository: preprints
   bibliography_template: bibliography
-  details_layout: detail_page
+  # details_layout: detail_layout
   bibliography: nime_papers
   group_by: year
   group_order: descending

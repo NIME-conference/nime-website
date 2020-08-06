@@ -62,7 +62,8 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 
 This award recognizes a person who is doing significant work that improves the discussion about diversity in NIME - either through their research, connecting people or through actions such as organisation and awareness. It was named after Pamela Z because she was a keynote in the founding year, because she is a pioneer in this field and an extraordinary artist, and because spending time each NIME thinking about an award named after a prolific African American woman is a way of continually highlighting the value of her work, and representing voices that are often invisible in the community.
 
-- **2019**: [Margaret Schedel](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/) | 
+* **2018**: [Sarah Belle Reid](https://www.sarahbellereid.com/)
+* **2019**: [Margaret Schedel](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/) | 
 *Honorary Mention: [Ximena Alarcón Díaz](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/)*
-
-- **2018**: [Sarah Belle Reid](https://www.sarahbellereid.com/)
+* **2020**: [Doga Cavdir](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/) | 
+*Honorary Mention: [Patricia Cadavid Hinojosa](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/)*

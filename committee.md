@@ -28,11 +28,11 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 * WiNIME officer:
 	- [Anna Xambó](http://annaxambo.me/)
 * Paper proceedings archive officer
-  - [Benedikte Wallace](https://www.uio.no/ritmo/english/people/phd-fellows/benediwa/)
+	- [Benedikte Wallace](https://www.uio.no/ritmo/english/people/phd-fellows/benediwa/)
 * Music proceedings archive officer
-  - [Federico Visi](https://www.federicovisi.com/)
+	- [Federico Visi](https://www.federicovisi.com/)
 * Ethics officer
-		- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
+	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
 * Forum officer: 
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Paper template officer

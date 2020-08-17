@@ -96,6 +96,8 @@ navigation_header:
   url: /list/
 - title: Statements
   url: /statements/
+- title: Forum
+  url: https://forum.nime.org/
 
 # Footer nav
 navigation_footer:

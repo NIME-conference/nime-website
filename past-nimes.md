@@ -33,6 +33,29 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 
 {% include video.html id="JnLylwvWIpE" %}
 
+## Conference Chairs
+
+* 2001: Ivan Poupyrev and Michael J. Lyons and Sidney Fels and Tina Blaine
+* 2002: Joe Paradiso
+* 2003: Marcelo Wanderley
+* 2004: Yoichi Nagashima and Michael J. Lyons
+* 2005: Sidney Fels and Tina "Bean" Blaine
+* 2006: Norbert Schnell and Frederic Bevilacqua
+* 2007: Carol Parkinson and Eric Singer
+* 2008: Antonio Camurri and Gualtiero Volpe
+* 2009: Noel Zahler and Roger Dannenberg
+* 2010: Kirsty Beilharz and Andrew Johnston and Bert Bongers
+* 2011: Alexander Refsum Jensenius and Kjell Tore Innervik
+* 2012: Georg Essl
+* 2013: Woon Seung Yeo
+* 2014: Atau Tanaka and Rebecca Fiebrink
+* 2015: Jesse T. Allison and Edgar Berdahl
+* 2016: Andrew Brown and Toby Gifford
+* 2017: Dan Overholt and Stefania Serafin
+* 2018: Ivica Ico Bukvic and Matthew Burtner
+* 2019: Rodrigo Schramm and Marcelo Johann
+* 2020: Lamberto Coccioli and Sally Jane Norman
+
 ## Keynote speakers
 
 * **2001** (Seattle) Max Matthews

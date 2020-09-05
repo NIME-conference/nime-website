@@ -5,6 +5,7 @@ permalink: /archives/reviewers/
 date: 2020-09-05
 ---
 
+Thanks to all the international experts that have helped peer review all submissions to the NIME conference.
 
 ## 2001
 

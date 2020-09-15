@@ -27,18 +27,19 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Charles Martin](https://cecs.anu.edu.au/people/charles-martin)
 * WiNIME officer:
 	- [Anna Xambó](http://annaxambo.me/)
-* Paper proceedings archive officer
-	- [Benedikte Wallace](https://www.uio.no/ritmo/english/people/phd-fellows/benediwa/)
-* Music proceedings archive officer
+* Paper proceedings archive officer:
+	- [Benedikte Wallace](https://www.uio.no/ritmo/english/people/phd-fellows/benediwa/) (lead)
+	- [Balandino Di Donato](https://www.balandinodidonato.com/)
+* Music proceedings archive officer:
 	- [Federico Visi](https://www.federicovisi.com/)
-* Ethics officer
+* Ethics officer:
 	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
 * Forum officer: 
 	- [S. Astrid Bin](https://www.astridbin.com/)
-* Diversity officers
+* Diversity officers: 
        - [Laurel Pardue](https://www.qmul.ac.uk/eecs-temp/profiles/parduelaurel.html) (lead)
        - Juan Pablo Martinez
-* Environmental issues officers
+* Environmental issues officers:
        - [John Sullivan](http://www-new.idmil.org/people/john-sullivan/) (lead)
        - [Adam Pultz Melbye](http://www.adampultz.com/)
        - [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)

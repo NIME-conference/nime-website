@@ -35,14 +35,13 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
 * Forum officer: 
 	- [S. Astrid Bin](https://www.astridbin.com/)
-* Paper template officer
 * Diversity officers
-       - Laurel Pardue (lead)
+       - [Laurel Pardue](https://www.qmul.ac.uk/eecs-temp/profiles/parduelaurel.html) (lead)
        - Juan Pablo Martinez
 * Environmental issues officers
-       - John Sullivan (lead)
-       - Adam Pultz Melbye
-       - Raul Masu
+       - [John Sullivan](http://www-new.idmil.org/people/john-sullivan/) (lead)
+       - [Adam Pultz Melbye](http://www.adampultz.com/)
+       - [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)
 * Sponsorship officer
 
 ## Advisory Board

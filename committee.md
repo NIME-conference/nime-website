@@ -36,8 +36,13 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 * Forum officer: 
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Paper template officer
-* Diversity officer
-* Environmental issues officer
+* Diversity officers
+       - Laurel Pardue (lead)
+       - Juan Pablo Martinez
+* Environmental issues officers
+       - John Sullivan (lead)
+       - Adam Pultz Melbye
+       - Raul Masu
 * Sponsorship officer
 
 ## Advisory Board

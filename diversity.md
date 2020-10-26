@@ -8,8 +8,8 @@ categories:  []
 
 ### Short version
 
-Our goal is to create an inclusive and respectful conference environment that invites participation from people of all ethnicities, genders, ages, abilities, religions, and sexual orientations. The complete NIME Conference Diversity Statement can be found at: 
-[http://www.nime.org/diversity](http://www.nime.org/diversity/).
+Our goal is to create an inclusive and respectful conference environment that invites participation from people of all ethnicities, genders, ages, abilities, religions, and sexual orientations. The complete NIME Conference Diversity Statement can be found at:
+[www.nime.org/diversity](http://www.nime.org/diversity/).
 
 ### Long version
 
@@ -21,20 +21,27 @@ This is an ongoing process. We are talking to our program chairs, program commit
 
 In discussions, we can respect one another’s identities and experiences by:
 
-* always waiting for a speaker to finish before you reply	
+* always waiting for a speaker to finish before you reply
 * being sure to actively listen to others and not dominate discussion
 * speaking from your own perspective and avoid making generalized claims of other identities
 * acknowledging your own privileged position(s), and remaining open to receiving feedback that you may be unintentionally acting insensitively to others
 
 We value diversity in the communities we bring together, and we welcome your contributions to bringing balanced representation of the richness of our collective human experience.
 
-Here are some ways you can 
+Here are some ways you can
 [help us](http://www.nime.org/steering) build a more diverse conference experience:
 
 * Recommend diverse speakers and/or program committee members to the conference chairs (see program information) 	
 * Forward our call for proposals to relevant affinity groups with the message that we are looking for a diverse speaker roster
 * Circulate widely amongst colleagues including those from marginalized groups, and encourage students from underrepresented groups to participate
 * Speak up when you see marginalization and intimidation, and offer feedback on NIME's ongoing strategies for making the conference more welcoming and supportive
-* Share your ideas and best practices for how we can realize our vision 
+* Share your ideas and best practices for how we can realize our vision
 
-[](https://www.oreilly.com/conferences/diversity.csp)[](http://goo.gl/Le1QJp)
+
+- Version: 1.0
+- Date: 26 September 2018
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Feedback: Add an [issue](https://github.com/NIME-conference/nime-website/issues) or start a [discussion](https://forum.nime.org/).
+- Based on:
+    - [O'Reilly Conference Diversity](https://www.oreilly.com/conferences/diversity.csp)
+    - [http://goo.gl/Le1QJp](http://goo.gl/Le1QJp)

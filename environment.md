@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NIME Conference Environmental Statement
-permalink: /diversity/
+permalink: /environment/
 date: 2020-10-26
 categories:  []
 ---

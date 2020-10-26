@@ -30,16 +30,16 @@ As artists and researchers, we have the ability to give voice to climate change 
 
 As individuals, our impact is negligible but as a community, we can make a difference.
 
--------------------------
-
-- Version: 1.0
-- Date: 26 October 2020
-- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Feedback: Add an [issue](https://github.com/NIME-conference/nime-website/issues) or start a [discussion](https://forum.nime.org/).
-
 
 ### Info and resources for environmental issues in NIME
 
 To support sustainable practices within and beyond NIME, we have created a [repository](https://github.com/NIME-conference/ECO_NIME) of information and green resources for environmental issues in NIME research. The repository is regularly updated with new entries, ideas, and suggestions for how we can lessen the ecological footprint of our individual and institutional practices. It is softly curated by the environmental officers, and we highly encourage everyone to submit requests for additions and edits. We hope that this will become a resource, not only for evaluating our own environmental impact, but also to spawn new ideas, designs, sonic works, and collaborations, with the potential for impact beyond the boundaries of NIME research as well.
 
 - [ECO_NIME repository](https://github.com/NIME-conference/ECO_NIME)
+
+-------------------------
+
+- Version: 1.0
+- Date: 26 October 2020
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Feedback: Add an [issue](https://github.com/NIME-conference/nime-website/issues) or start a [discussion](https://forum.nime.org/).

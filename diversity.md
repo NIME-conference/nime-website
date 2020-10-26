@@ -45,4 +45,4 @@ Here are some ways you can
 - Feedback: Add an [issue](https://github.com/NIME-conference/nime-website/issues) or start a [discussion](https://forum.nime.org/).
 - Based on:
     - [O'Reilly Conference Diversity](https://www.oreilly.com/conferences/diversity.csp)
-    - [http://goo.gl/Le1QJp](http://goo.gl/Le1QJp)
+    - [Different Games Inclusivity Statement](http://goo.gl/Le1QJp)

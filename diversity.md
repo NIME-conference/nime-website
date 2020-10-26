@@ -37,6 +37,7 @@ Here are some ways you can
 * Speak up when you see marginalization and intimidation, and offer feedback on NIME's ongoing strategies for making the conference more welcoming and supportive
 * Share your ideas and best practices for how we can realize our vision
 
+-------------------------
 
 - Version: 1.0
 - Date: 26 September 2018

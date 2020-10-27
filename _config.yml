@@ -2,8 +2,8 @@
 title: NIME
 email: website@nime.org
 description: >- # this means to ignore newlines until "baseurl:"
-  The International Conference on New Interfaces for Musical Expression 
-  gathers researchers and musicians from all over the world to share their 
+  The International Conference on New Interfaces for Musical Expression
+  gathers researchers and musicians from all over the world to share their
   knowledge and late-breaking work on new musical interface design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nime.org" # the base hostname & protocol for your site, e.g. http://example.com
@@ -80,8 +80,6 @@ include:
 navigation_header:
 - title: Home
   url: /
-- title: News
-  url: /news/
 - title: Past NIMEs
   url: /past-nimes/
 - title: Proceedings

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ethical guidelines for NIME publications
-permalink: /publication-ethics/
+permalink: /ethics/
 date: 2018-09-26
 ---
 

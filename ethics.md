@@ -5,18 +5,16 @@ permalink: /ethics/
 date: 2020-11-18
 ---
 
-Short version
-=============
+## Short version
 
 NIME upholds the highest ethical standards in research and artistic
 practice by recognising the importance of individual persons and data as
 an expression of personhood. These standards also include ethical values
 that are not always a concern of institutional research committees,
 including inclusivity, accessibility, animal rights, socio-economic
-fairness, and environmental awareness. The complete NIME Principles & Code of Practice on Ethical Research can be found at: [www.nime.org/environment](http://www.nime.org/ethics/).
+fairness, and environmental awareness. The complete NIME Principles & Code of Practice on Ethical Research can be found at: [www.nime.org/ethics](http://www.nime.org/ethics/).
 
-Long version
-============
+## Long version
 
 This document contains the NIME ethical **Principles**, which describe
 the values and standards of our community, and the **Code of Practice**,
@@ -72,8 +70,7 @@ these issues and to show an attempt to address them and an effort to
 commit to higher ethical standards with each new submission.
 
 
-Principles & Code of Practice in designing new musical interfaces
------------------------------------------------------------------
+## Principles & Code of Practice in designing new musical interfaces
 
 ### Accessibility
 

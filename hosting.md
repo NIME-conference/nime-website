@@ -18,36 +18,36 @@ Please get in touch as soon as possible to discus your ideas with the Steering C
 
 ### Template for Hosting Proposal
 
-1. Introduction
+- Introduction
     - Location: Location name
     - Dates: Proposed dates
     - Chairs: Names
 
-2. Concept
+- Concept
     - Summarize plans for the concept of the conference
 
-3. Motivation for hosting NIME
+- Motivation for hosting NIME
     - What is your motivation for hosting NIME?
     - What is unique to your NIME hosting?
 
-4. Team
+- Team
    - Names and short bios of chairs
    - Describe the rest of the team, including support staff
 
-5. Possible Dates
+- Possible Dates
     - Explain why you have chosen the dates and if there are any restrictions
     - Would you be interested in other years if your proposal is not accepted for the dates you proposed?
 
-6. Available facilities
+- Available facilities
     - Name and description of venues/resources for lectures, concerts, and installations
     - Include a geographical overview of the venues
 
-7. Avenues for funding to support the event
+- Avenues for funding to support the event
     - How will funds be secured to help hosting the event?
     - Include a list of (possible) sponsors, granting agencies etc.
 
-8. Proposed guest speakers
+- Proposed guest speakers
     - List envisaged guest speakers
 
-9. Budget Estimates
+- Budget Estimates
     - Attach complete estimate of budget (ask for example budgets)

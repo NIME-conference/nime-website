@@ -10,11 +10,10 @@ To succeed with a hub-based conference format, we would need to think differentl
 
 If you are interested in hosting NIME, please get in touch with [Alexander Refsum Jensenius](http://www.hf.uio.no/imv/english/people/aca/alexanje/index.html), chair of the [Steering Committee](http://www.nime.org/committee/).
 
-Deadline for hosting applications: **15 January 2021**
+### Deadline
 
-### Submission forms
+Please get in touch as soon as possible to discus your ideas with the Steering Committee. Deadline for submitting a formal proposal: **15 January 2021**.
 
-* [Hosting NIME Hosting Proposal Form (doc)]({{site.baseurl}}/assets/NIME_Hosting_Proposal_Form.doc)
 
 
 ### Template for Hosting Proposal

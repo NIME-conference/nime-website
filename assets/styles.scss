@@ -53,12 +53,8 @@ $monospacetype: (
     box-sizing: border-box;
 }
 .collapse {
-  display: block;
-  max-height: 0px;
-  overflow: hidden;
-  /*transition: max-height .5s cubic-bezier(0, 1, 0, 1);*/
+  display: none;
 &.show {
-    max-height: 99em;
-    /*transition: max-height .5s ease-in-out;*/
+    display: block;
   }
 }

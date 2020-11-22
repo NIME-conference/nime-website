@@ -38,7 +38,7 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Diversity officers:
 	- [Laurel Pardue](https://www.qmul.ac.uk/eecs-temp/profiles/parduelaurel.html) (lead)
-	- Juan Pablo Martinez
+	- [Juan Pablo Martinez](https://zavilaz.wordpress.com/)
 * Environmental issues officers:
 	- [John Sullivan](http://www-new.idmil.org/people/john-sullivan/) (lead)
 	- [Adam Pultz Melbye](http://www.adampultz.com/)

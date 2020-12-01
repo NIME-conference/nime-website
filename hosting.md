@@ -8,7 +8,7 @@ The Steering Committee is looking for hosts for NIME 2022 and later. Previous co
 
 To succeed with a hub-based conference format, we would need to think differently about the organization. We are particularly encouraging collaboration between individuals and/or institutions around the world.
 
-If you are interested in hosting NIME, please get in touch with [Alexander Refsum Jensenius](http://www.hf.uio.no/imv/english/people/aca/alexanje/index.html), chair of the [Steering Committee](http://www.nime.org/committee/).
+If you are interested in hosting NIME, please get in touch with the Steering Committee (steering(æ)nime.org) or the [Chair](https://people.uio.no/alexanje).
 
 ### Deadline
 

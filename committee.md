@@ -14,6 +14,8 @@ The Steering Committee is responsible for [guiding the future direction](https:/
 * [Lamberto Coccioli](https://www.bcu.ac.uk/conservatoire/research/research-staff/lamberto-coccioli), Royal Birmingham Conservatoire (Chair NIME 2020)
 * [Sally-Jane Norman](https://people.wgtn.ac.nz/sallyjane.norman), Victoria University of Wellington (Chair NIME 2020)
 * [Gus Xia](https://shanghai.nyu.edu/academics/faculty/directory/gus-xia), NYU Shanghai (Chair NIME 2021)
+* [Margaret Minsky](https://shanghai.nyu.edu/academics/faculty/directory/margaret-minsky), NYU Shanghai (Chair NIME 2021)
+
 
 ## NIME Officers
 

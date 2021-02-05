@@ -6,7 +6,7 @@ feature_image: "assets/nime_banner.jpg"
 
 ### Upcoming Conference
 
-[**NIME2021**](http://nime2021.org/) will be hosted by NYU Shanghai, China, 1-4 June 2021.
+[**NIME2021**](http://nime2021.org/) will be hosted by NYU Shanghai, China, 15-18 June 2021.
 
 ### NIME
 

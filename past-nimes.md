@@ -26,10 +26,10 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2015](https://nime2015.lsu.edu/): Louisiana State University, Baton Rouge, Louisiana, USA
 *   [NIME 2016](https://web.archive.org/web/20161201181354/http://nime2016.org/): Griffith University, Brisbane, Australia
 *   [NIME 2017](http://www.nime2017.org/): Aalborg University Copenhagen, Denmark
-*   [NIME 2018](http://nime2018.org/): Blacksburg, VA, USA
+*   [NIME 2018](http://nime2018.icat.vt.edu/): Blacksburg, VA, USA
 *   [NIME 2019](https://www.ufrgs.br/nime2019/): Porto Alegre, Brazil
-* [NIME 2020](https://nime2020.bcu.ac.uk/): Birmingham, UK
-* [NIME 2021](http://nime2021.org/): Shanghai, China
+*   [NIME 2020](https://nime2020.bcu.ac.uk/): Birmingham, UK
+*   [NIME 2021](http://nime2021.org/): Shanghai, China
 
 {% include video.html id="JnLylwvWIpE" %}
 

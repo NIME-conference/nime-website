@@ -4,7 +4,7 @@ title: Hosting
 permalink: /hosting/
 ---
 
-The Steering Committee is looking for hosts for NIME 2022 and later. Previous conferences have usually been hosted by one institution (or a few geographically close ones). NIME 2020 was fully online, 2021 is planned as hybrid (physical+online). The Steering Committee is particularly interested in exploring a hub-based conference format in 2022.
+The Steering Committee is looking for hosts for NIME 2022 and later. Previous conferences have usually been hosted by one institution (or a few geographically close ones). NIME 2020 was fully online, 2021 is planned as hybrid (physical+online). The Steering Committee is particularly interested in exploring hub-based conference formats in 2022.
 
 To succeed with a hub-based conference format, we would need to think differently about the organization. We are particularly encouraging collaboration between individuals and/or institutions around the world.
 
@@ -12,7 +12,7 @@ If you are interested in hosting NIME, please get in touch with the Steering Com
 
 ### Deadline
 
-Please get in touch as soon as possible to discus your ideas with the Steering Committee. Deadline for submitting a formal proposal: **15 January 2021**.
+Please get in touch as soon as possible to discus your ideas with the Steering Committee. Deadline for submitting a formal proposal: **15 May 2021**.
 
 
 

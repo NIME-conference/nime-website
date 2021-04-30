@@ -12,6 +12,10 @@ From memory:
 2. `bundle install`
 3. `bundle exec jekyll serve`
 
+## Bibliography
+
+The NIME archives bibtex files are stored in a different repository. To copy them over here, run the [`get_publications.sh`](https://github.com/NIME-conference/nime-website/blob/master/get_publications.sh) script.
+
 ## Hosting
 
 - Custom domain [handled by netlify](https://www.netlify.com/docs/custom-domains/#dns-configuration).

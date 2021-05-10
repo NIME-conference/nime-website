@@ -1,24 +1,24 @@
-# Site settings
 title: NIME
 email: website@nime.org
 description: >- # this means to ignore newlines until "baseurl:"
   The International Conference on New Interfaces for Musical Expression
   gathers researchers and musicians from all over the world to share their
   knowledge and late-breaking work on new musical interface design.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nime.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://nime.org" 
 
-encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-logo: "/assets/logos/nime.png" # Site logo, also used in jekyll-seo-tag
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
-# google_analytics_anonymize_ip: ''
-# service_worker: false # Will turn off the service worker if set to false
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+encoding: utf-8 
+lang: en-GB 
+logo: "/assets/logos/nime.png"
+css_inline: true
 
+sass:
+  style: compressed
+permalink: pretty 
+excerpt_separator: <!-- more -->
+timezone: Europe/London
 
-# Build settings
 markdown: kramdown
 theme: alembic-jekyll-theme
 plugins:
@@ -44,9 +44,6 @@ scholar:
   bibliography_list_tag: "ul"
   bibliography_item_tag: "li"
 
-# # Pagination
-# paginate: 2 # jekyll-paginate > items per page
-# paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: nimeconf # jekyll-seo-tag > Owners twitter username
@@ -56,12 +53,13 @@ social: # jekyll-seo-tag > social overrides
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/nimeconf
     - https://github.com/NIMEconference
-# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
-# commonmark:
-  # options: ["SMART", "FOOTNOTES"]
-  # extensions: ["strikethrough", "autolink", "table"]
 
-# File excludes
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/nimeconf
+  GitHub: https://github.com/NIMEconference
+  link: http://nime.org
+  RSS: /feed.xml
+    
 exclude:
 - README.md
 - Gemfile
@@ -75,8 +73,6 @@ exclude:
 include:
 - _redirects
 
-
-# Header nav
 navigation_header:
 - title: Home
   url: /
@@ -97,63 +93,10 @@ navigation_header:
 - title: Forum
   url: https://forum.nime.org/
 
-# Footer nav
 navigation_footer:
 - title: Back to top
   url: "#top"
 
-# 1. Files excluded from Jekyll builds
-# exclude:
-# - README.md
-# - CODE_OF_CONDUCT.md
-# - CONTRIBUTING.md
-# - screenshot.png
-# - LICENSE
-# - CNAME
-# - Gemfile
-# - Gemfile.lock
-# - alembic-jekyll-theme.gemspec
-# - .jekyll-cache
-
-# 2. Installed Gems
-# plugins:
-# - jekyll-sitemap
-# - jekyll-mentions
-# - jekyll-paginate
-# - jekyll-seo-tag
-# - jekyll-redirect-from
-# - jekyll-feed
-# - jekyll-commonmark
-# - jekyll-include-cache
-# - jemoji
-
-# 3. Gem settings
-# paginate: 2 # jekyll-paginate > items per page
-# paginate_path: blog/page:num # jekyll-paginate > blog page
-# jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-# twitter:
-#   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-# author: DavidDarnes # jekyll-seo-tag > default author
-# social: # jekyll-seo-tag > social overrides
-#   name: David Darnes # jekyll-seo-tag > real name
-#   links:  # jekyll-seo-tag > social aliases (sameAs)
-#     - https://twitter.com/DavidDarnes
-#     - https://www.facebook.com/daviddarnes
-#     - https://www.linkedin.com/in/daviddarnes
-#     - https://github.com/daviddarnes
-# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
-# commonmark:
-  # options: ["SMART", "FOOTNOTES"]
-  # extensions: ["strikethrough", "autolink", "table"]
-
-# 4. Jekyll settings
-sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
-
-# 5. Collections
 collections:
   posts:
     title: Posts # Needed for Siteleaf
@@ -162,33 +105,7 @@ collections:
     feature_image: "/assets/headers/nime2010-ultrasonic.jpg"
     feature_text: ""
 
-# 6. Jekyll collections settings
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "/assets/default-social-image.png" # Default image for sharing
-
-# # 8. Site favicons & manifest icons
-# favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-#   16: '/assets/logos/logo@16px.png'
-#   32: '/assets/logos/logo@32px.png'
-#   96: '/assets/logos/logo@96px.png'
-#   120: '/assets/logos/logo@120px.png'
-#   144: '/assets/logos/logo@144px.png'
-#   180: '/assets/logos/logo@180px.png'
-#   512: '/assets/logos/logo@512px.png'
-#   1024: '/assets/logos/logo@1024px.png'
-
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/nimeconf
-  GitHub: https://github.com/NIMEconference
-  link: http://nime.org
-  RSS: /feed.xml
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+# sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+#   Twitter: "#0d94e7"
+#   facebook: "#3B5998"
+#   Email: true

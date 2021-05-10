@@ -7,7 +7,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://nime.org" 
 
-# google_analytics: ''
 encoding: utf-8 
 lang: en-GB 
 logo: "/assets/logos/nime.png"

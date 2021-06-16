@@ -81,7 +81,7 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2019: (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez
 * 2020: (Birmingham) Drake Music Labs, Lilja Maria Asmundsdottir, Crewdson & Cevanne, Dunning & Underwood
 * 2021: (Shanghai) Roger Dannenberg, Yann LeCun, AnnMarie Thomas
-* 
+
 ## Awards
 
 ### Pamela Z Award for Innovation

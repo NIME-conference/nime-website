@@ -35,8 +35,10 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 
 ## Conference Chairs
 
+This list only contains the general chairs for the NIME conferences. Each year there were also several other chairs (paper, music, installation, workshops, etc.).
+
 * 2001: Ivan Poupyrev and Michael J. Lyons and Sidney Fels and Tina Blaine
-* 2002: Joe Paradiso
+* 2002: Joe Paradiso and Sile O'Modhrain
 * 2003: Marcelo Wanderley
 * 2004: Yoichi Nagashima and Michael J. Lyons
 * 2005: Sidney Fels and Tina "Bean" Blaine
@@ -78,7 +80,8 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 * 2018: (Blacksburg) Onyx Ashanti, R. Benjamin Knapp, Ikue Mori, Pamela Z
 * 2019: (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez
 * 2020: (Birmingham) Drake Music Labs, Lilja Maria Asmundsdottir, Crewdson & Cevanne, Dunning & Underwood
-
+* 2021: (Shanghai) Roger Dannenberg, Yann LeCun, AnnMarie Thomas
+* 
 ## Awards
 
 ### Pamela Z Award for Innovation

@@ -30,6 +30,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2019](https://www.ufrgs.br/nime2019/): Porto Alegre, Brazil
 *   [NIME 2020](https://nime2020.bcu.ac.uk/): Birmingham, UK
 *   [NIME 2021](http://nime2021.org/): Shanghai, China
+* NIME 2022: Auckland, New Zealand
 
 {% include video.html id="JnLylwvWIpE" %}
 
@@ -57,6 +58,8 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2018: Ivica Ico Bukvic and Matthew Burtner
 * 2019: Rodrigo Schramm and Marcelo Johann
 * 2020: Lamberto Coccioli and Sally Jane Norman
+* 2021: Margaret Minsky and Gus Xia
+* 2022: Sasha Leitman and Fabio Morreale
 
 ## Keynote speakers
 
@@ -89,7 +92,8 @@ This list only contains the general chairs for the NIME conferences. Each year t
 This award recognizes a person who is doing significant work that improves the discussion about diversity in NIME - either through their research, connecting people or through actions such as organisation and awareness. It was named after Pamela Z because she was a keynote in the founding year, because she is a pioneer in this field and an extraordinary artist, and because spending time each NIME thinking about an award named after a prolific African American woman is a way of continually highlighting the value of her work, and representing voices that are often invisible in the community.
 
 * 2018: [Sarah Belle Reid](https://www.sarahbellereid.com/)
-* 2019: [Margaret Schedel](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/) | 
+* 2019: [Margaret Schedel](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/) |
 *Honorary Mention: [Ximena Alarcón Díaz](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2019/)*
-* 2020: [Doga Cavdir](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/) | 
+* 2020: [Doga Cavdir](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/) |
 *Honorary Mention: [Patricia Cadavid Hinojosa](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/)*
+* 2021: João Tragtenberg | *Honorary Mention: Abby Aresty*

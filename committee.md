@@ -15,6 +15,8 @@ The Steering Committee is responsible for [guiding the future direction](https:/
 * [Sally-Jane Norman](https://people.wgtn.ac.nz/sallyjane.norman), Victoria University of Wellington (Chair NIME 2020)
 * [Gus Xia](https://shanghai.nyu.edu/academics/faculty/directory/gus-xia), NYU Shanghai (Chair NIME 2021)
 * [Margaret Minsky](https://shanghai.nyu.edu/academics/faculty/directory/margaret-minsky), NYU Shanghai (Chair NIME 2021)
+* [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale), University of Auckland (Chair NIME 2022)
+* [Sasha Leitman](https://ecs.wgtn.ac.nz/Main/GradSashaLeitman), Victoria University of Wellington (Chair NIME 2022)
 
 
 ## NIME Officers
@@ -34,8 +36,11 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Balandino Di Donato](https://www.balandinodidonato.com/)
 * Music proceedings archive officer:
 	- [Federico Visi](https://www.federicovisi.com/)
-* Ethics officer:
+* Ethics officers:
+	- [Nicolas Gold](https://iris.ucl.ac.uk/iris/browse/profile?upi=NGOLD19) (lead)
 	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
+	- [Cécile Chevalier](https://profiles.sussex.ac.uk/p235751-cecile-chevalier)
+	- [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)
 * Forum officer:
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Diversity officers:

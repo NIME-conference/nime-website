@@ -12,4 +12,9 @@
 /2012/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2012/:splat 200!
 /2013/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2013/:splat 200!
 /2014/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2014/:splat 200!
+/2017/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2017/:splat 200!
+/2018/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2018/:splat 200!
+/2019/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2019/:splat 200!
+/2020/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2020/:splat 200!
+/2021/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2021/:splat 200!
 /proceedings/* https://s3.us-east-1.amazonaws.com/nime-conf-proceedings/proceedings/:splat 200!

@@ -28,6 +28,7 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 * Web page officer:
 	- [Charles Martin](https://cecs.anu.edu.au/people/charles-martin)
 * WiNIME officer:
+	- Isabel Corintha Almeida
 	- [Anna Xambó](http://annaxambo.me/)
 * Paper proceedings archive officer:
 	- [Benedikte Wallace](https://www.uio.no/ritmo/english/people/phd-fellows/benediwa/) (lead)

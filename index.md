@@ -9,7 +9,6 @@ feature_image: "assets/nime_banner.jpg"
 [**NIME2023**](http://nime2023.org/) will be held in Mexico City 31 May -- 2 June 2023.
 
 <iframe src="https://player.vimeo.com/video/725772960?h=329de75202" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/725772960">NimeMexico2023</a> from <a href="https://vimeo.com/user10975203">Hugo Solis</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### NIME
 

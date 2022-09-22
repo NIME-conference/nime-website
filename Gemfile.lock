@@ -32,7 +32,7 @@ GEM
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.6)
     colorator (1.1.0)
-    commonmarker (0.23.5)
+    commonmarker (0.23.6)
     concurrent-ruby (1.1.10)
     csl (1.6.0)
       namae (~> 1.0)

@@ -4,6 +4,9 @@ title: NIME Principles & Code of Practice on Ethical Research
 permalink: /ethics/
 date: 2020-11-18
 ---
+Cite as:
+Morreale, Fabio, Gold, Nicolas, Chevalier, Cécile, & Masu, Raul. (2023). NIME Principles & Code of Practice on Ethical Research (1.1). Zenodo. https://doi.org/10.5281/zenodo.7545682
+-------------------------
 
 ## Short version
 
@@ -74,7 +77,7 @@ commit to higher ethical standards with each new submission.
 
 ### Accessibility
 
--   Authors should seek inclusivity in the mode of production and engagement, where differently-abled individuals (e.g. people with a learning disability, people with impairments, etc.) can access or benefit from the technology and take part in the research and/or artistic process.
+-   Authors should seek inclusivity in the mode of production and engagement, such that all individuals can access or benefit from the technology and take part in the research and/or artistic process.
 
 ### Environmental
 
@@ -287,8 +290,8 @@ Principles & Code of Practice in chairing & peer reviewing
 
 -------------------------
 
-- Version: 1.0
-- Date: 18 November 2020
+- Version: 1.1
+- Date: 18 January 2023
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Description: First version, released for NIME2021
 - Authors: Fabio Morreale, Nicolas Gold, Cécile Chevalier, Raul Masu

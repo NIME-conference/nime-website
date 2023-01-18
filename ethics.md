@@ -4,6 +4,7 @@ title: NIME Principles & Code of Practice on Ethical Research
 permalink: /ethics/
 date: 2020-11-18
 ---
+
 Cite as:
 Morreale, Fabio, Gold, Nicolas, Chevalier, Cécile, & Masu, Raul. (2023). NIME Principles & Code of Practice on Ethical Research (1.1). Zenodo. https://doi.org/10.5281/zenodo.7545682
 -------------------------

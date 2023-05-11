@@ -23,14 +23,23 @@ theme: alembic-jekyll-theme
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
-- jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-- jekyll-scholar
+- jekyll-datapage-generator
+
+page_gen:
+- data: nime_papers
+  template: paper
+  dir: proc
+  index_files: true
+  name: ID
+  title: title
+  extension: html 
+  debug: true 
 
 scholar:
   style: "/assets/acm-sigchi-proceedings.csl"

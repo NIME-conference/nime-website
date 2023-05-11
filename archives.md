@@ -17,7 +17,9 @@ This page contains a list of all publications that have been published at the NI
 
 ## NIME publications (in backwards chronological order)
 
+{% comment %}
 {% bibliography --file nime_papers %}
+{% endcomment %}
 
 <script>
 // map our commands to the classList methods

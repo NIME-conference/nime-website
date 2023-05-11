@@ -6,7 +6,9 @@ permalink: /music/
 
 This page contains a list of peer-reviewed music performed at NIME conferences. (_N.B.: this list is currently incomplete. We are currently assembling music proceedings from previous NIMEs_)
 
+{% comment %}
 {% bibliography --file nime_music %}
+{% endcomment %}
 
 <script>
 // map our commands to the classList methods

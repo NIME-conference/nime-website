@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Mentorship
+title: Mentorship Program
 permalink: /mentorship/
 ---
 
 
-
-# Mentorship Program - Call for Applications
 The objective of the NIME mentorship program is to increase the inclusiveness of our community by helping NIME newcomers, especially underrepresented groups and non-English speakers, to be onboarded in the NIME discourse. A mentor is expected to help a newcomer (mentee) positioning her/his work within the NIME discourse and the mentorship would result in a co-authored NIME submission.
 
 Si necesitas una traducción al Español por favor contacta a 
@@ -56,13 +54,13 @@ in terms of expertise and in terms of whom she/he/they would like to mentor as w
 <br>
 Application form link at the end of this page.
 
-## Important Dates and submission information
+## Important Dates and submission information (2023)
 The following timeline assumes the usual NIME deadline (end of January)
 15th September - deadline for the open call to request a mentor and to volunteer to be a mentor
 24th September - notification to mentors and mentees about the selection and the coupling
 
 Submission of the material should be made via the following forms:
-
+Mentorship Program - Call for Applications
 - [Apply to become a Mentee](https://vault.oddworlds.org/apps/forms/s/7dbcbBLk8TrjZSk6AG3oyWdy)
 - [Apply to become  Mentor](https://vault.oddworlds.org/apps/forms/s/BfkC5xLjmHNaLP3g8ASzMy5a)
 

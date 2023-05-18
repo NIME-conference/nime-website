@@ -92,7 +92,7 @@ navigation_header:
 - title: Forum
   url: https://forum.nime.org/
 - title: Mentorship
-  url: /mentorship/
+  url: /mentorship.md/
 
 navigation_footer:
 - title: Back to top

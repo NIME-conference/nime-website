@@ -55,7 +55,7 @@ The following timeline assumes the usual NIME deadline (end of January)
 
 Submission of the material should be made via the following forms:
 
-- [Apply to become a Mentee]()
-- [Apply to become  Mentor]()
+- [Apply to become a Mentee](https://vault.oddworlds.org/apps/forms/s/7dbcbBLk8TrjZSk6AG3oyWdy)
+- [Apply to become  Mentor](https://vault.oddworlds.org/apps/forms/s/BfkC5xLjmHNaLP3g8ASzMy5a)
 
 If you have any questions, doubts, or suggestions feel free to contact [Raul Masu](raul@raulmasu.org)

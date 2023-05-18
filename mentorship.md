@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Statements
-permalink: /statements/
+title: Mentorship
+permalink: /mentorship/
 ---
 
 

@@ -91,8 +91,8 @@ navigation_header:
   url: /statements/
 - title: Forum
   url: https://forum.nime.org/
-#- title: Mentorship
-#  url: /mentorship/
+- title: Mentorship
+  url: /mentorship/
 
 navigation_footer:
 - title: Back to top

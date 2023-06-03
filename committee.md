@@ -17,10 +17,27 @@ The Steering Committee is responsible for [guiding the future direction](https:/
 * [Sally-Jane Norman](https://people.wgtn.ac.nz/sallyjane.norman)  (Chair NIME 2020)
 * Chairs NIME 2024
 
+## Issue-specific Committees
+There are currently three committees that deal with specific issues related to the conference itself and the community.
+### Ethics Committee:
+* [Nicolas Gold](http://www0.cs.ucl.ac.uk/staff/n.gold/) (chair)
+* [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
+* [Raul Masu](https://raulmasu.org/)
+* [Cecile Chevalier](http://cecilechevalier.net/)
+
+### Diversity Committee:
+* [Laurel Pardue](https://www.qmul.ac.uk/eecs-temp/profiles/parduelaurel.html) (chair)
+* [Juan Pablo Martinez](https://zavilaz.wordpress.com/)
+
+### Environmental Committee:
+* [John Sullivan](http://www-new.idmil.org/people/john-sullivan/) (chair)
+* [Adam Pultz Melbye](http://www.adampultz.com/)
+* [Raul Masu](https://raulmasu.org/)
+	
 
 ## NIME Officers
 
-The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences (see [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/officers) for details). It is composed of volunteers from the NIME community.
+The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences (see [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/officers) for details). 
 
 * Mailing list officers:
 	- [Andrew Johnston](http://andrewjohnston.net/) (lead)
@@ -35,23 +52,11 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Alexander Refsum Jensenius](http://www.arj.no)
 	- [Balandino Di Donato](https://www.balandinodidonato.com/)
 	- [Federico Visi](https://www.federicovisi.com/)
-* Ethics officers:
-	- [Nicolas Gold](http://www0.cs.ucl.ac.uk/staff/n.gold/)
-	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
-	- [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)
-	- [Cecile Chevalier](http://cecilechevalier.net/)
 * Forum officer:
 	- [S. Astrid Bin](https://www.astridbin.com/)
-* Diversity officers:
-	- [Laurel Pardue](https://www.qmul.ac.uk/eecs-temp/profiles/parduelaurel.html) (lead)
-	- [Juan Pablo Martinez](https://zavilaz.wordpress.com/)
-* Environmental issues officers:
-	- [John Sullivan](http://www-new.idmil.org/people/john-sullivan/) (lead)
-	- [Adam Pultz Melbye](http://www.adampultz.com/)
-	- [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)
 * Sponsorship officer
 	- To be filled
-	- 
+
 ## Advisory Board
 
 The Advisory Board consists of former chairs, and serve as support for the Steering Committee:

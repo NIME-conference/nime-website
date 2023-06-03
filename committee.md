@@ -13,11 +13,9 @@ The Steering Committee is responsible for [guiding the future direction](https:/
 * [Ico Bukvic](http://imi.aau.dk/~sts/) (Chair NIME 2018)
 * [Hugo Solís](http://hugosolis.net/en) (Chair NIME 2023)
 * [Eric Pérez Segura](https://mx.linkedin.com/in/eric-p%C3%A9rez-segura-358b919b) (Chair NIME 2023)
-* [Rodrigo Schramm](http://professor.ufrgs.br/rschramm) (Chair NIME 2019)
 * [Lamberto Coccioli](https://www.bcu.ac.uk/conservatoire/research/research-staff/lamberto-coccioli) (Chair NIME 2020)
 * [Sally-Jane Norman](https://people.wgtn.ac.nz/sallyjane.norman)  (Chair NIME 2020)
-* [Gus Xia](https://shanghai.nyu.edu/academics/faculty/directory/gus-xia) (Chair NIME 2021)
-* [Margaret Minsky](https://shanghai.nyu.edu/academics/faculty/directory/margaret-minsky) (Chair NIME 2021)
+* Chairs NIME 2024
 
 
 ## NIME Officers
@@ -37,8 +35,11 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Alexander Refsum Jensenius](http://www.arj.no)
 	- [Balandino Di Donato](https://www.balandinodidonato.com/)
 	- [Federico Visi](https://www.federicovisi.com/)
-* Ethics officer:
+* Ethics officers:
+	- [Nicolas Gold](http://www0.cs.ucl.ac.uk/staff/n.gold/)
 	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
+	- [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)
+	- [Cecile Chevalier](http://cecilechevalier.net/)
 * Forum officer:
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Diversity officers:
@@ -49,7 +50,8 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Adam Pultz Melbye](http://www.adampultz.com/)
 	- [Raul Masu](https://www.researchgate.net/profile/Raul_Masu2)
 * Sponsorship officer
-
+	- To be filled
+	- 
 ## Advisory Board
 
 The Advisory Board consists of former chairs, and serve as support for the Steering Committee:

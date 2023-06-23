@@ -1,18 +1,63 @@
+<!-- copied out of alembic's default template. -->
 <!doctype html>
-<html>
-	<head>
-	</head>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
+    <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
+		<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
+		{% include site-before-start.html %}
+  </head>
+
 	<body>
-		<h1>{{ page.title }}</h1>
-		<h4>{{page.author }}</h4>
-		<p>{{ page.booktitle }}</p>
-		<ul>
-			<li>{{ page.address }}</li>
-			<li><a href="https://doi.org/{{page.doi}}">{{ page.doi }}</a></li>
-			<li>{{ page.pages }}</li>
-			<li>{{ page.year }}</li>
-			<li><a href="{{ page.url }}">PDF link</a></li>
-		</ul>
-		<p>{{ page.abstract }}</p>
+		<!-- Liquid script to create comma-separated formatted names. -->
+		{% assign author_names = page.author | split: " and " %}
+		{% assign formatted_names = "" %}
+		{% for name in author_names %}
+		{%- if forloop.length > 1 -%}
+			{%- if forloop.last -%}
+				{% assign formatted_names = formatted_names | append: "and " %}
+			{%- endif -%}
+		{%- endif -%}
+
+			{% assign name_split = name | split: ", " %}
+			{% if name_split[1] %}
+				{% assign formatted_names = formatted_names | append: name_split[1] %}
+				{% assign formatted_names = formatted_names | append: " " %}
+			{% endif %}
+			{% assign formatted_names = formatted_names | append: name_split[0] %}
+			{%- if forloop.last != true -%}
+				{% assign formatted_names = formatted_names | append: ", " %}
+			{%- endif -%}
+		{% endfor %}
+
+		{% include site-header.html %}
+		<main class="main container">
+			<article class="article article--page content typeset">
+				<h1>{{ page.title }}</h1>
+				<h4>{{formatted_names}}</h4>
+				<p>{{ page.booktitle }}</p>
+				<ul>
+					<li>Year: {{ page.year }}</li>
+					<li>Location: {{ page.address }}</li>
+					<li>Pages: {{ page.pages }}</li>
+					<li>DOI: <a href="https://doi.org/{{page.doi}}">{{ page.doi }}</a></li>
+					<li><a href="{{ page.url }}">PDF link</a></li>
+				</ul>
+				<h2>Abstract:</h2>
+				<p>{{ page.abstract }}</p>
+				<h2>Citation:</h2>
+				{{ formatted_names }}. {{ page.year }}. {{ page.title }}. <em>{{ page.booktitle }}</em>. DOI: <a href="https://doi.org/{{page.doi}}">{{ page.doi }}</a>
+			</article>
+		</main>
+		{% include site-footer.html %}
 	</body>
 </html>
+
+
+
+<!-- 
+
+ -->

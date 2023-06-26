@@ -146,6 +146,159 @@
   year: 2009
 
 
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Farshi2008
+  address: 'Genova, Italy'
+  author: Olly Farshi
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Habitat
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Talman2008
+  address: 'Genova, Italy'
+  author: Jeff Talman
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: MIRROR OF THE MOON
+  url: www.jefftalman.com
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Paek2008
+  address: 'Genova, Italy'
+  author: JooYoun Paek
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Fold Loud
+  url: https://shakethatbutton.com/fold-loud/
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Newby2008
+  address: 'Genova, Italy'
+  author: 'Kenneth Newby, Aleksandra Dulic and Martin Gotfrit'
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: in a thousand drops... refracted glances
+  url: http://aleksandradulic.net/Projects/1000/1000.html
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Lamenzo2008
+  address: 'Genova, Italy'
+  author: 'Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli'
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Soundscaper
+  url: http://mediatedspaces/lib/mov/soundscaperlow.mov.
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Napolitano2008
+  address: 'Genova, Italy'
+  author: 'Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda'
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: SoundBarrier_
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Majoe2008
+  address: 'Genova, Italy'
+  author: Art Clay & Dennis Majoe
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: China Gates
+  url: http://mypage.bluewin.ch/artclay
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-Norderval2011
+  address: 'Oslo, Norway'
+  author: Kristin Norderval
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: TURN ME! I need 12 Volts!
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-2011
+  address: 'Oslo, Norway'
+  author: Nicolas d'Alessandro and Roberto Calderon
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: "ROOM\\#81"
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-Peschta2011
+  address: 'Oslo, Norway'
+  author: Leo Peschta
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: BM 0.1
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-Andersson2011
+  address: 'Oslo, Norway'
+  author: 'MusicalFieldsForever – Anders-Petter Andersson, Birgitta Cappelen, Fredrik
+    Olofsson'
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: ORFI
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
 - ENTRYTYPE: incollection
   ID: nime2012-installations-Kotin2012
   abstract: "Program notes:\n\nWhisker Organ is an interactive sound instrument linking\
@@ -203,25 +356,25 @@
     \ for her audio/ visual works and performances, and remains active in total-art\
     \ work projects in the field of art and the perception of reality. Her projects\
     \ have been presented at the 3rd Athens Biennial, Kubus ZKM Karlsruhe, Athens\
-    \ Music Hall, 11th and 12th BjCEM Association Biennale des Jeunes Cr\\'{e}ateurs\
-    \ Europe (as both music-composer and visual artist), and she has participated\
-    \ in the theatrical Scene of Berlin as member of Ilona Zarypow`s ``Talking Bodies''\
-    \ performance group. Having studied at Athens University (Ph.D), Institute for\
-    \ Computer Music and Sound Technology, ZHdK (CAS in Computer-Music), Institute\
-    \ for Art in Context UdK Berlin (Master of Arts), University of Arts in Athens,\
-    \ Athens Conservatory and Patras Music School (Diploma in Painting, Music-Composition\
-    \ and Piano). Aura is her currently research Project in ICST, Zurich.\n\nJan Schacher:\
-    \ A doublebass-player, composer and digital artist, Jan Schacher (jan.schacher@zhdk.ch)\
-    \ is active in electronic and exploratory music, in jazz, contemporary music,\
-    \ performance and installation art as well as writing music for chamber-ensembles,\
-    \ theatre and film. His main focus is on works combining digital sound and images,\
-    \ abstract graphics and experimental video in the field of electro-acoustic music\
-    \ and in mixed-media projects for the stage and in installations.\nJan Schacher\
-    \ has been invited as artist and lecturer to numerous cultural and academic institutions\
+    \ Music Hall, 11th and 12th BjCEM Association Biennale des Jeunes Créateurs Europe\
+    \ (as both music-composer and visual artist), and she has participated in the\
+    \ theatrical Scene of Berlin as member of Ilona Zarypow`s ``Talking Bodies'' performance\
+    \ group. Having studied at Athens University (Ph.D), Institute for Computer Music\
+    \ and Sound Technology, ZHdK (CAS in Computer-Music), Institute for Art in Context\
+    \ UdK Berlin (Master of Arts), University of Arts in Athens, Athens Conservatory\
+    \ and Patras Music School (Diploma in Painting, Music-Composition and Piano).\
+    \ Aura is her currently research Project in ICST, Zurich.\n\nJan Schacher: A doublebass-player,\
+    \ composer and digital artist, Jan Schacher (jan.schacher@zhdk.ch) is active in\
+    \ electronic and exploratory music, in jazz, contemporary music, performance and\
+    \ installation art as well as writing music for chamber-ensembles, theatre and\
+    \ film. His main focus is on works combining digital sound and images, abstract\
+    \ graphics and experimental video in the field of electro-acoustic music and in\
+    \ mixed-media projects for the stage and in installations.\nJan Schacher has been\
+    \ invited as artist and lecturer to numerous cultural and academic institutions\
     \ and has presented installations in galleries and performances in clubs and at\
-    \ festivals such as R\\'{e}sonance Festival (Paris), Sonar Festival (Barcelona),\
-    \ Transmediale Festival (Berlin), the Holland Festival (Amsterdam) and many other\
-    \ venues throughout Europe, North America, Australia and Asia."
+    \ festivals such as Résonance Festival (Paris), Sonar Festival (Barcelona), Transmediale\
+    \ Festival (Berlin), the Holland Festival (Amsterdam) and many other venues throughout\
+    \ Europe, North America, Australia and Asia."
   address: 'Ann Arbor, Michigan, U.S.A.'
   author: Esther Lemi and Jan Schacher
   booktitle: Installation Proceedings of the International Conference on New Interfaces
@@ -332,13 +485,13 @@
     \ Hors holds a degree in Systems Engineering from Universidad ORT Uruguay. Combining\
     \ her background as a developer, interaction designer and musician, her work uses\
     \ technology to explore the ground between composition (non-interactive) and musical\
-    \ instrument (fully interactive).\n\nM\\'{o}nica Bate holds a degree in Fine Arts\
-    \ from Universidad de Chile. Her personal work, which has been exhibited in Chile\
-    \ and other Latin American countries, focuses on creating narratives using sound\
-    \ as a matter of expression, reflection and representation.\n\nJohann Diedrick:\
-    \ A writer and a musician, Johann Diedrick studied Sociology of Culture at the\
-    \ University of Pennsylvania. He is interested in using technology to reconsider\
-    \ musical performance and the experience of listening."
+    \ instrument (fully interactive).\n\nMónica Bate holds a degree in Fine Arts from\
+    \ Universidad de Chile. Her personal work, which has been exhibited in Chile and\
+    \ other Latin American countries, focuses on creating narratives using sound as\
+    \ a matter of expression, reflection and representation.\n\nJohann Diedrick: A\
+    \ writer and a musician, Johann Diedrick studied Sociology of Culture at the University\
+    \ of Pennsylvania. He is interested in using technology to reconsider musical\
+    \ performance and the experience of listening."
   address: 'Ann Arbor, Michigan, U.S.A.'
   author: Luisa Pereira~Hors and Monica Bate and Johann Diedrick
   booktitle: Installation Proceedings of the International Conference on New Interfaces
@@ -454,7 +607,7 @@
     \ with Daniel Asia (Summitt Records) was one of the first surround-sound audio\
     \ DVDs in the United States. Kip's works have received recent performances in\
     \ New York City; Chicago; Detroit; Los Angeles; Houston; Eugene; San Francisco;\
-    \ Toronto, Canada, Tel Aviv, Israel; Paris, France; and L\\\"{u}beck, Germany."
+    \ Toronto, Canada, Tel Aviv, Israel; Paris, France; and Lübeck, Germany."
   address: 'Ann Arbor, Michigan, U.S.A.'
   author: Nolan Lem and Tristan Telander and Kip Haaheim
   booktitle: Installation Proceedings of the International Conference on New Interfaces
@@ -530,156 +683,3 @@
     University of Michigan'
   title: Cor Cordis
   year: 2012
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-Norderval2011
-  address: 'Oslo, Norway'
-  author: Kristin Norderval
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: TURN ME! I need 12 Volts!
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-2011
-  address: 'Oslo, Norway'
-  author: Nicolas d'Alessandro and Roberto Calderon
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: "ROOM\\#81"
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-Peschta2011
-  address: 'Oslo, Norway'
-  author: Leo Peschta
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: BM 0.1
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-Andersson2011
-  address: 'Oslo, Norway'
-  author: 'MusicalFieldsForever – Anders-Petter Andersson, Birgitta Cappelen, Fredrik
-    Olofsson'
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: ORFI
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Farshi2008
-  address: 'Genova, Italy'
-  author: Olly Farshi
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Habitat
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Talman2008
-  address: 'Genova, Italy'
-  author: Jeff Talman
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: MIRROR OF THE MOON
-  url: www.jefftalman.com
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Paek2008
-  address: 'Genova, Italy'
-  author: JooYoun Paek
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Fold Loud
-  url: https://shakethatbutton.com/fold-loud/
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Newby2008
-  address: 'Genova, Italy'
-  author: 'Kenneth Newby, Aleksandra Dulic and Martin Gotfrit'
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: in a thousand drops... refracted glances
-  url: http://aleksandradulic.net/Projects/1000/1000.html
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Lamenzo2008
-  address: 'Genova, Italy'
-  author: 'Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli'
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Soundscaper
-  url: http://mediatedspaces/lib/mov/soundscaperlow.mov.
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Napolitano2008
-  address: 'Genova, Italy'
-  author: 'Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda'
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: SoundBarrier_
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Majoe2008
-  address: 'Genova, Italy'
-  author: Art Clay & Dennis Majoe
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: China Gates
-  url: http://mypage.bluewin.ch/artclay
-  year: 2008

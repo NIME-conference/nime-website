@@ -17,6 +17,8 @@ This page contains a list of all publications that have been published at the NI
 
 ## NIME publications (in backwards chronological order)
 
+{{ "Davis2019" | datapage_url: "proc" }}
+
 {% comment %}
 {% bibliography --file nime_papers %}
 {% endcomment %}

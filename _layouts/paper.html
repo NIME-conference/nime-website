@@ -13,7 +13,7 @@
 
 	<body>
 		<!-- Liquid script to create comma-separated formatted names. -->
-		{% assign author_names = page.author | split: " and " %}
+		{% assign author_names = page.entry.author | split: " and " %}
 		{% assign formatted_names = "" %}
 		{% for name in author_names %}
 		{%- if forloop.length > 1 -%}
@@ -36,20 +36,20 @@
 		{% include site-header.html %}
 		<main class="main container">
 			<article class="article article--page content typeset">
-				<h1>{{ page.title }}</h1>
+				<h1>{{ page.entry.title }}</h1>
 				<h4>{{formatted_names}}</h4>
-				<p>{{ page.booktitle }}</p>
+				<p>{{ page.entry.booktitle }}</p>
 				<ul>
-					<li>Year: {{ page.year }}</li>
-					<li>Location: {{ page.address }}</li>
-					<li>Pages: {{ page.pages }}</li>
-					<li>DOI: <a href="https://doi.org/{{page.doi}}">{{ page.doi }}</a></li>
-					<li><a href="{{ page.url }}">PDF link</a></li>
+					<li>Year: {{ page.entry.year }}</li>
+					<li>Location: {{ page.entry.address }}</li>
+					<li>Pages: {{ page.entry.pages }}</li>
+					<li>DOI: <a href="https://doi.org/{{page.entry.doi}}">{{ page.entry.doi }}</a></li>
+					<li><a href="{{ page.entry.url }}">PDF link</a></li>
 				</ul>
 				<h2>Abstract:</h2>
-				<p>{{ page.abstract }}</p>
+				<p>{{ page.entry.abstract }}</p>
 				<h2>Citation:</h2>
-				{{ formatted_names }}. {{ page.year }}. {{ page.title }}. <em>{{ page.booktitle }}</em>. DOI: <a href="https://doi.org/{{page.doi}}">{{ page.doi }}</a>
+				{{ formatted_names }}. {{ page.entry.year }}. {{ page.entry.title }}. <em>{{ page.entry.booktitle }}</em>. DOI: <a href="https://doi.org/{{page.entry.doi}}">{{ page.entry.doi }}</a>
 			</article>
 		</main>
 		{% include site-footer.html %}

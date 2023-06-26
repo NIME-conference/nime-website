@@ -39,6 +39,7 @@ page_gen:
   name: ID
   title: title
   extension: html 
+  page_data_prefix: entry
   debug: true 
 
 scholar:

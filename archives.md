@@ -2,6 +2,8 @@
 layout: page
 title: Proceedings Archive
 permalink: /archives/
+first_year: 2001
+last_year: 2022
 ---
 
 This page contains a list of all publications that have been published at the NIME conferences.
@@ -17,7 +19,28 @@ This page contains a list of all publications that have been published at the NI
 
 ## NIME publications (in backwards chronological order)
 
-{{ "Davis2019" | datapage_url: "proc" }}
+{% assign nime_years = (page.first_year .. page.last_year) %}
+{% for i in nime_years reversed %}
+<h3>{{ i }}</h3>
+{% assign year_entries = site.data.nime_papers | where: "year", i %}
+
+<ul>
+{% for entry in year_entries %}
+{% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+<li>{% include citation.html entry=entry link=entry_url %}</li>
+{% endfor %}
+</ul>
+
+{% endfor %}
+
+{% comment %}
+<ul>
+{% for entry in site.data.nime_papers %}
+{% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+<li>{% include citation.html entry=entry link=entry_url %}</li>
+{% endfor %}
+</ul>
+{% endcomment %}
 
 {% comment %}
 {% bibliography --file nime_papers %}

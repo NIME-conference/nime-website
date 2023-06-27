@@ -2,8 +2,6 @@
 layout: page
 title: Proceedings Archive
 permalink: /archives/
-first_year: 2001
-last_year: 2022
 ---
 
 This page contains a list of all publications that have been published at the NIME conferences.
@@ -19,17 +17,23 @@ This page contains a list of all publications that have been published at the NI
 
 ## NIME publications (in backwards chronological order)
 
-{% assign nime_years = (page.first_year .. page.last_year) %}
+<!-- This liquid code sets up a list of years up to now (this year) and generates lists of bib entries for each year. Empty years are not listed. -->
+{% assign first_year = 2001 %}
+{% assign current_year = "now" | date: "%Y" %}
+{% assign nime_years = (first_year .. current_year) %}
 {% for i in nime_years reversed %}
-<h3>{{ i }}</h3>
-{% assign year_entries = site.data.nime_papers | where: "year", i %}
 
-<ul>
-{% for entry in year_entries %}
-{% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
-<li>{% include citation.html entry=entry link=entry_url %}</li>
-{% endfor %}
-</ul>
+  {% assign year_entries = site.data.nime_papers | where: "year", i %}
+  {% unless year_entries == empty %}
+    <h3>{{ i }}</h3>
+
+    <ul>
+    {% for entry in year_entries %}
+      {% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+      <li>{% include citation.html entry=entry link=entry_url %}</li>
+    {% endfor %}
+    </ul>
+  {% endunless %}
 
 {% endfor %}
 

@@ -20,16 +20,4 @@
     {% assign formatted_names = formatted_names | append: ", " %}
   {%- endif -%}
 {% endfor %}
-{{ formatted_names }}. {{ include.entry.year }}. 
-{% if include.boldtitle %}<b>{% endif %}
-{% if include.link %}<a href="{{ include.link }}">{% endif %}
-{{ include.entry.title }}. 
-{% if include.boldtitle %}</b>{% endif %}
-{% if include.link %}</a>{% endif %}
-<em>{{ include.entry.booktitle }}</em>. 
-DOI: <a href="https://doi.org/{{include.entry.doi}}">{{ include.entry.doi }}</a>
-
-{% comment %}
-Pages, other links? article no?
-{{ include.entry.pages | replace: "--", "&ndash;" }}
-{% endcomment %}
+{{ formatted_names }}

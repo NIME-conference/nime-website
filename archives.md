@@ -23,17 +23,17 @@ This page contains a list of all publications that have been published at the NI
 {% assign nime_years = (first_year .. current_year) %}
 {% for i in nime_years reversed %}
 
-  {% assign year_entries = site.data.nime_papers | where: "year", i %}
-  {% unless year_entries == empty %}
-    <h3>{{ i }}</h3>
+{% assign year_entries = site.data.nime_papers | where: "year", i %}
+{% unless year_entries == empty %}
+<h3>{{ i }}</h3>
 
-    <ul>
-    {% for entry in year_entries %}
-      {% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
-      <li>{% include citation.html entry=entry link=entry_url %}</li>
-    {% endfor %}
-    </ul>
-  {% endunless %}
+<ul>
+{% for entry in year_entries %}
+{% capture entry_url %}{{ entry.ID | datapage_url: "proc" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+<li>{% include citation.html entry=entry link=entry_url %}</li>
+{% endfor %}
+</ul>
+{% endunless %}
 
 {% endfor %}
 

@@ -9,58 +9,51 @@
 		<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 		{% include site-before-start.html %}
+		<!-- start bibliography metadata -->
+		{% include entry_metadata.html entry=page.entry %}
+		<!-- end bibliography metadata -->
   </head>
 
 	<body>
-		<!-- Liquid script to create comma-separated formatted names. -->
-		{% assign author_names = page.entry.author | split: " and " %}
-		{% assign formatted_names = "" %}
-		{% for name in author_names %}
-		{%- if forloop.length > 1 -%}
-			{%- if forloop.last -%}
-				{% assign formatted_names = formatted_names | append: "and " %}
-			{%- endif -%}
-		{%- endif -%}
-
-			{% assign name_split = name | split: ", " %}
-			{% if name_split[1] %}
-				{% assign formatted_names = formatted_names | append: name_split[1] %}
-				{% assign formatted_names = formatted_names | append: " " %}
-			{% endif %}
-			{% assign formatted_names = formatted_names | append: name_split[0] %}
-			{%- if forloop.last != true -%}
-				{% assign formatted_names = formatted_names | append: ", " %}
-			{%- endif -%}
-		{% endfor %}
-
 		{% include site-header.html %}
 		<main class="main container">
 			<article class="article article--page content typeset">
+				
 				<h1>{{ page.entry.title }}</h1>
-				<h4>{{formatted_names}}</h4>
+				
+				<h4>{% include author_names.html entry=page.entry %}</h4>
+				
 				<p>{{ page.entry.booktitle }}</p>
+				
 				<ul>
-					<li>Year: {{ page.entry.year }}</li>
-					<li>Location: {{ page.entry.address }}</li>
-					<li>Pages: {{ page.entry.pages }}</li>
-					<li>DOI: <a href="https://doi.org/{{page.entry.doi}}">{{ page.entry.doi }}</a></li>
-					<li><a href="{{ page.entry.url }}">PDF link</a></li>
+					{% if page.entry.year %}<li>Year: {{ page.entry.year }}</li>{% endif %}
+					{% if page.entry.address %}<li>Location: {{ page.entry.address }}</li>{% endif %}
+					{% if page.entry.track %}<li>Track: {{ page.entry.track }}</li>{% endif %}
+					{% if page.entry.pages %}<li>Pages: {{ page.entry.pages | replace: "--", "&ndash;"}}</li>{% endif %}
+					{% if page.entry.articleno %}<li>Article Number: {{ page.entry.articleno }}</li>{% endif %}
+					{% if page.entry.keywords %}<li>Keywords: {{ page.entry.keywords }}</li>{% endif %}
+					{% if page.entry.doi %}<li>DOI: <a href="https://doi.org/{{page.entry.doi}}">{{ page.entry.doi }}</a></li>{% endif %}
+					{% if page.entry.url %}<li><a href="{{ page.entry.url }}">PDF link</a></li>{% endif %}
+					{% if page.entry.presentation-video %}<li><a href="{{ page.entry.presentation-video }}">Presentation Video</a></li>{% endif %}
+					{% if page.entry.urlsuppl1 %}<li><a href="{{ page.entry.urlsuppl1 }}">Supplementary File 1: {{ page.entry.urlsuppl1 | split: "/" | last}}</a></li>{% endif %}
+					{% if page.entry.urlsuppl2 %}<li><a href="{{ page.entry.urlsuppl2 }}">Supplementary File 2: {{ page.entry.urlsuppl2 | split: "/" | last}}</a></li>{% endif %}
+					{% if page.entry.urlsuppl3 %}<li><a href="{{ page.entry.urlsuppl3 }}">Supplementary File 3: {{ page.entry.urlsuppl3 | split: "/" | last}}</a></li>{% endif %}
 				</ul>
+				
 				<h2>Abstract:</h2>
+				
 				<p>{{ page.entry.abstract }}</p>
+
 				<h2>Citation:</h2>
-				{{ formatted_names }}. {{ page.entry.year }}. {{ page.entry.title }}. <em>{{ page.entry.booktitle }}</em>. DOI: <a href="https://doi.org/{{page.entry.doi}}">{{ page.entry.doi }}</a>
+
+				{% include citation.html entry=page.entry %}
 
 				<h2>BibTeX Entry:</h2>
-				
+
+				<!-- TODO -->
+
 			</article>
 		</main>
 		{% include site-footer.html %}
 	</body>
 </html>
-
-
-
-<!-- 
-
- -->

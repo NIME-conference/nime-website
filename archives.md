@@ -34,7 +34,6 @@ This page contains a list of all publications that have been published at the NI
 {% endfor %}
 </ul>
 {% endunless %}
-
 {% endfor %}
 
 {% comment %}

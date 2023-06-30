@@ -23,14 +23,44 @@ theme: alembic-jekyll-theme
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
-- jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-- jekyll-scholar
+- jekyll-datapage-generator
+
+# This is the page_gen plugin config
+# This creates individual pages for each bibliography entry.
+page_gen:
+- data: nime_papers
+  template: paper
+  dir: proc
+  index_files: true # false # I think this makes directories for each one which breaks linking somehow.
+  name: ID
+  title: title
+  extension: html 
+  page_data_prefix: entry
+  debug: true 
+- data: nime_music
+  template: paper
+  dir: proc_music
+  index_files: true # false # I think this makes directories for each one which breaks linking somehow.
+  name: ID
+  title: title
+  extension: html 
+  page_data_prefix: entry
+  debug: true 
+- data: nime_installations
+  template: paper
+  dir: proc_installations
+  index_files: true # false # I think this makes directories for each one which breaks linking somehow.
+  name: ID
+  title: title
+  extension: html 
+  page_data_prefix: entry
+  debug: true 
 
 scholar:
   style: "/assets/acm-sigchi-proceedings.csl"

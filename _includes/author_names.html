@@ -1,0 +1,23 @@
+{% comment %}
+<!-- Liquid script to create comma-separated formatted names. -->
+<!-- This code assumes that the input is called "entry" -->
+{% endcomment %}
+{% assign author_names = include.entry.author | split: " and " %}
+{% assign formatted_names = "" %}
+{% for name in author_names %}
+{%- if forloop.length > 1 -%}
+  {%- if forloop.last -%}
+    {% assign formatted_names = formatted_names | append: "and " %}
+  {%- endif -%}
+{%- endif -%}
+  {% assign name_split = name | split: ", " %}
+  {% if name_split[1] %}
+    {% assign formatted_names = formatted_names | append: name_split[1] %}
+    {% assign formatted_names = formatted_names | append: " " %}
+  {% endif %}
+  {% assign formatted_names = formatted_names | append: name_split[0] %}
+  {%- if forloop.last != true -%}
+    {% assign formatted_names = formatted_names | append: ", " %}
+  {%- endif -%}
+{% endfor %}
+{{ formatted_names }}

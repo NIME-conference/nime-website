@@ -1,0 +1,34 @@
+{% comment %}
+Generates approriate metadata for a bibliographic entry in the proceedings.
+Hopefully this results in well-formed listings in Google Scholar over time.
+
+These are constructed following guidelines here:
+https://scholar.google.com/intl/en/scholar/inclusion.html#indexing
+
+Parameters: 
+
+- entry: the bib entry to be listed.
+{% endcomment %}
+
+<meta name="citation_title" content="{{ include.entry.title | escape }}">
+{% assign author_names = include.entry.author | split: " and " %}
+{% for auth in author_names %}
+<meta name="citation_author" content="{{ auth | escape }}">
+{% endfor %}
+<meta name="citation_publication_date" content="{{ include.entry.year }}">
+<meta name="citation_conference_title" content="{{ include.entry.booktitle }}">
+{% if include.entry.pages %}
+<meta name="citation_firstpage" content="{{ include.entry.pages | split: "--" | first }}">
+<meta name="citation_lastpage" content="{{ include.entry.pages | split: "--" | last }}">
+{% endif %}
+{% if include.entry.issn %}<meta name="citation_issn" content="{{ include.entry.issn }}">{% endif %}
+{% if include.entry.isbn %}<meta name="citation_isbn" content="{{ include.entry.isbn }}">{% endif %}
+<meta name="citation_pdf_url" content="{{ include.entry.url }}">
+
+{% comment %}
+Some unused / to be explored metadata...
+
+{% if include.entry.doi %}<meta name="dc.Identifier" scheme="doi" content="{{ include.entry.doi }}">{% endif %}
+{% if include.entry.articleno %}<meta name="dc.Identifier" scheme="article-no" content="{{ include.entry.articleno}}">{% endif %}
+<meta name="dc.Language" content="EN">
+{% endcomment %}

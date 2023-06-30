@@ -9,9 +9,12 @@
 		<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 		{% include site-before-start.html %}
+
+		{% comment %}
 		<!-- start bibliography metadata -->
 		{% include entry_metadata.html entry=page.entry %}
 		<!-- end bibliography metadata -->
+		{% endcomment %}
   </head>
 
 	<body>

@@ -685,140 +685,6 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Farshi2008
-  address: 'Genova, Italy'
-  author: Olly Farshi
-  bibtex: "@inproceedings{nime2008-installations-Farshi2008,\n address = {Genova,\
-    \ Italy},\n author = {Olly Farshi},\n booktitle = {Installation Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n editor\
-    \ = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n title\
-    \ = {Habitat},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Habitat
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Talman2008
-  address: 'Genova, Italy'
-  author: Jeff Talman
-  bibtex: "@inproceedings{nime2008-installations-Talman2008,\n address = {Genova,\
-    \ Italy},\n author = {Jeff Talman},\n booktitle = {Installation Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n editor\
-    \ = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n title\
-    \ = {MIRROR OF THE MOON},\n url = {www.jefftalman.com},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: MIRROR OF THE MOON
-  url: www.jefftalman.com
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Paek2008
-  address: 'Genova, Italy'
-  author: JooYoun Paek
-  bibtex: "@inproceedings{nime2008-installations-Paek2008,\n address = {Genova, Italy},\n\
-    \ author = {JooYoun Paek},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
-    \ month = {June},\n publisher = {Casa Paganini},\n title = {Fold Loud},\n url\
-    \ = {https://shakethatbutton.com/fold-loud/},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Fold Loud
-  url: https://shakethatbutton.com/fold-loud/
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Newby2008
-  address: 'Genova, Italy'
-  author: 'Kenneth Newby, Aleksandra Dulic and Martin Gotfrit'
-  bibtex: "@inproceedings{nime2008-installations-Newby2008,\n address = {Genova, Italy},\n\
-    \ author = {Kenneth Newby, Aleksandra Dulic and Martin Gotfrit},\n booktitle =\
-    \ {Installation Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n publisher\
-    \ = {Casa Paganini},\n title = {in a thousand drops... refracted glances},\n url\
-    \ = {http://aleksandradulic.net/Projects/1000/1000.html},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: in a thousand drops... refracted glances
-  url: http://aleksandradulic.net/Projects/1000/1000.html
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Lamenzo2008
-  address: 'Genova, Italy'
-  author: 'Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli'
-  bibtex: "@inproceedings{nime2008-installations-Lamenzo2008,\n address = {Genova,\
-    \ Italy},\n author = {Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli},\n\
-    \ booktitle = {Installation Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n\
-    \ publisher = {Casa Paganini},\n title = {Soundscaper},\n url = {http://mediatedspaces/lib/mov/soundscaperlow.mov.},\n\
-    \ year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: Soundscaper
-  url: http://mediatedspaces/lib/mov/soundscaperlow.mov.
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Napolitano2008
-  address: 'Genova, Italy'
-  author: 'Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda'
-  bibtex: "@inproceedings{nime2008-installations-Napolitano2008,\n address = {Genova,\
-    \ Italy},\n author = {Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda},\n\
-    \ booktitle = {Installation Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n\
-    \ publisher = {Casa Paganini},\n title = {SoundBarrier_},\n year = {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: SoundBarrier_
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2008-installations-Majoe2008
-  address: 'Genova, Italy'
-  author: Art Clay & Dennis Majoe
-  bibtex: "@inproceedings{nime2008-installations-Majoe2008,\n address = {Genova, Italy},\n\
-    \ author = {Art Clay & Dennis Majoe},\n booktitle = {Installation Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n\
-    \ title = {China Gates},\n url = {http://mypage.bluewin.ch/artclay},\n year =\
-    \ {2008}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Corrado Canepa
-  month: June
-  publisher: Casa Paganini
-  title: China Gates
-  url: http://mypage.bluewin.ch/artclay
-  year: 2008
-
-
-- ENTRYTYPE: inproceedings
   ID: Stearns2009
   abstract: 'Artificial Analog Neural Network (AANN) is an interactive, handmade electronic
     sculpture that responds to environmental stimuli in a display of light and sound.
@@ -1076,6 +942,140 @@
   publisher: Carnegie Mellon University
   title: Sound Lanterns
   year: 2009
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Farshi2008
+  address: 'Genova, Italy'
+  author: Olly Farshi
+  bibtex: "@inproceedings{nime2008-installations-Farshi2008,\n address = {Genova,\
+    \ Italy},\n author = {Olly Farshi},\n booktitle = {Installation Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n editor\
+    \ = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n title\
+    \ = {Habitat},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Habitat
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Talman2008
+  address: 'Genova, Italy'
+  author: Jeff Talman
+  bibtex: "@inproceedings{nime2008-installations-Talman2008,\n address = {Genova,\
+    \ Italy},\n author = {Jeff Talman},\n booktitle = {Installation Proceedings of\
+    \ the International Conference on New Interfaces for Musical Expression},\n editor\
+    \ = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n title\
+    \ = {MIRROR OF THE MOON},\n url = {www.jefftalman.com},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: MIRROR OF THE MOON
+  url: www.jefftalman.com
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Paek2008
+  address: 'Genova, Italy'
+  author: JooYoun Paek
+  bibtex: "@inproceedings{nime2008-installations-Paek2008,\n address = {Genova, Italy},\n\
+    \ author = {JooYoun Paek},\n booktitle = {Installation Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n\
+    \ month = {June},\n publisher = {Casa Paganini},\n title = {Fold Loud},\n url\
+    \ = {https://shakethatbutton.com/fold-loud/},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Fold Loud
+  url: https://shakethatbutton.com/fold-loud/
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Newby2008
+  address: 'Genova, Italy'
+  author: 'Kenneth Newby, Aleksandra Dulic and Martin Gotfrit'
+  bibtex: "@inproceedings{nime2008-installations-Newby2008,\n address = {Genova, Italy},\n\
+    \ author = {Kenneth Newby, Aleksandra Dulic and Martin Gotfrit},\n booktitle =\
+    \ {Installation Proceedings of the International Conference on New Interfaces\
+    \ for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n publisher\
+    \ = {Casa Paganini},\n title = {in a thousand drops... refracted glances},\n url\
+    \ = {http://aleksandradulic.net/Projects/1000/1000.html},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: in a thousand drops... refracted glances
+  url: http://aleksandradulic.net/Projects/1000/1000.html
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Lamenzo2008
+  address: 'Genova, Italy'
+  author: 'Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli'
+  bibtex: "@inproceedings{nime2008-installations-Lamenzo2008,\n address = {Genova,\
+    \ Italy},\n author = {Jared Lamenzo, Mohit Santram, Kuan Huan and Maia Marinelli},\n\
+    \ booktitle = {Installation Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n\
+    \ publisher = {Casa Paganini},\n title = {Soundscaper},\n url = {http://mediatedspaces/lib/mov/soundscaperlow.mov.},\n\
+    \ year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: Soundscaper
+  url: http://mediatedspaces/lib/mov/soundscaperlow.mov.
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Napolitano2008
+  address: 'Genova, Italy'
+  author: 'Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda'
+  bibtex: "@inproceedings{nime2008-installations-Napolitano2008,\n address = {Genova,\
+    \ Italy},\n author = {Pasquale Napolitano, Stefano Perna and Pier Giuseppe Mariconda},\n\
+    \ booktitle = {Installation Proceedings of the International Conference on New\
+    \ Interfaces for Musical Expression},\n editor = {Corrado Canepa},\n month = {June},\n\
+    \ publisher = {Casa Paganini},\n title = {SoundBarrier_},\n year = {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: SoundBarrier_
+  year: 2008
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2008-installations-Majoe2008
+  address: 'Genova, Italy'
+  author: Art Clay & Dennis Majoe
+  bibtex: "@inproceedings{nime2008-installations-Majoe2008,\n address = {Genova, Italy},\n\
+    \ author = {Art Clay & Dennis Majoe},\n booktitle = {Installation Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Corrado Canepa},\n month = {June},\n publisher = {Casa Paganini},\n\
+    \ title = {China Gates},\n url = {http://mypage.bluewin.ch/artclay},\n year =\
+    \ {2008}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Corrado Canepa
+  month: June
+  publisher: Casa Paganini
+  title: China Gates
+  url: http://mypage.bluewin.ch/artclay
+  year: 2008
 
 
 - ENTRYTYPE: inproceedings

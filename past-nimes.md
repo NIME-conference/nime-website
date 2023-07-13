@@ -31,6 +31,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2020](/2020/): Birmingham, UK ([archived site](/2020/))
 *   [NIME 2021](https://nime2021.org/): Shanghai, China ([archived site](/2021/))
 *   [NIME 2022](https://nime2022.org/): Auckland, New Zealand
+*   [NIME 2023](https://nime2023.org/): Mexico City, Mexico.
 
 {% include video.html id="JnLylwvWIpE" %}
 
@@ -60,6 +61,7 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2020: Lamberto Coccioli and Sally Jane Norman
 * 2021: Margaret Minsky and Gus Xia
 * 2022: Sasha Leitman and Fabio Morreale
+* 2023: (Mexico City) Hugo Solís García, Eric Pérez Segura
 
 ## Keynote speakers
 
@@ -84,6 +86,8 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2019: (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez
 * 2020: (Birmingham) Drake Music Labs, Lilja Maria Asmundsdottir, Crewdson & Cevanne, Dunning & Underwood
 * 2021: (Shanghai) Roger Dannenberg, Yann LeCun, AnnMarie Thomas
+* 2022:
+* 2023:
 
 ## Awards
 

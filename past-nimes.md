@@ -61,7 +61,7 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2020: Lamberto Coccioli and Sally Jane Norman
 * 2021: Margaret Minsky and Gus Xia
 * 2022: Sasha Leitman and Fabio Morreale
-* 2023: (Mexico City) Hugo Solís García, Eric Pérez Segura
+* 2023: Hugo Solís García and Eric Pérez Segura
 
 ## Keynote speakers
 
@@ -86,8 +86,8 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2019: (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez
 * 2020: (Birmingham) Drake Music Labs, Lilja Maria Asmundsdottir, Crewdson & Cevanne, Dunning & Underwood
 * 2021: (Shanghai) Roger Dannenberg, Yann LeCun, AnnMarie Thomas
-* 2022:
-* 2023:
+* 2022: (Auckland) Hundred Rabbits, Khyam Allami, Sally Jane Norman
+* 2023: (Mexico City) Tania Candiani, Ariel Guzik, Arcángelo Constantini
 
 ## Awards
 
@@ -101,3 +101,5 @@ This award recognizes a person who is doing significant work that improves the d
 * 2020: [Doga Cavdir](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/) |
 *Honorary Mention: [Patricia Cadavid Hinojosa](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/)*
 * 2021: João Tragtenberg | *Honorary Mention: Abby Aresty*
+* 2022: Astrid Bin, Laurel Pardue
+* 2023: Patty Preece, Melania Jack, Giacomo Lepri

@@ -17,4 +17,5 @@
 /2019/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2019/:splat 200!
 /2020/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2020/:splat 200!
 /2021/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2021/:splat 200!
+/2022/* http://nime-conf-proceedings.s3-website-us-east-1.amazonaws.com/2022/:splat 200!
 /proceedings/* https://s3.us-east-1.amazonaws.com/nime-conf-proceedings/proceedings/:splat 200!

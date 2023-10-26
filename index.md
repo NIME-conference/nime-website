@@ -6,9 +6,7 @@ feature_image: "assets/nime_banner.jpg"
 
 ### Upcoming Conference
 
-[**NIME2023**](http://www.nime2023.org/) will be held in Mexico City 31 May -- 2 June 2023.
-
-<iframe src="https://player.vimeo.com/video/725772960?h=329de75202" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[**NIME2024**](http://www.nime2024.org/) will be held in a hybrid mode in Utrecht (NL) and online 4-6 September 2024.
 
 ### NIME
 

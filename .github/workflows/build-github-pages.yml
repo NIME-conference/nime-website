@@ -32,7 +32,7 @@ jobs:
         run: |
           rsync \
           -rvz \
-          -e 'ssh -p 21098 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa' \
+          -e 'ssh -p 21098 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa -i ~/.ssh/id_rsa' \
           --progress \
           _site/ \
           ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/nime/

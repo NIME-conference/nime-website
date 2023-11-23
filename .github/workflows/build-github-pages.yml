@@ -18,6 +18,7 @@ jobs:
           bundle exec jekyll build --baseurl nime
       - name: Adding Known Hosts
         run: |
+          mkdir -p ~/.ssh/known_hosts
           ssh-keyscan -H ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2

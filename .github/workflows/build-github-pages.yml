@@ -27,7 +27,8 @@ jobs:
       - name: set up private key
         run: |
           eval $(ssh-agent)
-          ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" >> ~/.ssh/id_rsa
+          ssh-add
       - name: rsync
         run: |
           rsync \

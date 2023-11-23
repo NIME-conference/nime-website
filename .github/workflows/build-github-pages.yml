@@ -15,7 +15,7 @@ jobs:
           bundler-cache: true
       - name: build
         run: |
-          bundle exec jekyll build --baseurl nime
+          bundle exec jekyll build --baseurl /nime
       - name: set up known_hosts
         run: |
           mkdir -p ~/.ssh

@@ -1,0 +1,311 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Må ne Havn (mounhoun): An Exploration of Gestural Language for Pitched Percussion</h1>
+				
+				<h4>
+
+
+
+Shawn Trail, Thor Kell, and Gabrielle Odowichuk</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+Må ne Havn (mounhoun) is an improvisational multi-media performance system for extended vibraphone with accompanying custom LED sculptures and projected visuals. The music draws specifically from NYC free jazz, the funeral music of the Lobi people of northern Ghana, Dub, psych rock and minimalism. Abstract interactive light sculptures actuated from the instrument's audio and controller data will accompany the performance, creating a visually shifting immersive space. The sculptures, named `Takete' and `Maluma', reference Gestalt psychology and the known correlation between our perceptions of sound and light. Mappings will reflect this phenomenon. The piece uses a pitched percussion tool suite developed by the Music Intelligence &amp; Sound Technology Collective at the University of Victoria, including: Magic Eyes (3D gesture controller), Ghost Hands (control data looper), MSTR DRMMR++ (rhythm template as control switches), Fantom Faders (vibraphone bars as control faders) and Gyil Gourd (physical modeling of the Lobi xylophone's gourd resonator).
+
+Composer(s) Credits:
+
+Shawn Trail, Thor Kell, Gabrielle Odowichuk (Artistic Director)
+
+Instrumentalist(s) Credits:
+
+Shawn Trail (xtended Vibraphone, Notomoton- robotic drum, suspended cymbal)
+
+Artist(s) Biography:
+
+Shawn Trail: Electro-acoustic percussionist, Shawn Trail, designs and builds new performance technologies for acoustic pitched percussion instruments integrating musical robotics, physical modeling synthesis, and HCI. He was Control Interface and Robotics Technician for Pat Metheny's Orchestrion World Tour (2010), Fulbright Scholar at Medialogy- Aalborg University, Copenhagen researching DSP, synthesis, and HCI (2009), and composer-in-residence with League of Electronic Musical Urban Robots (2008). In 2002 he conducted field research in Ghana on the Gyil (traditional xylophone). He has a Master of Music in Studio Composition from Purchase Conservatory of Music and a BA in percussion performance and music technology. He is an Interdisciplinary PhD candidate in Computer Science, Electrical Engineering, and Music with MISTIC at the University of Victoria. Performing solo under the moniker TXTED, his multi- media performance works singularly revolve around minimal, textural evolving polyrhythmic, melodic ostinati propelled by a sense of urgency intrinsic to cultural music rituals informed by specific traditions.
+
+Thor Kell: As a composer, programmer, and DJ, Thor Kell likes combining interesting things in unique ways. A recent graduate of the University of Victoria's Music / Computer Science program, he will begin his MA at McGill University in the fall, focusing on interactions between performer, interface, and software. While at UVic, he received a Jamie Cassels Undergraduate Research Award: his research involved prototyping and composing for a gestural control mapping system for extending the marimba. His traditional compositions are all clockwork riffs and hidden structures, based on mathematical constants or time- stretched quotes from the English folk music canon: he has written for everything from full orchestra to solo piano. He has programmed for The Echo Nest and SoundCloud. In his secret life as a DJ and techno maven, he has released chart-toppers on Kompakt, impossibly deep jams on Fade, and hour-long remix / video symphonies on his own label, Tide Pool.
+
+Gabrielle Odowichuk is a graduate student in Electrical Engineering at the University of Victoria, working in the MISTIC research lab. A specialist in DSP and MIR, her research has focused on sound spatialization and gesture-based control of sound and music, developing a variety of prototypes, including Fantom Faders and Magic Eyes, the mallet tracking and gesture control applications used in this performance. For Møane Havn (mounhoun), she draws on previous experience in art direction and stage design to produce unique real-time gesture-controlled visualizations. She designed, built, and developed the interactive LED sculptures, Takete and Maluma, used in this piece, as well as the projections. Her work has been published by ICMC, IEEE, and NIME.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Wednesday May 23, 7:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Shawn Trail, Thor Kell, and Gabrielle Odowichuk. 2012. 
+
+
+Må ne Havn (mounhoun): An Exploration of Gestural Language for Pitched Percussion. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-TrailKellOdowichuk2012,
+ abstract = {Program notes:
+
+\emph{M\aa ne Havn (mounhoun)} is an improvisational multi-media performance system for extended vibraphone with accompanying custom LED sculptures and projected visuals. The music draws specifically from NYC free jazz, the funeral music of the Lobi people of northern Ghana, Dub, psych rock and minimalism. Abstract interactive light sculptures actuated from the instrument's audio and controller data will accompany the performance, creating a visually shifting immersive space. The sculptures, named `Takete' and `Maluma', reference Gestalt psychology and the known correlation between our perceptions of sound and light. Mappings will reflect this phenomenon. The piece uses a pitched percussion tool suite developed by the Music Intelligence \&amp; Sound Technology Collective at the University of Victoria, including: Magic Eyes (3D gesture controller), Ghost Hands (control data looper), MSTR DRMMR++ (rhythm template as control switches), Fantom Faders (vibraphone bars as control faders) and Gyil Gourd (physical modeling of the Lobi xylophone's gourd resonator).
+
+Composer(s) Credits:
+
+Shawn Trail, Thor Kell, Gabrielle Odowichuk (Artistic Director)
+
+Instrumentalist(s) Credits:
+
+Shawn Trail (xtended Vibraphone, Notomoton- robotic drum, suspended cymbal)
+
+Artist(s) Biography:
+
+Shawn Trail: Electro-acoustic percussionist, \textbf{Shawn Trail}, designs and builds new performance technologies for acoustic pitched percussion instruments integrating musical robotics, physical modeling synthesis, and HCI. He was Control Interface and Robotics Technician for Pat Metheny's Orchestrion World Tour (2010), Fulbright Scholar at Medialogy- Aalborg University, Copenhagen researching DSP, synthesis, and HCI (2009), and composer-in-residence with League of Electronic Musical Urban Robots (2008). In 2002 he conducted field research in Ghana on the Gyil (traditional xylophone). He has a Master of Music in Studio Composition from Purchase Conservatory of Music and a BA in percussion performance and music technology. He is an Interdisciplinary PhD candidate in Computer Science, Electrical Engineering, and Music with MISTIC at the University of Victoria. Performing solo under the moniker TXTED, his multi- media performance works singularly revolve around minimal, textural evolving polyrhythmic, melodic ostinati propelled by a sense of urgency intrinsic to cultural music rituals informed by specific traditions.
+
+Thor Kell: As a composer, programmer, and DJ, \textbf{Thor Kell} likes combining interesting things in unique ways. A recent graduate of the University of Victoria's Music / Computer Science program, he will begin his MA at McGill University in the fall, focusing on interactions between performer, interface, and software. While at UVic, he received a Jamie Cassels Undergraduate Research Award: his research involved prototyping and composing for a gestural control mapping system for extending the marimba. His traditional compositions are all clockwork riffs and hidden structures, based on mathematical constants or time- stretched quotes from the English folk music canon: he has written for everything from full orchestra to solo piano. He has programmed for The Echo Nest and SoundCloud. In his secret life as a DJ and techno maven, he has released chart-toppers on Kompakt, impossibly deep jams on Fade, and hour-long remix / video symphonies on his own label, Tide Pool.
+
+Gabrielle Odowichuk is a graduate student in Electrical Engineering at the University of Victoria, working in the MISTIC research lab. A specialist in DSP and MIR, her research has focused on sound spatialization and gesture-based control of sound and music, developing a variety of prototypes, including Fantom Faders and Magic Eyes, the mallet tracking and gesture control applications used in this performance. For M\o{a}ne Havn (mounhoun), she draws on previous experience in art direction and stage design to produce unique real-time gesture-controlled visualizations. She designed, built, and developed the interactive LED sculptures, Takete and Maluma, used in this piece, as well as the projections. Her work has been published by ICMC, IEEE, and NIME.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Wednesday May 23, 7:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Shawn Trail and Thor Kell and Gabrielle Odowichuk},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {M\aa ne Havn (mounhoun): An Exploration of Gestural Language for Pitched Percussion},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

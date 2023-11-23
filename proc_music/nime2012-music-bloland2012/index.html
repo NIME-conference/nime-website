@@ -1,0 +1,319 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Of Dust and Sand</h1>
+				
+				<h4>
+
+
+
+Per Bloland</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+Of Dust and Sand uses the Electromagnetically-Prepared Piano device, a rack of 12 electromagnets which is suspended over the strings of a piano. Each electromagnet is sent an audio signal and in turn excites its respective string, much like a stereo speaker made from piano strings. In this piece a subset of the magnets remains active throughout, the performer physically silencing the strings by pressing down with fingertips. Thus the instrument becomes a kind of anti-piano---lifting a finger frees a string to vibrate, producing sound. In addition, various items, such as paper and a plastic ruler, rest directly on the strings further altering the timbre. Remember---everything you hear is entirely acoustic.
+
+Of Dust and Sand is dedicated to The Kenners.
+
+Composer(s) Credits:
+
+Per Bloland
+
+Instrumentalist(s) Credits:
+
+Daniel Graser (alto saxophone), Veena Kulkarni (piano)
+
+Artist(s) Biography:
+
+Per Bloland is a composer of acoustic and electroacoustic music whose works have been described as having an ``incandescent effect''  with ``dangerous and luscious textures.''  His compositions range from short intimate solo pieces to works for large orchestra, and incorporate video, dance, and custom built electronics. He has received awards and recognition from organizations such as SEAMUS/ASCAP, Digital Art Awards of Tokyo, ISCM, and SCI/ASCAP. He is currently a Visiting Assistant Professor of Computer Music at the Oberlin College Conservatory, and serves as the founding director of OINC, the Oberlin Improvisation and Newmusic Collective.
+For more information, please see: www.perbloland.com.
+
+Daniel Graser: Saxophonist Daniel Graser is emerging as one of the most innovative performers and pedagogues of his generation. A recent recipient of the Doctorate of Musical Arts from the University of Michigan, Dan served as Teaching Assistant to legendary saxophone pedagogue Donald Sinta for the past three years and joined the faculty of Oakland University School of Music, Theater, and Dance in 2011. Previously, Dan earned a Masters Degree from the University of Michigan in 2008 and Bachelors degrees in music theory/history and saxophone performance as a student of Dr. Timothy McAllister at the Crane School of Music in 2007. As an orchestral performer, Dan has performed as principal saxophonist with the National Wind Ensemble in Carnegie Hall under H. Robert Reynolds, the Detroit Symphony Orchestra under Leonard Slatkin, The New World Symphony under Michael Tilson Thomas and John Adams, the Ann Arbor Symphony under Arie Lipsky, the University of Michigan Symphony Orchestra under Kenneth Kiesler, the Hot Springs Festival Orchestra under Richard Rosenberg, and the Orchestra of Northern New York under Kenneth Andrews. Dan was selected by the University of Michigan to be featured as a recitalist at the Kennedy Center for the Performing Arts in Washington DC as part of the Millenium Stage Series. Recent and forthcoming performances include world premieres at the University of Michigan, orchestral performances with the New World Symphony and the Detroit Symphony Orchestra as well as chamber music performances at the Navy Band International Saxophone Symposium and the 2012 North American Saxophone Association Biennial Conference
+
+Veena Kulkarni: A regular performer in southeast Michigan, Veena Kulkarni teaches at the Faber Piano Institute and Madonna University.  Veena's performances have taken her throughout the United States and beyond as both a soloist and collaborator.  In October, Veena won Best Liszt Interpretation in the 2011 Liszt-Garrison International Piano Competition.
+Veena is the pianist for Eero Trio, whose debut CD entitled Wolf Glen was released in 2010.  Wolf Glen features the premiere recording of Christopher Dietz's Fumeux fume, for clarinet, cello &amp; piano. Veena completed her doctorate in Piano Performance and Pedagogy under Logan Skelton and John Ellis at the University of Michigan.  Prior to that, she studied at Indiana University with Emile Naoumoff and Professors Brancart, Auer, Gulli and Tocco and at the Royal Academy of Music with Hamish Milne.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Tuesday May 22, 7:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Per Bloland. 2012. 
+
+
+Of Dust and Sand. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-Bloland2012,
+ abstract = {Program notes:
+
+\emph{Of Dust and Sand} uses the Electromagnetically-Prepared Piano device, a rack of 12 electromagnets which is suspended over the strings of a piano. Each electromagnet is sent an audio signal and in turn excites its respective string, much like a stereo speaker made from piano strings. In this piece a subset of the magnets remains active throughout, the performer physically silencing the strings by pressing down with fingertips. Thus the instrument becomes a kind of anti-piano---lifting a finger frees a string to vibrate, producing sound. In addition, various items, such as paper and a plastic ruler, rest directly on the strings further altering the timbre. Remember---everything you hear is entirely acoustic.
+
+Of Dust and Sand is dedicated to The Kenners.
+
+Composer(s) Credits:
+
+Per Bloland
+
+Instrumentalist(s) Credits:
+
+Daniel Graser (alto saxophone), Veena Kulkarni (piano)
+
+Artist(s) Biography:
+
+Per Bloland is a composer of acoustic and electroacoustic music whose works have been described as having an ``incandescent effect''  with ``dangerous and luscious textures.''  His compositions range from short intimate solo pieces to works for large orchestra, and incorporate video, dance, and custom built electronics. He has received awards and recognition from organizations such as SEAMUS/ASCAP, Digital Art Awards of Tokyo, ISCM, and SCI/ASCAP. He is currently a Visiting Assistant Professor of Computer Music at the Oberlin College Conservatory, and serves as the founding director of OINC, the Oberlin Improvisation and Newmusic Collective.
+For more information, please see: www.perbloland.com.
+
+Daniel Graser: Saxophonist \textbf{Daniel Graser} is emerging as one of the most innovative performers and pedagogues of his generation. A recent recipient of the Doctorate of Musical Arts from the University of Michigan, Dan served as Teaching Assistant to legendary saxophone pedagogue Donald Sinta for the past three years and joined the faculty of Oakland University School of Music, Theater, and Dance in 2011. Previously, Dan earned a Masters Degree from the University of Michigan in 2008 and Bachelors degrees in music theory/history and saxophone performance as a student of Dr. Timothy McAllister at the Crane School of Music in 2007. As an orchestral performer, Dan has performed as principal saxophonist with the National Wind Ensemble in Carnegie Hall under H. Robert Reynolds, the Detroit Symphony Orchestra under Leonard Slatkin, The New World Symphony under Michael Tilson Thomas and John Adams, the Ann Arbor Symphony under Arie Lipsky, the University of Michigan Symphony Orchestra under Kenneth Kiesler, the Hot Springs Festival Orchestra under Richard Rosenberg, and the Orchestra of Northern New York under Kenneth Andrews. Dan was selected by the University of Michigan to be featured as a recitalist at the Kennedy Center for the Performing Arts in Washington DC as part of the Millenium Stage Series. Recent and forthcoming performances include world premieres at the University of Michigan, orchestral performances with the New World Symphony and the Detroit Symphony Orchestra as well as chamber music performances at the Navy Band International Saxophone Symposium and the 2012 North American Saxophone Association Biennial Conference
+
+Veena Kulkarni: A regular performer in southeast Michigan, \textbf{Veena Kulkarni} teaches at the Faber Piano Institute and Madonna University.  Veena's performances have taken her throughout the United States and beyond as both a soloist and collaborator.  In October, Veena won Best Liszt Interpretation in the 2011 Liszt-Garrison International Piano Competition.
+Veena is the pianist for Eero Trio, whose debut CD entitled Wolf Glen was released in 2010.  Wolf Glen features the premiere recording of Christopher Dietz's Fumeux fume, for clarinet, cello \&amp; piano. Veena completed her doctorate in Piano Performance and Pedagogy under Logan Skelton and John Ellis at the University of Michigan.  Prior to that, she studied at Indiana University with Emile Naoumoff and Professors Brancart, Auer, Gulli and Tocco and at the Royal Academy of Music with Hamish Milne.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Tuesday May 22, 7:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Per Bloland},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {Of Dust and Sand},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

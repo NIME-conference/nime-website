@@ -1,0 +1,290 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Touching Dialogue</h1>
+				
+				<h4>
+
+
+
+Andrew Johnston</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2010</li>
+					<li>Location: Sydney, Australia</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:  This audiovisual work for acoustic instruments and interactive software uses simple models of physical structures to mediate between acoustic sounds and computer generated sound and visuals. Musicians use their acoustic instruments to playfully interact with a physically modelled virtual sound sculpture which is projected onto the screen.
+The musicians use sounds produced on their acoustic instruments to reach into the virtual world and grasp, push and hit the sculpture. In response the structure glows, spins, bounces around and generates its own sounds. The pitch and timbre of the live acoustic sounds are captured and transformed by the virtual sculpture which sings back in its own way. Each individual object (or mass) in the physical model is linked to a synthesis engine which uses additive and subtractive synthesis techniques to produce a wide range of sonic textures.
+The frequency of oscillators of the synthesis engines are set by the acoustic sounds played by the acoustic musicians and the volume of sound produced is controlled by the movement of the masses. The effect is that the sound sculpture produces evocative sounds clearly linked to the sonic gestures of the performers and the movement of the onscreen sculpture.
+During performance the physical structure and characteristics of the sculpture are altered. Links between masses are cut, spring tension of the links
+altered and damping is ramped up and down. Thus, while transparency of operation is maintained, the complexity of the interaction between the acoustic and electronic performers and the sound sculpture itself leads to rich conversational musical interactions.
+
+About the performers:  Andrew Johnston is a musician and software developer living in Sydney, Australia. He completed a music performance degree at the Victorian College of the Arts in 1995 and has performed with several Australian symphony orchestras and a number of other ensembles.
+Subsequently he has completed a Masters degree in Information Technology and in 2009 he completed a PhD investigating the design and use of software to support an experimental, exploratory approach to live music making. Andrew currently holds the position of Lecturer in the Faculty of Engineering and IT at the University of Technology, Sydney.
+
+Phil Slater - Trumpet
+Jason Noble - Clarinet</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Andrew Johnston. 2010. 
+
+
+Touching Dialogue. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{nime2010-music-Johnston2010,
+ abstract = {Program notes:  This audiovisual work for acoustic instruments and interactive software uses simple models of physical structures to mediate between acoustic sounds and computer generated sound and visuals. Musicians use their acoustic instruments to playfully interact with a physically modelled virtual sound sculpture which is projected onto the screen.
+The musicians use sounds produced on their acoustic instruments to reach into the virtual world and grasp, push and hit the sculpture. In response the structure glows, spins, bounces around and generates its own sounds. The pitch and timbre of the live acoustic sounds are captured and transformed by the virtual sculpture which sings back in its own way. Each individual object (or mass) in the physical model is linked to a synthesis engine which uses additive and subtractive synthesis techniques to produce a wide range of sonic textures.
+The frequency of oscillators of the synthesis engines are set by the acoustic sounds played by the acoustic musicians and the volume of sound produced is controlled by the movement of the masses. The effect is that the sound sculpture produces evocative sounds clearly linked to the sonic gestures of the performers and the movement of the onscreen sculpture.
+During performance the physical structure and characteristics of the sculpture are altered. Links between masses are cut, spring tension of the links
+altered and damping is ramped up and down. Thus, while transparency of operation is maintained, the complexity of the interaction between the acoustic and electronic performers and the sound sculpture itself leads to rich conversational musical interactions.
+
+About the performers:  Andrew Johnston is a musician and software developer living in Sydney, Australia. He completed a music performance degree at the Victorian College of the Arts in 1995 and has performed with several Australian symphony orchestras and a number of other ensembles.
+Subsequently he has completed a Masters degree in Information Technology and in 2009 he completed a PhD investigating the design and use of software to support an experimental, exploratory approach to live music making. Andrew currently holds the position of Lecturer in the Faculty of Engineering and IT at the University of Technology, Sydney.
+
+Phil Slater - Trumpet
+Jason Noble - Clarinet},
+ address = {Sydney, Australia},
+ author = {Andrew Johnston},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Andrew Johnston, Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer, Kirsty Beilharz, Roger Mills},
+ month = {June},
+ publisher = {University of Technology Sydney},
+ title = {Touching Dialogue},
+ year = {2010}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

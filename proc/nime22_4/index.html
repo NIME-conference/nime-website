@@ -1,0 +1,275 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>HyperModels - A Framework for GPU Accelerated Physical Modelling Sound Synthesis</h1>
+				
+				<h4>
+
+
+
+Harri Renney, Silvin Willemsen, Benedict Gaster, and Tom Mitchell</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2022</li>
+					<li>Location: The University of Auckland, New Zealand</li>
+					
+					
+					<li>Article Number: 4</li>
+					
+					<li>DOI: <a href="https://doi.org/10.21428/92fbeb44.98a4210a">10.21428/92fbeb44.98a4210a</a>
+</li>
+					<li><a href="https://doi.org/10.21428%2F92fbeb44.98a4210a">PDF link</a></li>
+					<li><a href="https://youtu.be/Pb4pAr2v4yU">Presentation Video</a></li>
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Physical modelling sound synthesis methods generate vast and intricate sound spaces that are navigated using meaningful parameters. Numerical based physical modelling synthesis methods provide authentic representations of the physics they model. Unfortunately, the application of these physical models are often limited because of their considerable computational requirements. In previous studies, the CPU has been shown to reliably support two-dimensional linear finite-difference models in real-time with resolutions up to 64x64. However, the near-ubiquitous parallel processing units known as GPUs have previously been used to process considerably larger resolutions, as high as 512x512 in real-time. GPU programming requires a low-level understanding of the architecture, which often imposes a barrier for entry for inexperienced practitioners. Therefore, this paper proposes HyperModels, a framework for automating the mapping of linear finite-difference based physical modelling synthesis into an optimised parallel form suitable for the GPU. An implementation of the design is then used to evaluate the objective performance of the framework by comparing the automated solution to manually developed equivalents. For the majority of the extensive performance profiling tests, the auto-generated programs were observed to perform only 60% slower but in the worst-case scenario it was 50% slower. The initial results suggests that, in most circumstances, the automation provided by the framework avoids the lowlevel expertise required to manually optimise the GPU, with only a small reduction in performance. However, there is still scope to improve the auto-generated optimisations. When comparing the performance of CPU to GPU equivalents, the parallel CPU version supports resolutions of up to 128x128 whilst the GPU continues to support higher resolutions up to 512x512. To conclude the paper, two instruments are developed using HyperModels based on established physical model designs.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Harri Renney, Silvin Willemsen, Benedict Gaster, and Tom Mitchell. 2022. 
+
+
+HyperModels - A Framework for GPU Accelerated Physical Modelling Sound Synthesis. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.21428/92fbeb44.98a4210a">10.21428/92fbeb44.98a4210a</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{NIME22_4,
+ abstract = {Physical modelling sound synthesis methods generate vast and intricate sound spaces that are navigated using meaningful parameters. Numerical based physical modelling synthesis methods provide authentic representations of the physics they model. Unfortunately, the application of these physical models are often limited because of their considerable computational requirements. In previous studies, the CPU has been shown to reliably support two-dimensional linear finite-difference models in real-time with resolutions up to 64x64. However, the near-ubiquitous parallel processing units known as GPUs have previously been used to process considerably larger resolutions, as high as 512x512 in real-time. GPU programming requires a low-level understanding of the architecture, which often imposes a barrier for entry for inexperienced practitioners. Therefore, this paper proposes HyperModels, a framework for automating the mapping of linear finite-difference based physical modelling synthesis into an optimised parallel form suitable for the GPU. An implementation of the design is then used to evaluate the objective performance of the framework by comparing the automated solution to manually developed equivalents. For the majority of the extensive performance profiling tests, the auto-generated programs were observed to perform only 60% slower but in the worst-case scenario it was 50% slower. The initial results suggests that, in most circumstances, the automation provided by the framework avoids the lowlevel expertise required to manually optimise the GPU, with only a small reduction in performance. However, there is still scope to improve the auto-generated optimisations. When comparing the performance of CPU to GPU equivalents, the parallel CPU version supports resolutions of up to 128x128 whilst the GPU continues to support higher resolutions up to 512x512. To conclude the paper, two instruments are developed using HyperModels based on established physical model designs.},
+ address = {The University of Auckland, New Zealand},
+ articleno = {4},
+ author = {Renney, Harri and Willemsen, Silvin and Gaster, Benedict and Mitchell, Tom},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.21428/92fbeb44.98a4210a},
+ issn = {2220-4806},
+ month = {jun},
+ pdf = {109.pdf},
+ presentation-video = {https://youtu.be/Pb4pAr2v4yU},
+ title = {{HyperModels} - A Framework for {GPU} Accelerated Physical Modelling Sound Synthesis},
+ url = {https://doi.org/10.21428%2F92fbeb44.98a4210a},
+ year = {2022}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

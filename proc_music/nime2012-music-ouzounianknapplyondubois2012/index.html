@@ -1,0 +1,311 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Music for Sleeping &amp; Waking Minds</h1>
+				
+				<h4>
+
+
+
+Gascia Ouzounian, R.~Benjamin Knapp, Eric Lyon, and R.~Luke DuBois</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+Music for Sleeping &amp; Waking Minds (2011-2012) is an overnight event in which four performers fall asleep while wearing custom designed EEG sensors, which monitor their brainwave activity over the course of one night. The data gathered from the EEG sensors is applied in real time to different audio and image signal processing functions, resulting in a continuously evolving multi-channel sound environment and visual projection. This material serves as an audiovisual description of the individual and collective neurophysiological state of the ensemble, with sounds and images evolving according to changes in brainwave activity. Audiences, who are invited to bring anything that they need to ensure comfortable sleep, can experience the work in different states of attention: while alert and sleeping, resting and awakening.
+
+Gascia Ouzounian (composition &amp; production), R. Benjamin Knapp (physiological interface &amp; interaction design), Eric Lyon (audio interface &amp; interaction design),  R. Luke DuBois (visual interface &amp; interaction design)Composer(s) Credits:
+
+Gascia Ouzounian (composition &amp; production), R. Benjamin Knapp (physiological interface &amp; interaction design), Eric Lyon (audio interface &amp; interaction design),  R. Luke DuBois (visual interface &amp; interaction design)
+
+Instrumentalist(s) Credits:
+
+Artist(s) Biography:
+
+Gascia Ouzounian is a violinist, musicologist, and composer. She has performed with such varied ensembles as Yo-Yo Ma and the Silk Road Ensemble at Carnegie Hall, Bang On A Can All-Stars at the Mass MOCA, Sinfonia Toronto at the Toronto Centre for the Arts, and the Theatre of Eternal Music Strings Ensemble at the Dream House. Gascia's recent projects include two compositions that are intended for overnight listening: EDEN EDEN EDEN with filmmaker Chloe Griffin, and Music for Sleeping &amp; Waking Minds with R. Benjamin Knapp, Eric Lyon and R. Luke DuBois. In the latter, an ensemble of sleeping performers generates an audiovisual environment through their neurophysiological activity over the course of one night. Gascia teaches at Queen's University Belfast, where she leads the performance programme in the School of Creative Arts. Her writings on experimental music and sound art appear in numerous academic journals and the book Paul DeMarinis: Buried in Noise.
+
+R. Benjamin Knapp is the founding director of the Institute for Creativity, Arts, and Technology at Virginia Tech, where he is Professor of Computer Science. Ben has led the Music, Sensors and Emotion (MuSE) group, whose research focuses on the understanding and measurement of the physical gestures and emotional states of musical performers and their audience. For over 20 years, Ben has been researching and developing user-interfaces and software that enable composers and performers to augment the physical control of a musical instrument with more direct neural interaction. From the invention of the Biomuse with Hugh Lusted in 1987 to the introduction of the concept of an Integral Music Controller (a generic class of controllers that use the direct measurement of motion and emotion to augment traditional methods of musical instrument control) in 2005, Ben has focused on creating a user-aware interface based on the acquisition and real-time analysis of biometric signals.
+
+Eric Lyon is a composer and computer music researcher. During the 1980s and 1990s, his fixed media computer music focused on spectral and algorithmic processing of audio, with a tendency toward extreme modifications of samples, variously sourced. From the early 1990s, Lyon became involved with live computer music, performing solo, and in the Japanese band Psychedelic Bumpo, with the Kyma system. Later in the 1990s, he gravitated toward software-based live processing, starting to develop Max/MSP externals in 1999. This work resulted in his LyonPotpourri collection of Max/MSP externals, and the FFTease spectral package, developed in collaboration with Christopher Penrose. In recent years, Lyon has focused on computer chamber music, which integrates live, iterative DSP strategies into the creation of traditionally notated instrumental scores. Other interests include spatial orchestration, and articulated noise composition. Lyon teaches computer music in the School of Music and Sonic Art at Queen's University Belfast.
+
+R. Luke DuBois is a composer, artist, and performer who explores the temporal, verbal, and visual structures of cultural and personal ephemera. He has collaborated on interactive performance, installation, and music production work with many artists and organizations including Toni Dove, Matthew Ritchie, Todd Reynolds, Jamie Jewett, Bora Yoon, Michael Joaquin Grey, Elliott Sharp, Michael Gordon, Maya Lin, Bang on a Can, Engine27, Harvestworks, and LEMUR, and was the director of the Princeton Laptop Orchestra for its 2007 season. Stemming from his investigations of ``time-lapse phonography,'' his recent work is a sonic and encyclopedic relative to time-lapse photography. Just as a long camera exposure fuses motion into a single image, his work reveals the average sonority, visual language, and vocabulary in music, film, text, or cultural information. He teaches at the Brooklyn Experimental Media Center at the Polytechnic Institute of NYU, and is on the Board of Directors of Issue Project Room.
+
+Concert Venue and Time: North Quad Space 2435, Monday May 21, 11:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Gascia Ouzounian, R.~Benjamin Knapp, Eric Lyon, and R.~Luke DuBois. 2012. 
+
+
+Music for Sleeping &amp; Waking Minds. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-OuzounianKnappLyonDuBois2012,
+ abstract = {Program notes:
+
+\emph{Music for Sleeping \&amp; Waking Minds} (2011-2012) is an overnight event in which four performers fall asleep while wearing custom designed EEG sensors, which monitor their brainwave activity over the course of one night. The data gathered from the EEG sensors is applied in real time to different audio and image signal processing functions, resulting in a continuously evolving multi-channel sound environment and visual projection. This material serves as an audiovisual description of the individual and collective neurophysiological state of the ensemble, with sounds and images evolving according to changes in brainwave activity. Audiences, who are invited to bring anything that they need to ensure comfortable sleep, can experience the work in different states of attention: while alert and sleeping, resting and awakening.
+
+Gascia Ouzounian (composition \&amp; production), R. Benjamin Knapp (physiological interface \&amp; interaction design), Eric Lyon (audio interface \&amp; interaction design),  R. Luke DuBois (visual interface \&amp; interaction design)Composer(s) Credits:
+
+Gascia Ouzounian (composition \&amp; production), R. Benjamin Knapp (physiological interface \&amp; interaction design), Eric Lyon (audio interface \&amp; interaction design),  R. Luke DuBois (visual interface \&amp; interaction design)
+
+Instrumentalist(s) Credits:
+
+Artist(s) Biography:
+
+Gascia Ouzounian is a violinist, musicologist, and composer. She has performed with such varied ensembles as Yo-Yo Ma and the Silk Road Ensemble at Carnegie Hall, Bang On A Can All-Stars at the Mass MOCA, Sinfonia Toronto at the Toronto Centre for the Arts, and the Theatre of Eternal Music Strings Ensemble at the Dream House. Gascia's recent projects include two compositions that are intended for overnight listening: EDEN EDEN EDEN with filmmaker Chloe Griffin, and \emph{Music for Sleeping \&amp; Waking Minds} with R. Benjamin Knapp, Eric Lyon and R. Luke DuBois. In the latter, an ensemble of sleeping performers generates an audiovisual environment through their neurophysiological activity over the course of one night. Gascia teaches at Queen's University Belfast, where she leads the performance programme in the School of Creative Arts. Her writings on experimental music and sound art appear in numerous academic journals and the book \emph{Paul DeMarinis: Buried in Noise.}
+
+R. Benjamin Knapp is the founding director of the Institute for Creativity, Arts, and Technology at Virginia Tech, where he is Professor of Computer Science. Ben has led the Music, Sensors and Emotion (MuSE) group, whose research focuses on the understanding and measurement of the physical gestures and emotional states of musical performers and their audience. For over 20 years, Ben has been researching and developing user-interfaces and software that enable composers and performers to augment the physical control of a musical instrument with more direct neural interaction. From the invention of the Biomuse with Hugh Lusted in 1987 to the introduction of the concept of an Integral Music Controller (a generic class of controllers that use the direct measurement of motion and emotion to augment traditional methods of musical instrument control) in 2005, Ben has focused on creating a user-aware interface based on the acquisition and real-time analysis of biometric signals.
+
+Eric Lyon is a composer and computer music researcher. During the 1980s and 1990s, his fixed media computer music focused on spectral and algorithmic processing of audio, with a tendency toward extreme modifications of samples, variously sourced. From the early 1990s, Lyon became involved with live computer music, performing solo, and in the Japanese band Psychedelic Bumpo, with the Kyma system. Later in the 1990s, he gravitated toward software-based live processing, starting to develop Max/MSP externals in 1999. This work resulted in his LyonPotpourri collection of Max/MSP externals, and the FFTease spectral package, developed in collaboration with Christopher Penrose. In recent years, Lyon has focused on computer chamber music, which integrates live, iterative DSP strategies into the creation of traditionally notated instrumental scores. Other interests include spatial orchestration, and articulated noise composition. Lyon teaches computer music in the School of Music and Sonic Art at Queen's University Belfast.
+
+R. Luke DuBois is a composer, artist, and performer who explores the temporal, verbal, and visual structures of cultural and personal ephemera. He has collaborated on interactive performance, installation, and music production work with many artists and organizations including Toni Dove, Matthew Ritchie, Todd Reynolds, Jamie Jewett, Bora Yoon, Michael Joaquin Grey, Elliott Sharp, Michael Gordon, Maya Lin, Bang on a Can, Engine27, Harvestworks, and LEMUR, and was the director of the Princeton Laptop Orchestra for its 2007 season. Stemming from his investigations of ``time-lapse phonography,'' his recent work is a sonic and encyclopedic relative to time-lapse photography. Just as a long camera exposure fuses motion into a single image, his work reveals the average sonority, visual language, and vocabulary in music, film, text, or cultural information. He teaches at the Brooklyn Experimental Media Center at the Polytechnic Institute of NYU, and is on the Board of Directors of Issue Project Room.
+
+Concert Venue and Time: North Quad Space 2435, Monday May 21, 11:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Gascia Ouzounian and R.~Benjamin Knapp and Eric Lyon and R.~Luke DuBois},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {Music for Sleeping \&amp; Waking Minds},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

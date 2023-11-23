@@ -1,0 +1,269 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Elemental &amp; Cyrene Reefs</h1>
+				
+				<h4>
+
+
+
+Ivica Bukvic, and Eric Standley</h4>
+				
+				<p>Installation Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2009</li>
+					<li>Location: Pittsburgh, Pennsylvania</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Sound Lanterns is an interactive sound installation that is powered by the sun, and emits sounds based on the amount of sunlight available, as well as on the amount of light that falls on light sensors on each of the four lanterns themselves. Listeners can change the nature of the sound by casting shadows over the solar panel, or over individual sound lanterns. The piece relies entirely on sunlight available in the moment. In most PV applications, the solar panel is actually supplying current to a battery or a capacitor, thus “buffering” the power. In this piece, I wanted to experiment with using the sun’s raw energy directly, without regulating the voltage in any way. Therefore, these sound makers go through many changes as the sunlight waxes and wanes. Each lantern features a slightly different sound-making circuit, thus the four voices are unique and, when sounding together, create a chorus of sun-powered chattering, squealing, buzzing, and humming. Listeners should feel free to “play” the lanterns together by casting shadows, touching the solar panels, or slightly tilting the panels. The performance of these devices is variable and depends upon the amount of sunlight available: if it is dark, they make no sound; in dim light, sound is non-existent, or very soft and subtle. In bright sunlight, they scream and wail loudly.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Ivica Bukvic, and Eric Standley. 2009. 
+
+
+Elemental &amp; Cyrene Reefs. 
+
+
+<em>Installation Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{Bukvic2009,
+ abstract = {Sound Lanterns is an interactive sound installation that is powered by the sun, and emits sounds based on the amount of sunlight available, as well as on the amount of light that falls on light sensors on each of the four lanterns themselves. Listeners can change the nature of the sound by casting shadows over the solar panel, or over individual sound lanterns. The piece relies entirely on sunlight available in the moment. In most PV applications, the solar panel is actually supplying current to a battery or a capacitor, thus “buffering” the power. In this piece, I wanted to experiment with using the sun’s raw energy directly, without regulating the voltage in any way. Therefore, these sound makers go through many changes as the sunlight waxes and wanes. Each lantern features a slightly different sound-making circuit, thus the four voices are unique and, when sounding together, create a chorus of sun-powered chattering, squealing, buzzing, and humming. Listeners should feel free to “play” the lanterns together by casting shadows, touching the solar panels, or slightly tilting the panels. The performance of these devices is variable and depends upon the amount of sunlight available: if it is dark, they make no sound; in dim light, sound is non-existent, or very soft and subtle. In bright sunlight, they scream and wail loudly.},
+ address = {Pittsburgh, Pennsylvania},
+ author = {Ivica Bukvic and Eric Standley},
+ booktitle = {Installation Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Golan Levin},
+ publisher = {Carnegie Mellon University},
+ title = {Elemental &amp; Cyrene Reefs},
+ year = {2009}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

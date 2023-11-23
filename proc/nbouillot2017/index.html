@@ -1,0 +1,273 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>SATIE: a live and scalable 3D audio scene rendering environment for large multi-channel loudspeaker configurations</h1>
+				
+				<h4>
+
+
+
+Nicolas Bouillot, Zack Settel, and Michal Seta</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2017</li>
+					<li>Location: Copenhagen, Denmark</li>
+					
+					<li>Pages: 404–409</li>
+					
+					
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.1176298">10.5281/zenodo.1176298</a>
+</li>
+					<li><a href="http://www.nime.org/proceedings/2017/nime2017_paper0076.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Recent advances in computing offer the possibility to scale real-time 3D virtual audio scenes to include hundreds of simultaneous sound sources, rendered in realtime, for large numbers of audio outputs. Our Spatial Audio Toolkit for Immersive Environments (SATIE), allows us to render these dense audio scenes to large multi-channel (e.g. 32 or more) loudspeaker systems, in realtime and controlled from external software such as 3D scenegraph software.  As we describe here, SATIE is designed for improved scalability: minimum dependency between nodes in the audio DSP graph for parallel audio computation, controlling sound objects by groups and load balancing computation of geometry that allow to reduce the number of messages for controlling simultaneously a high number of sound sources. The paper presents SATIE along with example use case scenarios. Our initial work demonstrates SATIE's flexibility, and has provided us with novel sonic sensations such as ``audio depth of field'' and real-time sound swarming.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Nicolas Bouillot, Zack Settel, and Michal Seta. 2017. 
+
+
+SATIE: a live and scalable 3D audio scene rendering environment for large multi-channel loudspeaker configurations. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1176298">10.5281/zenodo.1176298</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{nbouillot2017,
+ abstract = {Recent advances in computing offer the possibility to scale real-time 3D virtual audio scenes to include hundreds of simultaneous sound sources, rendered in realtime, for large numbers of audio outputs. Our Spatial Audio Toolkit for Immersive Environments (SATIE), allows us to render these dense audio scenes to large multi-channel (e.g. 32 or more) loudspeaker systems, in realtime and controlled from external software such as 3D scenegraph software.  As we describe here, SATIE is designed for improved scalability: minimum dependency between nodes in the audio DSP graph for parallel audio computation, controlling sound objects by groups and load balancing computation of geometry that allow to reduce the number of messages for controlling simultaneously a high number of sound sources. The paper presents SATIE along with example use case scenarios. Our initial work demonstrates SATIE's flexibility, and has provided us with novel sonic sensations such as ``audio depth of field'' and real-time sound swarming.},
+ address = {Copenhagen, Denmark},
+ author = {Nicolas Bouillot and Zack Settel and Michal Seta},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.5281/zenodo.1176298},
+ issn = {2220-4806},
+ pages = {404--409},
+ publisher = {Aalborg University Copenhagen},
+ title = {SATIE: a live and scalable 3D audio scene rendering environment for large multi-channel loudspeaker configurations},
+ url = {http://www.nime.org/proceedings/2017/nime2017_paper0076.pdf},
+ year = {2017}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

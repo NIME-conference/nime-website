@@ -1,0 +1,273 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>On-the-fly Programming: Using Code as an Expressive Musical Instrument</h1>
+				
+				<h4>
+
+
+
+Ge Wang, and Perry R. Cook</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2004</li>
+					<li>Location: Hamamatsu, Japan</li>
+					
+					<li>Pages: 138–143</li>
+					
+					<li>Keywords: code as interface,compiler,concurrency,concurrent audio programming,on-the-fly programming,real-,synchronization,synthesis,time,timing,virtual machine</li>
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.1176683">10.5281/zenodo.1176683</a>
+</li>
+					<li><a href="http://www.nime.org/proceedings/2004/nime2004_138.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>On-the-fly programming is a style of programming in which the programmer/performer/composer augments and modifies the program while it is running, without stopping or restarting, in order to assert expressive, programmable control at runtime. Because of the fundamental powers of programming languages, we believe the technical and aesthetic aspects of on-the-fly programming are worth exploring. In this paper, we present a formalized framework for on-the-fly programming, based on the ChucK synthesis language, which supports a truly concurrent audio programming model with sample-synchronous timing, and a highly on-the-fly style of programming. We first provide a well-defined notion of on-thefly programming. We then address four fundamental issues that confront the on-the-fly programmer: timing, modularity, conciseness, and flexibility. Using the features and properties of ChucK, we show how it solves many of these issues. In this new model, we show that (1) concurrency provides natural modularity for on-the-fly programming, (2) the timing mechanism in ChucK guarantees on-the-fly precision and consistency, (3) the Chuck syntax improves conciseness, and (4) the overall system is a useful framework for exploring on-the-fly programming. Finally, we discuss the aesthetics of on-the-fly performance. </p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Ge Wang, and Perry R. Cook. 2004. 
+
+
+On-the-fly Programming: Using Code as an Expressive Musical Instrument. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1176683">10.5281/zenodo.1176683</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{Wang2004,
+ abstract = {On-the-fly programming is a style of programming in which the programmer/performer/composer augments and modifies the program while it is running, without stopping or restarting, in order to assert expressive, programmable control at runtime. Because of the fundamental powers of programming languages, we believe the technical and aesthetic aspects of on-the-fly programming are worth exploring. In this paper, we present a formalized framework for on-the-fly programming, based on the ChucK synthesis language, which supports a truly concurrent audio programming model with sample-synchronous timing, and a highly on-the-fly style of programming. We first provide a well-defined notion of on-thefly programming. We then address four fundamental issues that confront the on-the-fly programmer: timing, modularity, conciseness, and flexibility. Using the features and properties of ChucK, we show how it solves many of these issues. In this new model, we show that (1) concurrency provides natural modularity for on-the-fly programming, (2) the timing mechanism in ChucK guarantees on-the-fly precision and consistency, (3) the Chuck syntax improves conciseness, and (4) the overall system is a useful framework for exploring on-the-fly programming. Finally, we discuss the aesthetics of on-the-fly performance. },
+ address = {Hamamatsu, Japan},
+ author = {Wang, Ge and Cook, Perry R.},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.5281/zenodo.1176683},
+ issn = {2220-4806},
+ keywords = {code as interface,compiler,concurrency,concurrent audio programming,on-the-fly programming,real-,synchronization,synthesis,time,timing,virtual machine},
+ pages = {138--143},
+ title = {On-the-fly Programming: Using Code as an Expressive Musical Instrument},
+ url = {http://www.nime.org/proceedings/2004/nime2004_138.pdf},
+ year = {2004}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

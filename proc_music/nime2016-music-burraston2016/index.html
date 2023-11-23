@@ -1,0 +1,270 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Rainwire</h1>
+				
+				<h4>
+
+
+
+David Burraston</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2016</li>
+					<li>Location: Brisbane, Australia</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes: Rainwire encompasses the investigation of rainfall &amp; its application as a medium for artistic, cultural &amp; scientific exchange. The Rainwire project includes development of a prototype Acoustic Rain Gauge using suspended cables (long wire instruments), and subsequently expanded through various collaborations in a range of creative &amp; environmental contexts. Rainwire is an experimental approach at technological appropriation of agricultural based objects for art and science, with particular emphasis on climate change issues and agriculture. This performance will present a live laptop mix of environmental sonification recordings from the newly built Rainwire prototype. Previous work on Rainwire has been conducted on shared instruments, this performance will be an opportunity to present the newly built dedicated Rainwire prototype in public for the first time in Australia. Long-wire instruments are made from spans of fencing wire across the open landscape. Rainwire developed from using contact mic recordings of rainfall ‘playing’ the long wire instruments for my music compositions. This enabled a proof of concept study to the extent that the audio recordings demonstrate a wide variety of temporal &amp; spatial rain event complexity. This suggests that environmental sonification has great potential to measure rainfall accurately, &amp; address recognized shortcomings of existing equipment &amp; approaches in meteorology. Rain induced sounds with long wire instruments have a wide range of unique, audibly recognisable features. All of these sonic features exhibit dynamic volume &amp; tonal characteristics, depending on the rain type &amp; environmental conditions. Aside from the vast array of creative possibilities, the high spatial, temporal, volume &amp; tonal resolution could provide significant advancement to knowledge of rainfall event profiles, intensity &amp; microstructure. The challenge lies in identifying distinctive sound patterns &amp; relating them to particular types of rainfall events. Rainwire is beyond simple sonification of data, it embeds technology &amp; data collection within cultural contexts. With rainfall as catalyst to draw inspiration from, artists, scientists &amp; cultural groups are key to informing science &amp; incite new creative modalities.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+David Burraston. 2016. 
+
+
+Rainwire. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{nime2016-music-Burraston2016,
+ abstract = {Program notes: Rainwire encompasses the investigation of rainfall &amp; its application as a medium for artistic, cultural &amp; scientific exchange. The Rainwire project includes development of a prototype Acoustic Rain Gauge using suspended cables (long wire instruments), and subsequently expanded through various collaborations in a range of creative &amp; environmental contexts. Rainwire is an experimental approach at technological appropriation of agricultural based objects for art and science, with particular emphasis on climate change issues and agriculture. This performance will present a live laptop mix of environmental sonification recordings from the newly built Rainwire prototype. Previous work on Rainwire has been conducted on shared instruments, this performance will be an opportunity to present the newly built dedicated Rainwire prototype in public for the first time in Australia. Long-wire instruments are made from spans of fencing wire across the open landscape. Rainwire developed from using contact mic recordings of rainfall ‘playing’ the long wire instruments for my music compositions. This enabled a proof of concept study to the extent that the audio recordings demonstrate a wide variety of temporal &amp; spatial rain event complexity. This suggests that environmental sonification has great potential to measure rainfall accurately, &amp; address recognized shortcomings of existing equipment &amp; approaches in meteorology. Rain induced sounds with long wire instruments have a wide range of unique, audibly recognisable features. All of these sonic features exhibit dynamic volume &amp; tonal characteristics, depending on the rain type &amp; environmental conditions. Aside from the vast array of creative possibilities, the high spatial, temporal, volume &amp; tonal resolution could provide significant advancement to knowledge of rainfall event profiles, intensity &amp; microstructure. The challenge lies in identifying distinctive sound patterns &amp; relating them to particular types of rainfall events. Rainwire is beyond simple sonification of data, it embeds technology &amp; data collection within cultural contexts. With rainfall as catalyst to draw inspiration from, artists, scientists &amp; cultural groups are key to informing science &amp; incite new creative modalities.},
+ address = {Brisbane, Australia},
+ author = {David Burraston},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Andrew Brown and Toby Gifford},
+ month = {June},
+ publisher = {Griffith University},
+ title = {Rainwire},
+ year = {2016}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

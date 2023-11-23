@@ -1,0 +1,271 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>The Moirai Mask</h1>
+				
+				<h4>
+
+
+
+Chloë L A Sobek</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2023</li>
+					
+					
+					
+					<li>Article Number: 1158</li>
+					
+					
+					<li><a href="https://drive.google.com/file/d/1HUZmMiRpqmsrhajCk9VtLhiGLlwTizcd/view">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>PROGRAM NOTES The Moirai Mask is an ornate mask that operates as a NIME. The mask has an integrated MIDI controller that allows the performer to play music by touching the brass and bamboo panels. In performance, the artist uses audio-montage to collage sounds of the Australian wilderness with electronics and sampled fragments of an acoustic string instrument. The mask is handmade from predominantly recycled materials; hand cut brass panels and hand painted bamboo elements adorn the front of the mask, which are sewn into the cotton paneling that covers the hand soldered electrical components. The Moirai Mask is a sonic play on the Covid-19 PPE mask. The PPE mask, like an exo-skeleton, provides an extra, augmented layer of protection from our bodies, the ‘outside world’, the virus, the Other. The Covid-19 pandemic forced us to accept our bodily limitations and embrace this prosaic form of human augmentation, the PPE mask. Furthermore, as the Covid-19 virus enters our bodies and is transmitted through our breath, we must acknowledge that we are not separate from the non-human world that we inhabit but are in fact bodily constituted through it [1]. As Deborah Lupton et al. point out ‘the COVID crisis [has] heightened awareness of our collective vulnerability to each other’s more-than-human bodies’ [ibid.]. Drawing on the concept of a NIME, here the PPE mask is appropriated as a symbolic and subversive art object, paying sonic homage to the non-human world while the artist’s voice is subtly silenced.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Chloë L A Sobek. 2023. 
+
+
+The Moirai Mask. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@article{nime23-music-1158,
+ abstract = {PROGRAM NOTES The Moirai Mask is an ornate mask that operates as a NIME. The mask has an integrated MIDI controller that allows the performer to play music by touching the brass and bamboo panels. In performance, the artist uses audio-montage to collage sounds of the Australian wilderness with electronics and sampled fragments of an acoustic string instrument. The mask is handmade from predominantly recycled materials; hand cut brass panels and hand painted bamboo elements adorn the front of the mask, which are sewn into the cotton paneling that covers the hand soldered electrical components. The Moirai Mask is a sonic play on the Covid-19 PPE mask. The PPE mask, like an exo-skeleton, provides an extra, augmented layer of protection from our bodies, the ‘outside world’, the virus, the Other. The Covid-19 pandemic forced us to accept our bodily limitations and embrace this prosaic form of human augmentation, the PPE mask. Furthermore, as the Covid-19 virus enters our bodies and is transmitted through our breath, we must acknowledge that we are not separate from the non-human world that we inhabit but are in fact bodily constituted through it [1]. As Deborah Lupton et al. point out ‘the COVID crisis [has] heightened awareness of our collective vulnerability to each other’s more-than-human bodies’ [ibid.]. Drawing on the concept of a NIME, here the PPE mask is appropriated as a symbolic and subversive art object, paying sonic homage to the non-human world while the artist’s voice is subtly silenced.},
+ articleno = {1158},
+ author = {Chloë L A Sobek},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Rob Hamilton},
+ month = {May},
+ note = {Live Concert 5, Friday June 2, Centro de Cultura Digital},
+ title = {The Moirai Mask},
+ url = {https://drive.google.com/file/d/1HUZmMiRpqmsrhajCk9VtLhiGLlwTizcd/view},
+ year = {2023}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

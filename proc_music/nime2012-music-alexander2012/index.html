@@ -1,0 +1,327 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Thought.Projection</h1>
+				
+				<h4>
+
+
+
+Robert Alexander, David Biedenbender, Anton Pugh, Suby Raman, Amanda~Sari Perez, and Sam~L. Richards</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+The MiND Ensemble (Music in Neural Dimensions) is a new-media performance group that utilizes custom interfaces to explore the mind-machine-music connection. The traditional realization of the creative process ahs been as follows: there is an artist, a thought process, and a fixed medium which actualizes those thoughts. Neurofeedback radically shifts this paradigm. Now there is an artist and a dynamic medium that actively interfaces with the thought processes of the artist himself, drastically reshaping the way we understand the creative process. The MiND Ensemble promotes a rich awareness in which the mind is the creative medium. All projection and audio processing in this piece are driven in real time, with data gathered from the Emotiv EPOC headset.
+
+Composer(s) Credits:
+
+Robert Alexander, David Biedenbender, Anton Pugh, Suby Raman, Amanda   Sari Perez, Sam L. Richards
+
+Instrumentalist(s) Credits:
+
+Jeremy Crosmer (violoncello), Robert Alexander (MiND Synth / Emotiv), Anton Pugh (MiND Synth / Emotiv)
+
+Artist(s) Biography:
+
+Robert Alexander is a Sonification Specialist with the Solar Heliospheric Research group at the University of Michigan, where he is pursuing a PhD in Design Science. He was awarded a JPFP Fellowship from NASA, an Outstanding Achievement award from ICAD, and is an Artist in Residence with the Imagine Science Film Festival. He has collaborated with artists such as DJ Spooky, and performed on several international stages. He founded the MiND Ensemble in 2010.
+
+David Biedenbender is currently a doctoral student in music composition at the University of Michigan. His first musical collaborations were in rock and jazz bands as an electric bassist and in jazz and wind bands as a bass trombonist and euphonium player. His present interests include working with everyone from classically trained musicians to improvisers, fixed electronics to brain data.
+
+Anton Pugh is a Masters student in Electrical Engineering: Systems (Signal Processing concentration) at the University of Michigan. Presently he is working on expanding his knowledge of the Processing and iOS platforms, especially as they apply to the MiND Ensemble. His primary hobby is designing and building custom electronic instruments and new musical interfaces. He is also an active musician and plays viola in the Campus Symphony Orchestra.
+
+Suby Raman is a composer, conductor, polyglot and linguist. His major artistic passion is drawn from language itself: the basic aural and mental components of language, how it determines, separates and unites cultures, and its influence (or lack thereof) on our perception and expression of reality. He has conducted research in brain-computer interface technology, which assist people afflicted by ALS and spinal cord injuries.
+
+Amanda Sari Perez is a researcher with the Neural Engineering lab at the University of Michigan. She is currently working with microelectrode arrays to record brain activity from implanted sites. In 2009 she co- founded the Ann Arbor HackerSpace, a DIY community engaged in hands-on learning. For the past 3 years she has created artistic installations for the Burning Man festival, including a performance that deconstructs participants' notions of the self. Amanda is with the MiND Ensemble to work toward lowering the barrier for creative expression.
+
+Sam L. Richards is a composer, artist, and researcher with a penchant for interdisciplinary collaboration and an appetite for creative engagement of unwieldy conceptual problems. As a composer he has worked with media artists, filmmakers, animators, and choreographers, as well as making music for the concert hall. Although formally trained as a musician, he also produces video installations, visual and aural media, creative writing, and regularly steps off the beaten path in order to engage new things in new ways.
+
+Jeremy Crosmer is a gifted young professional cellist and composer. After achieving a double-major in music and mathematics from Hendrix College, he went on to receive multiple graduate degrees from the University of Michigan by the age of 23. As a cellist, Crosmer has performed across the country, soloing with orchestras in Arkansas and attending music festivals from Music Academy of the West to Tanglewood Music Center. An avid promoted of new music, Crosmer has both commissioned and premiered dozens of works by composers at Michigan and elsewhere. His performance dissertation at the University of Michigan is a study of the music of Paul Hindemith and cello sonatas by French composers during World War I.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Tuesday May 22, 7:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Robert Alexander, David Biedenbender, Anton Pugh, Suby Raman, Amanda~Sari Perez, and Sam~L. Richards. 2012. 
+
+
+Thought.Projection. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-Alexander2012,
+ abstract = {Program notes:
+
+The MiND Ensemble (Music in Neural Dimensions) is a new-media performance group that utilizes custom interfaces to explore the mind-machine-music connection. The traditional realization of the creative process ahs been as follows: there is an artist, a thought process, and a fixed medium which actualizes those thoughts. Neurofeedback radically shifts this paradigm. Now there is an artist and a dynamic medium that actively interfaces with the thought processes of the artist himself, drastically reshaping the way we understand the creative process. The MiND Ensemble promotes a rich awareness in which the mind is the creative medium. All projection and audio processing in this piece are driven in real time, with data gathered from the Emotiv EPOC headset.
+
+Composer(s) Credits:
+
+Robert Alexander, David Biedenbender, Anton Pugh, Suby Raman, Amanda   Sari Perez, Sam L. Richards
+
+Instrumentalist(s) Credits:
+
+Jeremy Crosmer (violoncello), Robert Alexander (MiND Synth / Emotiv), Anton Pugh (MiND Synth / Emotiv)
+
+Artist(s) Biography:
+
+Robert Alexander is a Sonification Specialist with the Solar Heliospheric Research group at the University of Michigan, where he is pursuing a PhD in Design Science. He was awarded a JPFP Fellowship from NASA, an Outstanding Achievement award from ICAD, and is an Artist in Residence with the Imagine Science Film Festival. He has collaborated with artists such as DJ Spooky, and performed on several international stages. He founded the MiND Ensemble in 2010.
+
+David Biedenbender is currently a doctoral student in music composition at the University of Michigan. His first musical collaborations were in rock and jazz bands as an electric bassist and in jazz and wind bands as a bass trombonist and euphonium player. His present interests include working with everyone from classically trained musicians to improvisers, fixed electronics to brain data.
+
+Anton Pugh is a Masters student in Electrical Engineering: Systems (Signal Processing concentration) at the University of Michigan. Presently he is working on expanding his knowledge of the Processing and iOS platforms, especially as they apply to the MiND Ensemble. His primary hobby is designing and building custom electronic instruments and new musical interfaces. He is also an active musician and plays viola in the Campus Symphony Orchestra.
+
+Suby Raman is a composer, conductor, polyglot and linguist. His major artistic passion is drawn from language itself: the basic aural and mental components of language, how it determines, separates and unites cultures, and its influence (or lack thereof) on our perception and expression of reality. He has conducted research in brain-computer interface technology, which assist people afflicted by ALS and spinal cord injuries.
+
+Amanda Sari Perez is a researcher with the Neural Engineering lab at the University of Michigan. She is currently working with microelectrode arrays to record brain activity from implanted sites. In 2009 she co- founded the Ann Arbor HackerSpace, a DIY community engaged in hands-on learning. For the past 3 years she has created artistic installations for the Burning Man festival, including a performance that deconstructs participants' notions of the self. Amanda is with the MiND Ensemble to work toward lowering the barrier for creative expression.
+
+Sam L. Richards is a composer, artist, and researcher with a penchant for interdisciplinary collaboration and an appetite for creative engagement of unwieldy conceptual problems. As a composer he has worked with media artists, filmmakers, animators, and choreographers, as well as making music for the concert hall. Although formally trained as a musician, he also produces video installations, visual and aural media, creative writing, and regularly steps off the beaten path in order to engage new things in new ways.
+
+Jeremy Crosmer is a gifted young professional cellist and composer. After achieving a double-major in music and mathematics from Hendrix College, he went on to receive multiple graduate degrees from the University of Michigan by the age of 23. As a cellist, Crosmer has performed across the country, soloing with orchestras in Arkansas and attending music festivals from Music Academy of the West to Tanglewood Music Center. An avid promoted of new music, Crosmer has both commissioned and premiered dozens of works by composers at Michigan and elsewhere. His performance dissertation at the University of Michigan is a study of the music of Paul Hindemith and cello sonatas by French composers during World War I.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Tuesday May 22, 7:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Robert Alexander and David Biedenbender and Anton Pugh and Suby Raman and Amanda~Sari Perez and Sam~L. Richards},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {Thought.Projection},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

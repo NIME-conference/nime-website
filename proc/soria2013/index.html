@@ -1,0 +1,275 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Multidimensional sound spatialization by means of chaotic dynamical systems</h1>
+				
+				<h4>
+
+
+
+Edmar Soria, and Roberto Morales-Manzanares</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2013</li>
+					<li>Location: Daejeon, Republic of Korea</li>
+					
+					<li>Pages: 79–83</li>
+					
+					<li>Keywords: NIME, spatialization, dynamical systems, chaos</li>
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.1178664">10.5281/zenodo.1178664</a>
+</li>
+					<li><a href="http://www.nime.org/proceedings/2013/nime2013_195.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>This work presents a general framework method for cre-ating spatialization systems focused on electroacoustic andacousmatic music performance and creation. Although weused the logistic equation as orbit generator, any dynami-cal system could be suitable. The main idea lies on generating vectors of Rn with entriesfrom data series of di_x000B_erent orbits from an speci_x000C_c dynami-cal system. Such vectors will be called system vectors. Ourproposal is to create ordered paths between those pointsor system vectors using the Splines Quark library by Felix,1which allow us to generate smooth curves joining the points.Finally, interpolating that result with a _x000C_xed sample value,we are able to obtain speci_x000C_c and independent multidimen-sional panning trajectories for each speaker array and forany number of sound sources.Our contribution is intended to be at the very root of the compositionalprocess giving to the creator a method for exploring new ways for spatialsound placement over time for a wide range of speakers ar-rangements. The advantage of using controlled chaotic dy-namical systems like the logistic equation, lies on the factthat the composer can freely and consciously choose be-tween stable or irregular behaviour for the orbits that willgenerate his/her panning trajectories. Besides, with the useof isometries, it is possible to generate di_x000B_erent related or-bits with one single evaluation of the system. The use ofthe spline method in SuperCollider allows the possibilityof joining and relating those values from orbits into a wellde_x000C_ned and coherent general system. Further research willinclude controlling synthesis parameters in the same waywe created panning trajectories.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Edmar Soria, and Roberto Morales-Manzanares. 2013. 
+
+
+Multidimensional sound spatialization by means of chaotic dynamical systems. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1178664">10.5281/zenodo.1178664</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{Soria2013,
+ abstract = {This work presents a general framework method for cre-ating spatialization systems focused on electroacoustic andacousmatic music performance and creation. Although weused the logistic equation as orbit generator, any dynami-cal system could be suitable. The main idea lies on generating vectors of Rn with entriesfrom data series of di_x000B_erent orbits from an speci_x000C_c dynami-cal system. Such vectors will be called system vectors. Ourproposal is to create ordered paths between those pointsor system vectors using the Splines Quark library by Felix,1which allow us to generate smooth curves joining the points.Finally, interpolating that result with a _x000C_xed sample value,we are able to obtain speci_x000C_c and independent multidimen-sional panning trajectories for each speaker array and forany number of sound sources.Our contribution is intended to be at the very root of the compositionalprocess giving to the creator a method for exploring new ways for spatialsound placement over time for a wide range of speakers ar-rangements. The advantage of using controlled chaotic dy-namical systems like the logistic equation, lies on the factthat the composer can freely and consciously choose be-tween stable or irregular behaviour for the orbits that willgenerate his/her panning trajectories. Besides, with the useof isometries, it is possible to generate di_x000B_erent related or-bits with one single evaluation of the system. The use ofthe spline method in SuperCollider allows the possibilityof joining and relating those values from orbits into a wellde_x000C_ned and coherent general system. Further research willinclude controlling synthesis parameters in the same waywe created panning trajectories.},
+ address = {Daejeon, Republic of Korea},
+ author = {Edmar Soria and Roberto Morales-Manzanares},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.5281/zenodo.1178664},
+ issn = {2220-4806},
+ keywords = {NIME, spatialization, dynamical systems, chaos},
+ month = {May},
+ pages = {79--83},
+ publisher = {Graduate School of Culture Technology, KAIST},
+ title = {Multidimensional sound spatialization by means of chaotic dynamical systems},
+ url = {http://www.nime.org/proceedings/2013/nime2013_195.pdf},
+ year = {2013}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

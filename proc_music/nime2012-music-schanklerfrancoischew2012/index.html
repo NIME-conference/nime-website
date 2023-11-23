@@ -1,0 +1,311 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Mimi: Multi-modal Interaction for Musical Improvisation</h1>
+				
+				<h4>
+
+
+
+Isaac Schankler, Alexandre François, and Elaine Chew</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+Mimi, designed by Alexandre François with input from Elaine Chew and Isaac Schankler, is a multi-modal interactive musical improvisation system that explores the impact of visual feedback in performer-machine interaction. The Mimi system enables the performer to experiment with a unique blend of improvisation-like on-the-fly invention, composition-like planning and choreography, and expressive performance. Mimi's improvisations are created through a factor oracle. The visual interface gives the performer and the audience instantaneous and continuous information on the state of the oracle, its recombination strategy, the music to come, and that recently played. The performer controls when the system starts, stops, and learns, the playback volume, and the recombination rate. Mimi is not only an effective improvisation partner, it also provides a platform through which to interrogate the mental models necessary for successful improvisation. This performance also features custom synths and mechanisms for inter-oracle interaction created for Mimi by Isaac Schankler.
+
+Composer(s) Credits:
+
+Isaac Schankler, Alexandre François, Elaine Chew
+
+Instrumentalist(s) Credits:
+
+Isaac Schankler (keyboard &amp; electronics), Mimi (keyboard &amp; electronics)
+
+Artist(s) Biography:
+
+Isaac Schankler is a Los Angeles-based composer-improviser. His recent honors include a grant from Meet the Composer for his opera Light and Power, selection as finalist in the ASCAP/SEAMUS Composition Competition, and the Damien Top Prize in the ASCAP/Lotte Lehmann Foundation Art Song Competition. He is the Artist in Residence of the Music Computation and Cognition Laboratory (MuCoaCo) at the USC Viterbi School of Engineering, and an Artistic Director of the concert series People Inside Electronics. Isaac holds degrees in composition from the USC Thornton School of Music (DMA) and the University of Michigan (MM, BM).
+
+Elaine Chew is Professor of Digital Media at Queen Mary, University of London, and Director of Music Initiatives at the Centre for Digital Music. An operations researcher and pianist by training, her research goal is to de-mystify music and its performance through the use of formal scientific methods; as a performer, she collaborates with composers to present eclectic post-tonal music. She received PhD and SM degrees in Operations Research from MIT and a BAS in Music and Mathematical &amp; Computational Sciences from Stanford. She is the recipient of NSF Career and PECASE awards, and a Radcliffe Institute for Advanced Studies fellowship.
+
+Alexandre R.J. François's research focuses on the modeling and design of interactive (software) systems, as an enabling step towards the understanding of perception and cognition. He was a 2007-2008 Fellow of the Radcliffe Institute for Advanced Study at Harvard University, where he co-led a music research cluster on Analytical Listening Through Interactive Visualization. François received the Dipl\^ome d'Ingénieur from the Institut National Agronomique Paris-Grignon in 1993, the Dipl\^ome d'Etudes Approfondies (M.S.) from the University Paris IX - Dauphine in 1994, and the M.S. and Ph.D. degrees in Computer Science from the University of Southern California in 1997 and 2000 respectively.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Wednesday May 23, 7:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Isaac Schankler, Alexandre François, and Elaine Chew. 2012. 
+
+
+Mimi: Multi-modal Interaction for Musical Improvisation. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-SchanklerFrancoisChew2012,
+ abstract = {Program notes:
+
+Mimi, designed by Alexandre Fran\c{c}ois with input from Elaine Chew and Isaac Schankler, is a multi-modal interactive musical improvisation system that explores the impact of visual feedback in performer-machine interaction. The Mimi system enables the performer to experiment with a unique blend of improvisation-like on-the-fly invention, composition-like planning and choreography, and expressive performance. Mimi's improvisations are created through a factor oracle. The visual interface gives the performer and the audience instantaneous and continuous information on the state of the oracle, its recombination strategy, the music to come, and that recently played. The performer controls when the system starts, stops, and learns, the playback volume, and the recombination rate. Mimi is not only an effective improvisation partner, it also provides a platform through which to interrogate the mental models necessary for successful improvisation. This performance also features custom synths and mechanisms for inter-oracle interaction created for Mimi by Isaac Schankler.
+
+Composer(s) Credits:
+
+Isaac Schankler, Alexandre Fran\c{c}ois, Elaine Chew
+
+Instrumentalist(s) Credits:
+
+Isaac Schankler (keyboard \&amp; electronics), Mimi (keyboard \&amp; electronics)
+
+Artist(s) Biography:
+
+Isaac Schankler is a Los Angeles-based composer-improviser. His recent honors include a grant from Meet the Composer for his opera Light and Power, selection as finalist in the ASCAP/SEAMUS Composition Competition, and the Damien Top Prize in the ASCAP/Lotte Lehmann Foundation Art Song Competition. He is the Artist in Residence of the Music Computation and Cognition Laboratory (MuCoaCo) at the USC Viterbi School of Engineering, and an Artistic Director of the concert series People Inside Electronics. Isaac holds degrees in composition from the USC Thornton School of Music (DMA) and the University of Michigan (MM, BM).
+
+Elaine Chew is Professor of Digital Media at Queen Mary, University of London, and Director of Music Initiatives at the Centre for Digital Music. An operations researcher and pianist by training, her research goal is to de-mystify music and its performance through the use of formal scientific methods; as a performer, she collaborates with composers to present eclectic post-tonal music. She received PhD and SM degrees in Operations Research from MIT and a BAS in Music and Mathematical \&amp; Computational Sciences from Stanford. She is the recipient of NSF Career and PECASE awards, and a Radcliffe Institute for Advanced Studies fellowship.
+
+Alexandre R.J. Fran\c{c}ois's research focuses on the modeling and design of interactive (software) systems, as an enabling step towards the understanding of perception and cognition. He was a 2007-2008 Fellow of the Radcliffe Institute for Advanced Study at Harvard University, where he co-led a music research cluster on Analytical Listening Through Interactive Visualization. Fran\c{c}ois received the Dipl\^{o}me d'Ing\'{e}nieur from the Institut National Agronomique Paris-Grignon in 1993, the Dipl\^{o}me d'Etudes Approfondies (M.S.) from the University Paris IX - Dauphine in 1994, and the M.S. and Ph.D. degrees in Computer Science from the University of Southern California in 1997 and 2000 respectively.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Wednesday May 23, 7:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Isaac Schankler and Alexandre Fran\c{c}ois and Elaine Chew},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {Mimi: Multi-modal Interaction for Musical Improvisation},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

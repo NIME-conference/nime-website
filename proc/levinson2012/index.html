@@ -1,0 +1,273 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>TedStick: A Tangible Electrophonic Drumstick</h1>
+				
+				<h4>
+
+
+
+Cory Levinson</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan</li>
+					
+					
+					
+					<li>Keywords: tangible user interface, piezoelectric sensors, gestural per-formance, digital sound manipulation</li>
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.1178325">10.5281/zenodo.1178325</a>
+</li>
+					<li><a href="http://www.nime.org/proceedings/2012/nime2012_96.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>TedStick is a new wireless musical instrument that processes acoustic sounds resonating within its wooden body and ma-nipulates them via gestural movements. The sounds are transduced by a piezoelectric sensor inside the wooden body, so any tactile contact with TedStick is transmitted as audio and further processed by a computer. The main method for performing with TedStick focuses on extracting diverse sounds from within the resonant properties of TedStick it-self. This is done by holding TedStick in one hand and a standard drumstick in the opposite hand while tapping, rubbing, or scraping the two against each other. Gestural movements of TedStick are then mapped to parameters for several sound effects including pitch shift, delay, reverb and low/high pass filters. Using this technique the hand holding the drumstick can control the acoustic sounds/interaction between the sticks while the hand holding TedStick can fo-cus purely on controlling the sound manipulation and effects parameters.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Cory Levinson. 2012. 
+
+
+TedStick: A Tangible Electrophonic Drumstick. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1178325">10.5281/zenodo.1178325</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{Levinson2012,
+ abstract = {TedStick is a new wireless musical instrument that processes acoustic sounds resonating within its wooden body and ma-nipulates them via gestural movements. The sounds are transduced by a piezoelectric sensor inside the wooden body, so any tactile contact with TedStick is transmitted as audio and further processed by a computer. The main method for performing with TedStick focuses on extracting diverse sounds from within the resonant properties of TedStick it-self. This is done by holding TedStick in one hand and a standard drumstick in the opposite hand while tapping, rubbing, or scraping the two against each other. Gestural movements of TedStick are then mapped to parameters for several sound effects including pitch shift, delay, reverb and low/high pass filters. Using this technique the hand holding the drumstick can control the acoustic sounds/interaction between the sticks while the hand holding TedStick can fo-cus purely on controlling the sound manipulation and effects parameters.},
+ address = {Ann Arbor, Michigan},
+ author = {Cory Levinson},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.5281/zenodo.1178325},
+ issn = {2220-4806},
+ keywords = {tangible user interface, piezoelectric sensors, gestural per-formance, digital sound manipulation},
+ publisher = {University of Michigan},
+ title = {TedStick: A Tangible Electrophonic Drumstick},
+ url = {http://www.nime.org/proceedings/2012/nime2012_96.pdf},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

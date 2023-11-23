@@ -1,0 +1,274 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Adaptive Hyperinstruments: Applying Evolutionary Techniques to Sound Synthesis and Performance</h1>
+				
+				<h4>
+
+
+
+James Mandelis</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2002</li>
+					<li>Location: Dublin, Ireland</li>
+					
+					<li>Pages: 116–117</li>
+					
+					<li>Keywords: adaptive interfaces, artificial life,expressivity, hyperinstruments, live performance, motion-to-sound mapping, selective breeding, sound meta-synthesis</li>
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.1176440">10.5281/zenodo.1176440</a>
+</li>
+					<li><a href="http://www.nime.org/proceedings/2002/nime2002_116.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>This paper describes the Genophone [2], a hyperinstrument developed for Sound-Performance-Design using the evolutionary paradigm of selective breeding as the driving process. Sound design, and control assignments (performance mappings), on most current systems rely heavily on an intimate knowledge of the Sound Synthesis Techniques (SSTs) employed by the sound generator (hardware or software based). This intimate knowledge can only be achieved by investing long periods of time playing around with sounds and experimenting with how parameters change the nature of the sounds produced. This experience is also needed when control mappings are defined for performance purposes, so external stimuli can effect changes in SST parameters. Often such experience can be gained after years of interaction with one particular SST. The system presented here attempts to aid the user in designing performance sounds and mappings without the necessity for deep knowledge of the SSTs involved. This is achieved by a selective breeding process on populations of individual sounds and their mapping. The initial populations are made up of individuals of existing hand-coded sounds and their mapping. Initial populations never have randomly derived individuals (this is not an issue as man's best friend was also not selectively bred from protozoa). The user previews the population then expresses how much individuals are liked by their relative repositioning on the screen (fitness). Some individuals are selected as parents to create a new population of offspring, through variable mutation and genetic recombination. These operators use the fitness as a bias for their function, and they were also successfully used in MutaSynth [1]. The offspring are then evaluated (as their parents were) and selected for breeding. This cycle continues until satisfactory sounds and their mapping are reached. Individuals can also be saved to disk for future "strain" development. The aim of the system is to encourage the creation of novel performance mappings and sounds with emphasis on exploration, rather than designs that satisfy specific a priori criteria.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+James Mandelis. 2002. 
+
+
+Adaptive Hyperinstruments: Applying Evolutionary Techniques to Sound Synthesis and Performance. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1176440">10.5281/zenodo.1176440</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{Mandelis2002,
+ abstract = {This paper describes the Genophone [2], a hyperinstrument developed for Sound-Performance-Design using the evolutionary paradigm of selective breeding as the driving process. Sound design, and control assignments (performance mappings), on most current systems rely heavily on an intimate knowledge of the Sound Synthesis Techniques (SSTs) employed by the sound generator (hardware or software based). This intimate knowledge can only be achieved by investing long periods of time playing around with sounds and experimenting with how parameters change the nature of the sounds produced. This experience is also needed when control mappings are defined for performance purposes, so external stimuli can effect changes in SST parameters. Often such experience can be gained after years of interaction with one particular SST. The system presented here attempts to aid the user in designing performance sounds and mappings without the necessity for deep knowledge of the SSTs involved. This is achieved by a selective breeding process on populations of individual sounds and their mapping. The initial populations are made up of individuals of existing hand-coded sounds and their mapping. Initial populations never have randomly derived individuals (this is not an issue as man's best friend was also not selectively bred from protozoa). The user previews the population then expresses how much individuals are liked by their relative repositioning on the screen (fitness). Some individuals are selected as parents to create a new population of offspring, through variable mutation and genetic recombination. These operators use the fitness as a bias for their function, and they were also successfully used in MutaSynth [1]. The offspring are then evaluated (as their parents were) and selected for breeding. This cycle continues until satisfactory sounds and their mapping are reached. Individuals can also be saved to disk for future "strain" development. The aim of the system is to encourage the creation of novel performance mappings and sounds with emphasis on exploration, rather than designs that satisfy specific a priori criteria.},
+ address = {Dublin, Ireland},
+ author = {Mandelis, James},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ date = {24-26 May, 2002},
+ doi = {10.5281/zenodo.1176440},
+ issn = {2220-4806},
+ keywords = {adaptive interfaces, artificial life,expressivity, hyperinstruments, live performance, motion-to-sound mapping, selective breeding, sound meta-synthesis},
+ pages = {116--117},
+ title = {Adaptive Hyperinstruments: Applying Evolutionary Techniques to Sound Synthesis and Performance},
+ url = {http://www.nime.org/proceedings/2002/nime2002_116.pdf},
+ year = {2002}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

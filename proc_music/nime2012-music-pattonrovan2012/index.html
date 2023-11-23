@@ -1,0 +1,307 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>the ellipsis catalog</h1>
+				
+				<h4>
+
+
+
+Kevin Patton, and Butch Rovan</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+the ellipsis catalog features new instruments designed by Kevin Patton and Butch Rovan. Patton's instrument, the ``Fossil'', is a wireless sensor-based musical instrument that is played with the entire gestural range of arm movement as well as finger pressure. Four FSRs, a momentary button, and a two-dimensional accelerometer are used to control the parameters of a custom software environment built in Max/MSP/Jitter. It is part of a group of four hand-carved wood instruments called the Digital Poplar Consort.
+
+Rovan's ``Banshee'' is an analog electronic musical instrument. Modeled after a wind instrument, the design uses six finger pads to control the pitch of an array of interrelated oscillators, and a mouth sensor that allows the performer to control volume. The Banshee also features a tilt-sensor that allows motion to change the voicing circuitry and resulting timbre. Battery powered, the instrument can plug into any amplifier or mixing console, much like an electric guitar.
+Composer(s) Credits:
+
+Instrumentalist(s) Credits:
+
+Kevin Patton (Fossil), Butch Rovan (Banshee)
+
+Artist(s) Biography:
+
+Kevin Patton is a musician, scholar, and technologist active in the fields of experimental music and multimedia theatre whose work explores the intersection of technology and performance. The design of new musical instruments as well as interfaces and computer systems for analysis, improvisation, installation and projection is at the center of his practice. His work has been recognized for his collaboration with visual artist Maria del Carmen Montoya with the 2009 Rhizome commission for the piece, I Sky You. Patton is an assistant professor of music and performance technologies at Oregon State University. He holds a Ph.D. and M.A. from Brown University in electronic music and multimedia composition. He also holds a Master of Music degree in jazz studies and composition from the University of North Texas. He was an Invited Researcher at the Sorbonne, University of Paris IV, for the Spring of 2009.
+
+Butch Rovan is a media artist and performer at Brown University, where he co-directs MEME (Multimedia &amp; Electronic Music Experiments @ Brown). Rovan has received prizes from the Bourges International Electroacoustic Music Competition, the Berlin Transmediale International Media Arts Festival, and his work has appeared throughout Europe and the U.S. Most recently his interactive installation Let us imagine a straight line was featured in the 14th WRO International Media Art Biennale, Poland.
+Rovan's research includes new sensor hardware design and wireless microcontroller systems. His research into gestural control and interactivity has been featured in IRCAM's journal Resonance, Electronic Musician, the Computer Music Journal, the Japanese magazine SoundArts, the CDROM Trends in Gestural Control of Music (IRCAM 2000), and in the book Mapping Landscapes for Performance as Research: Scholarly Acts and Creative Cartographies (Palgrave Macmillan, 2009).
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Monday May 21, 9:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Kevin Patton, and Butch Rovan. 2012. 
+
+
+the ellipsis catalog. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-PattonRovan2012,
+ abstract = {Program notes:
+
+\emph{the ellipsis catalog} features new instruments designed by Kevin Patton and Butch Rovan. Patton's instrument, the ``Fossil'', is a wireless sensor-based musical instrument that is played with the entire gestural range of arm movement as well as finger pressure. Four FSRs, a momentary button, and a two-dimensional accelerometer are used to control the parameters of a custom software environment built in Max/MSP/Jitter. It is part of a group of four hand-carved wood instruments called the Digital Poplar Consort.
+
+Rovan's ``Banshee'' is an analog electronic musical instrument. Modeled after a wind instrument, the design uses six finger pads to control the pitch of an array of interrelated oscillators, and a mouth sensor that allows the performer to control volume. The Banshee also features a tilt-sensor that allows motion to change the voicing circuitry and resulting timbre. Battery powered, the instrument can plug into any amplifier or mixing console, much like an electric guitar.
+Composer(s) Credits:
+
+Instrumentalist(s) Credits:
+
+Kevin Patton (Fossil), Butch Rovan (Banshee)
+
+Artist(s) Biography:
+
+Kevin Patton is a musician, scholar, and technologist active in the fields of experimental music and multimedia theatre whose work explores the intersection of technology and performance. The design of new musical instruments as well as interfaces and computer systems for analysis, improvisation, installation and projection is at the center of his practice. His work has been recognized for his collaboration with visual artist Maria del Carmen Montoya with the 2009 Rhizome commission for the piece, \emph{I Sky You}. Patton is an assistant professor of music and performance technologies at Oregon State University. He holds a Ph.D. and M.A. from Brown University in electronic music and multimedia composition. He also holds a Master of Music degree in jazz studies and composition from the University of North Texas. He was an Invited Researcher at the Sorbonne, University of Paris IV, for the Spring of 2009.
+
+Butch Rovan is a media artist and performer at Brown University, where he co-directs MEME (Multimedia \&amp; Electronic Music Experiments @ Brown). Rovan has received prizes from the Bourges International Electroacoustic Music Competition, the Berlin Transmediale International Media Arts Festival, and his work has appeared throughout Europe and the U.S. Most recently his interactive installation Let us imagine a straight line was featured in the 14th WRO International Media Art Biennale, Poland.
+Rovan's research includes new sensor hardware design and wireless microcontroller systems. His research into gestural control and interactivity has been featured in IRCAM's journal Resonance, Electronic Musician, the \emph{Computer Music Journal}, the Japanese magazine \emph{SoundArts}, the CDROM \emph{Trends in Gestural Control of Music} (IRCAM 2000), and in the book \emph{Mapping Landscapes for Performance as Research: Scholarly Acts and Creative Cartographies} (Palgrave Macmillan, 2009).
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Monday May 21, 9:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Kevin Patton and Butch Rovan},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {the ellipsis catalog},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

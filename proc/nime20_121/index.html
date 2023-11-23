@@ -1,0 +1,275 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>SOIL CHOIR v.1.3 - soil moisture sonification installation</h1>
+				
+				<h4>
+
+
+
+Jiří Suchánek</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2020</li>
+					<li>Location: Birmingham, UK</li>
+					
+					<li>Pages: 617–618</li>
+					
+					
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.4813226">10.5281/zenodo.4813226</a>
+</li>
+					<li><a href="https://www.nime.org/proceedings/2020/nime2020_paper121.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>The artistic sonification offers a creative method for putting direct semantic layers to the abstract sounds. This paper is dedicated to the sound installation “Soil choir v.1.3” that sonifies soil moisture in different depths and transforms this non-musical phenomenon into organized sound structures. The sonification of natural soil moisture processes tests the limits of our attention, patience and willingness to still perceive ultra-slow reactions and examines the mechanisms of our sense adaptation. Although the musical time of the installation is set to almost non-human – environmental time scale (changes happen within hours, days, weeks or even months…) this system can be explored and even played also as an instrument by putting sensors to different soil areas or pouring liquid into the soil and waiting for changes... The crucial aspect of the work was to design the sonification architecture that deals with extreme slow changes of input data – measured values from moisture sensors. The result is the sound installation consisting of three objects – each with different types of soil. Every object is compact, independent unit consisting of three low-cost capacitive soil moisture sensors, 1m long perspex tube filled with soil, full range loudspeaker and Bela platform with custom Supercollider code. I developed this installation during the year 2019 and this paper gives insight into the aspects and issues connected with creating this installation.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Jiří Suchánek. 2020. 
+
+
+SOIL CHOIR v.1.3 - soil moisture sonification installation. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.4813226">10.5281/zenodo.4813226</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{NIME20_121,
+ abstract = {The artistic sonification offers a creative method for putting direct semantic layers to the abstract sounds. This paper is dedicated to the sound installation “Soil choir v.1.3” that sonifies soil moisture in different depths and transforms this non-musical phenomenon into organized sound structures. The sonification of natural soil moisture processes tests the limits of our attention, patience and willingness to still perceive ultra-slow reactions and examines the mechanisms of our sense adaptation. Although the musical time of the installation is set to almost non-human – environmental time scale (changes happen within hours, days, weeks or even months…) this system can be explored and even played also as an instrument by putting sensors to different soil areas or pouring liquid into the soil and waiting for changes... The crucial aspect of the work was to design the sonification architecture that deals with extreme slow changes of input data – measured values from moisture sensors. The result is the sound installation consisting of three objects – each with different types of soil. Every object is compact, independent unit consisting of three low-cost capacitive soil moisture sensors, 1m long perspex tube filled with soil, full range loudspeaker and Bela platform with custom Supercollider code. I developed this installation during the year 2019 and this paper gives insight into the aspects and issues connected with creating this installation.},
+ address = {Birmingham, UK},
+ author = {Suchánek, Jiří},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.5281/zenodo.4813226},
+ editor = {Romain Michon and Franziska Schroeder},
+ issn = {2220-4806},
+ month = {July},
+ pages = {617--618},
+ publisher = {Birmingham City University},
+ title = {SOIL CHOIR v.1.3 - soil moisture sonification installation},
+ url = {https://www.nime.org/proceedings/2020/nime2020_paper121.pdf},
+ year = {2020}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

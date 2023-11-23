@@ -1,0 +1,284 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Heretic's Brew</h1>
+				
+				<h4>
+
+
+
+Stuart Favilla, Joanne Cannon, and Tony Hicks</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2008</li>
+					<li>Location: Genova, Italy</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+Bent Leather Band introduces their new extended instrument project, Heretics Brew. The aim of this project is to develop an extended line up with the aim of building a larger ensemble. So far the project [quintet] has developed a number of new extended saxophone controllers and is currently working on trumpets and guitars. Their instruments are based on Gluion OSC, interfaces; programmable frame gate array devices that have multiple configurable inputs and outputs. For NIME08, the ensemble trio will demonstrate their instruments, language and techniques through ensemble improvisation.
+
+About the performers:
+Joanne Cannon, composer/improviser,  is one of Australia's leading bassoonists. Although she began her career as a professional orchestral musician, she now works as a composer and improviser, exploring extended techniques. Stuart Favilla has a background in composition and improvisation. Together they form the Bent Leather Band, a duo that has been developing experimental electronic instruments for over twenty years in Australia. Bent Leather Band blurs virtuosity and group improvisation across a visual spectacle of stunning original instruments. These were made in conjunction with Tasmanian leather artist, Garry Greenwood. The instruments include fanciful dragon headed Light-Harps, leather Serpents and Monsters that embody sensor interfaces, synthesis and signal processing technology. Practicable and intuitive instruments, they have been built with multi-parameter control in mind. Joint winners of the Karl Szucka Preis, their work of Bent Leather has gained selection at Bourges and won the IAWM New Genre Prize.
+Inspired by the legacy of Percy Grainger's Free music, i.e. “music beyond the constraints of conventional pitch and rhythm” [Grainger, 1951], Bent Leather Band has strived to develop a new musical language that exploits the potentials of synthesis/signal processing, defining new expressive boundaries and dimensions and yet also connecting with a heritage of Grainger's musical discourse. Grainger conceived his music towards the end of the 19th Century, and spent in excess of fifty years bringing his ideas to fruition through composition for theremin ensemble, the development of 6th tone instruments [pianos and klaviers], the development of polyphonic reed instruments for portamento control and a series of paper roll, score driven electronic oscillator instruments.
+
+Tony Hicks enjoys a high profile reputation as Australia's most versatile woodwind artist. Equally adept on saxophones, flutes and clarinets, his abilities span a broad spectrum of music genres. A student of Dr. Peter Clinch, Tony also studied at the Eastman School of Music. He has performed throughout Australia, and across Europe, the United States, Japan and China with a number of leading Australian ensembles including the Australian Art Orchestra, Elision, and the Peter Clinch Saxophone Quartet. He has performed saxophone concertos with the Melbourne Symphony Orchestra, and solo'd for Stevie Wonder and his band. As a jazz artist he has performed and recorded with leading jazz figures Randy Brecker, Billy Cobham, notable Australian artists, Paul Grabowsky, Joe Chindamo, David Jones, and also lead a number of important groups in the local Australian scene. An explorer of improvised music, he consistently collaborates with numerous artists both in Australia and overseas.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Stuart Favilla, Joanne Cannon, and Tony Hicks. 2008. 
+
+
+Heretic's Brew. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{nime2008-music-Favilla2008,
+ abstract = {Program notes:
+Bent Leather Band introduces their new extended instrument project, Heretics Brew. The aim of this project is to develop an extended line up with the aim of building a larger ensemble. So far the project [quintet] has developed a number of new extended saxophone controllers and is currently working on trumpets and guitars. Their instruments are based on Gluion OSC, interfaces; programmable frame gate array devices that have multiple configurable inputs and outputs. For NIME08, the ensemble trio will demonstrate their instruments, language and techniques through ensemble improvisation.
+
+About the performers:
+Joanne Cannon, composer/improviser,  is one of Australia's leading bassoonists. Although she began her career as a professional orchestral musician, she now works as a composer and improviser, exploring extended techniques. Stuart Favilla has a background in composition and improvisation. Together they form the Bent Leather Band, a duo that has been developing experimental electronic instruments for over twenty years in Australia. Bent Leather Band blurs virtuosity and group improvisation across a visual spectacle of stunning original instruments. These were made in conjunction with Tasmanian leather artist, Garry Greenwood. The instruments include fanciful dragon headed Light-Harps, leather Serpents and Monsters that embody sensor interfaces, synthesis and signal processing technology. Practicable and intuitive instruments, they have been built with multi-parameter control in mind. Joint winners of the Karl Szucka Preis, their work of Bent Leather has gained selection at Bourges and won the IAWM New Genre Prize.
+Inspired by the legacy of Percy Grainger's Free music, i.e. “music beyond the constraints of conventional pitch and rhythm” [Grainger, 1951], Bent Leather Band has strived to develop a new musical language that exploits the potentials of synthesis/signal processing, defining new expressive boundaries and dimensions and yet also connecting with a heritage of Grainger's musical discourse. Grainger conceived his music towards the end of the 19th Century, and spent in excess of fifty years bringing his ideas to fruition through composition for theremin ensemble, the development of 6th tone instruments [pianos and klaviers], the development of polyphonic reed instruments for portamento control and a series of paper roll, score driven electronic oscillator instruments.
+
+Tony Hicks enjoys a high profile reputation as Australia's most versatile woodwind artist. Equally adept on saxophones, flutes and clarinets, his abilities span a broad spectrum of music genres. A student of Dr. Peter Clinch, Tony also studied at the Eastman School of Music. He has performed throughout Australia, and across Europe, the United States, Japan and China with a number of leading Australian ensembles including the Australian Art Orchestra, Elision, and the Peter Clinch Saxophone Quartet. He has performed saxophone concertos with the Melbourne Symphony Orchestra, and solo'd for Stevie Wonder and his band. As a jazz artist he has performed and recorded with leading jazz figures Randy Brecker, Billy Cobham, notable Australian artists, Paul Grabowsky, Joe Chindamo, David Jones, and also lead a number of important groups in the local Australian scene. An explorer of improvised music, he consistently collaborates with numerous artists both in Australia and overseas.},
+ address = {Genova, Italy},
+ author = {Stuart Favilla and Joanne Cannon and Tony Hicks},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Roberto Doati},
+ month = {June},
+ publisher = {Casa Paganini},
+ title = {Heretic's Brew},
+ year = {2008}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

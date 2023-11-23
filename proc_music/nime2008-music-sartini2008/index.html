@@ -1,0 +1,286 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Aurora Polare</h1>
+				
+				<h4>
+
+
+
+Alessandro Sartini</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2008</li>
+					<li>Location: Genova, Italy</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+Aurora Polare (Polar Dawn) is a short piece for cymbals, tam-tam, vibraphone, live electronics and EyesWeb system. This piece was inspired by the smooth movements of waves, the drawings created by polar dawns and the cold weather in polar seas – that's the reason why only metallophones are used.
+The first matter to fight with was making the percussionist elaborate the sound they produce while playing their instruments and crafting a brand-new easy way to specify every movement. That's why, under the traditional notation score, two special lines follow the music specifying the direction to move to: up-down and left-right/near-far. A line approaching the top or the bottom of the Y axis tells the way to track. You can find an example here on the left.
+All of those movements fully interact with EyesWeb and MAX MSP thru two 30fps accelerometer bracelets worn by the performers. Every vertical movement controls the volume of the processed sound, while horizontal movements manage a different patch in MAX MSP suited to every instrument: a tam-tam sample speed controller (this make the instrument play without being touched), an harmonizer to make cymbals sing just like a Theremin, but with their own processed sound, and
+the rate of a delay. In the control room a MIDI controller and a computer will be used to manage live additional effects and parameters, like granular synthesis, reverb and multi-slider filters.
+Thanks to Martino Sarolli for helping me with MAX MSP, to Matteo Rabolini and Matteo Bonanni for playing my composition.
+
+About the performer:
+Alessandro Sartini: Born in Genoa in 1982, he studied piano with Canzio Bucciarelli and attends the last year of Composition at the Conservatory of Genoa with Riccardo Dapelo, who introduced him to “live electronic” treatments. His first public exhibition was at the Auditorium Montale of the Carlo Felice Theatre in Genoa, during the concert commemorating the 50th anniversary of Béla Bartók's death in 1995. From that year on he established a great number of collaboration with various solo musicians, who really appreciated his way to accompany; this guided him to work in partnership with a good number of professional soloists. In 1999 he joined the class of Composition at the Conservatory of Genoa with Luigi Giachino, who introduced him to film music: this interest led him to win the third prize at the Lavagnino International Film Music Festival in Gavi in 2006 and the first prize at the “Concorso Internazionale di Composizione di Alice Belcolle" in 2007. With Valentina Abrami, he is the founder of the “Associazione Musica in Movimento”, which operates at the “International School in Genoa”.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Alessandro Sartini. 2008. 
+
+
+Aurora Polare. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{nime2008-music-Sartini2008,
+ abstract = {Program notes:
+Aurora Polare (Polar Dawn) is a short piece for cymbals, tam-tam, vibraphone, live electronics and EyesWeb system. This piece was inspired by the smooth movements of waves, the drawings created by polar dawns and the cold weather in polar seas – that's the reason why only metallophones are used.
+The first matter to fight with was making the percussionist elaborate the sound they produce while playing their instruments and crafting a brand-new easy way to specify every movement. That's why, under the traditional notation score, two special lines follow the music specifying the direction to move to: up-down and left-right/near-far. A line approaching the top or the bottom of the Y axis tells the way to track. You can find an example here on the left.
+All of those movements fully interact with EyesWeb and MAX MSP thru two 30fps accelerometer bracelets worn by the performers. Every vertical movement controls the volume of the processed sound, while horizontal movements manage a different patch in MAX MSP suited to every instrument: a tam-tam sample speed controller (this make the instrument play without being touched), an harmonizer to make cymbals sing just like a Theremin, but with their own processed sound, and
+the rate of a delay. In the control room a MIDI controller and a computer will be used to manage live additional effects and parameters, like granular synthesis, reverb and multi-slider filters.
+Thanks to Martino Sarolli for helping me with MAX MSP, to Matteo Rabolini and Matteo Bonanni for playing my composition.
+
+About the performer:
+Alessandro Sartini: Born in Genoa in 1982, he studied piano with Canzio Bucciarelli and attends the last year of Composition at the Conservatory of Genoa with Riccardo Dapelo, who introduced him to “live electronic” treatments. His first public exhibition was at the Auditorium Montale of the Carlo Felice Theatre in Genoa, during the concert commemorating the 50th anniversary of Béla Bartók's death in 1995. From that year on he established a great number of collaboration with various solo musicians, who really appreciated his way to accompany; this guided him to work in partnership with a good number of professional soloists. In 1999 he joined the class of Composition at the Conservatory of Genoa with Luigi Giachino, who introduced him to film music: this interest led him to win the third prize at the Lavagnino International Film Music Festival in Gavi in 2006 and the first prize at the “Concorso Internazionale di Composizione di Alice Belcolle" in 2007. With Valentina Abrami, he is the founder of the “Associazione Musica in Movimento”, which operates at the “International School in Genoa”.},
+ address = {Genova, Italy},
+ author = {Alessandro Sartini},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Roberto Doati},
+ month = {June},
+ publisher = {Casa Paganini},
+ title = {Aurora Polare},
+ year = {2008}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

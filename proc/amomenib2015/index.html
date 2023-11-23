@@ -1,0 +1,275 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>ml.lib: Robust, Cross-platform, Open-source Machine Learning for Max and Pure Data</h1>
+				
+				<h4>
+
+
+
+Jamie Bullock, and Ali Momeni</h4>
+				
+				<p>Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2015</li>
+					<li>Location: Baton Rouge, Louisiana, USA</li>
+					
+					<li>Pages: 265–270</li>
+					
+					
+					<li>DOI: <a href="https://doi.org/10.5281/zenodo.1179038">10.5281/zenodo.1179038</a>
+</li>
+					<li><a href="http://www.nime.org/proceedings/2015/nime2015_201.pdf">PDF link</a></li>
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>This paper documents the development of ml.lib: a set of open-source tools designed for employing a wide range of machine learning techniques within two popular real-time programming environments, namely Max and Pure Data. ml.lib is a cross-platform, lightweight wrapper around Nick Gillian's Gesture Recognition Toolkit, a C++ library that includes a wide range of data processing and machine learning techniques. ml.lib adapts these techniques for real-time use within popular data-flow IDEs, allowing instrument designers and performers to integrate robust learning, classification and mapping approaches within their existing workflows. ml.lib has been carefully de-signed to allow users to experiment with and incorporate ma-chine learning techniques within an interactive arts context with minimal prior knowledge. A simple, logical and consistent, scalable interface has been provided across over sixteen exter-nals in order to maximize learnability and discoverability. A focus on portability and maintainability has enabled ml.lib to support a range of computing architectures---including ARM---and operating systems such as Mac OS, GNU/Linux and Win-dows, making it the most comprehensive machine learning implementation available for Max and Pure Data.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Jamie Bullock, and Ali Momeni. 2015. 
+
+
+ml.lib: Robust, Cross-platform, Open-source Machine Learning for Max and Pure Data. 
+
+
+<em>Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1179038">10.5281/zenodo.1179038</a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{amomenib2015,
+ abstract = {This paper documents the development of ml.lib: a set of open-source tools designed for employing a wide range of machine learning techniques within two popular real-time programming environments, namely Max and Pure Data. ml.lib is a cross-platform, lightweight wrapper around Nick Gillian's Gesture Recognition Toolkit, a C++ library that includes a wide range of data processing and machine learning techniques. ml.lib adapts these techniques for real-time use within popular data-flow IDEs, allowing instrument designers and performers to integrate robust learning, classification and mapping approaches within their existing workflows. ml.lib has been carefully de-signed to allow users to experiment with and incorporate ma-chine learning techniques within an interactive arts context with minimal prior knowledge. A simple, logical and consistent, scalable interface has been provided across over sixteen exter-nals in order to maximize learnability and discoverability. A focus on portability and maintainability has enabled ml.lib to support a range of computing architectures---including ARM---and operating systems such as Mac OS, GNU/Linux and Win-dows, making it the most comprehensive machine learning implementation available for Max and Pure Data.},
+ address = {Baton Rouge, Louisiana, USA},
+ author = {Jamie Bullock and Ali Momeni},
+ booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+ doi = {10.5281/zenodo.1179038},
+ editor = {Edgar Berdahl and Jesse Allison},
+ issn = {2220-4806},
+ month = {May},
+ pages = {265--270},
+ publisher = {Louisiana State University},
+ title = {ml.lib: Robust, Cross-platform, Open-source Machine Learning for Max and Pure Data},
+ url = {http://www.nime.org/proceedings/2015/nime2015_201.pdf},
+ year = {2015}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

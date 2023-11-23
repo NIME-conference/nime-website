@@ -1,0 +1,294 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>MoPho – A Suite for a Mobile Phone Orchestra</h1>
+				
+				<h4>
+
+
+
+Georg Essl Ge Wang, and Henri Penttinen</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2008</li>
+					<li>Location: Genova, Italy</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+The Mobile Phone Orchestra is a new repetoire-based ensemble using mobile phones as the primary musical instrument. The MoPhO Suite contains a selection of recent compositions that highlights different aspects of what it means to compose for and perform with such an instrument in an ensemble setting. Brief program note: The Mobile Phone Orchestra of CCRMA (MoPhO) presents an ensemble suite featuring music performed on mobile phones. Far beyond ring-tones, these interactive musical works take advantage of the unique technological capabilities of today's hardware, transforming phone keypads, built-in accelerometers, and built-in microphones into powerful and yet mobile chamber meta-instruments. The suite consists of selection of representative pieces:
+***Drone In/Drone Out (Ge Wang): human players, mobile phones, FM timbres, accelerometers.
+***TamaG (Georg Essl): TamaG is a piece that explores the boundary of projecting the humane onto mobile devices and at the same time display the fact that they are deeply mechanical and artificial. It explores the question how much control we have in the interaction with these devices or if the device itself at times controls us. The piece work with the tension between these positions and crosses the desirable and the alarming, the human voice with mechanical noise. The alarming effect has a social quality and spreads between the performers. The sounding algorithm is the non-linear circle map which is used in easier-to-control and hard-to-control regimes to evoke the effects of control and desirability on the one hand the the loss of control and mechanistic function on the other hand.
+***The Phones and Fury (Jeff Cooper and Henri Penttinen): how much damage can a single player do with 10 mobile phones? Facilitating loops, controllable playback speed, and solo instruments.
+***Chatter (Ge Wang): the audience is placed in the middle of a web of conversations...
+
+About the performers:
+Ge Wang received his B.S. in Computer Science in 2000 from Duke University, PhD (soon) in Computer Science (advisor Perry Cook) in 2008 from Princeton University, and is currently an assistant professor at Stanford University in the Center for Computer Research in Music and Acoustics (CCRMA). His research interests include interactive software systems (of all sizes) for computer music, programming languages, sound synthesis and analysis, music information retrieval, new performance ensembles (e.g., laptop orchestra) and paradigms (e.g., live coding), visualization, interfaces for human-computer interaction, interactive audio over networks, and methodologies for education at the intersection of computer science and music. Ge is the chief architect of the ChucK audio programming language and the Audicle environment. He was a founding developer and co-director of the Princeton Laptop Orchestra (PLOrk), the founder and director of the Stanford Laptop Orchestra (SLOrk), and a co-creator of the TAPESTREA sound design environment. Ge composes and performs via various electro-acoustic and computer-mediated means, including with PLOrk/SLOrk, with Perry as a live coding duo, and with Princeton graduate student and comrade Rebecca Fiebrink in a duo exploring new performance paradigms, cool audio software, and great food.
+
+Georg Essl is currently Senior Research Scientist at Deutsche Telekom Laboratories at TU-Berlin, Germany. He works on mobile interaction, new interfaces for musical expression and sound synthesis algorithms that are abstract mathematical or physical models. After he received his Ph.D. in Computer Science at Princeton University under the supervision of Perry Cook he served on the faculty of the University of Florida and worked at the MIT Media Lab Europe in Dublin before joining T-Labs.
+
+Henri Penttinen was born in Espoo, Finland, in 1975. He completed his M.Sc. and PhD (Dr. Tech.) degrees in Electrical Engineering at the Helsinki University of Technology (TKK) in 2002 and 2006, respectively. He conducted his studies and teaches about digital signal processors and audio processing at the Department of Signal Processing and Acoustics (until 2007 known as Laboratory of Acoustics and Signal Processing) at TKK. Dr. Penttinen was a visiting scholar at Center for Computer Research in Music and Acoustics (CCRMA), Stanford University, during 2007 and 2008. His main research interests are sound synthesis, signal processing algorithms, musical acoustics, real-time audio applications in mobile environments. He is one of the co-founders and directors, with Georg Essl and Ge Wang, of the Mobile Phone Orchestra of CCRMA (MoPhO). He is also the co-inventor, with Jaakko Prättälä, of the electro-acoustic bottle (eBottle). His electro-acoustic pieces have been performed around Finland, in the USA, and Cuba. Additional Composer Biography: Jeffrey Cooper is a musician / producer from Bryan, Texas. Having worked as a programmer and DJ for a number of years, he is currently finishing a Master Degree in Music, Science, and Technology at Stanford University / CCRMA. Co- composer of music for mobile phones with the honorable Henri Penttinen.</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Georg Essl Ge Wang, and Henri Penttinen. 2008. 
+
+
+MoPho – A Suite for a Mobile Phone Orchestra. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@inproceedings{nime2008-music-GeWang2008,
+ abstract = {Program notes:
+The Mobile Phone Orchestra is a new repetoire-based ensemble using mobile phones as the primary musical instrument. The MoPhO Suite contains a selection of recent compositions that highlights different aspects of what it means to compose for and perform with such an instrument in an ensemble setting. Brief program note: The Mobile Phone Orchestra of CCRMA (MoPhO) presents an ensemble suite featuring music performed on mobile phones. Far beyond ring-tones, these interactive musical works take advantage of the unique technological capabilities of today's hardware, transforming phone keypads, built-in accelerometers, and built-in microphones into powerful and yet mobile chamber meta-instruments. The suite consists of selection of representative pieces:
+***Drone In/Drone Out (Ge Wang): human players, mobile phones, FM timbres, accelerometers.
+***TamaG (Georg Essl): TamaG is a piece that explores the boundary of projecting the humane onto mobile devices and at the same time display the fact that they are deeply mechanical and artificial. It explores the question how much control we have in the interaction with these devices or if the device itself at times controls us. The piece work with the tension between these positions and crosses the desirable and the alarming, the human voice with mechanical noise. The alarming effect has a social quality and spreads between the performers. The sounding algorithm is the non-linear circle map which is used in easier-to-control and hard-to-control regimes to evoke the effects of control and desirability on the one hand the the loss of control and mechanistic function on the other hand.
+***The Phones and Fury (Jeff Cooper and Henri Penttinen): how much damage can a single player do with 10 mobile phones? Facilitating loops, controllable playback speed, and solo instruments.
+***Chatter (Ge Wang): the audience is placed in the middle of a web of conversations...
+
+About the performers:
+Ge Wang received his B.S. in Computer Science in 2000 from Duke University, PhD (soon) in Computer Science (advisor Perry Cook) in 2008 from Princeton University, and is currently an assistant professor at Stanford University in the Center for Computer Research in Music and Acoustics (CCRMA). His research interests include interactive software systems (of all sizes) for computer music, programming languages, sound synthesis and analysis, music information retrieval, new performance ensembles (e.g., laptop orchestra) and paradigms (e.g., live coding), visualization, interfaces for human-computer interaction, interactive audio over networks, and methodologies for education at the intersection of computer science and music. Ge is the chief architect of the ChucK audio programming language and the Audicle environment. He was a founding developer and co-director of the Princeton Laptop Orchestra (PLOrk), the founder and director of the Stanford Laptop Orchestra (SLOrk), and a co-creator of the TAPESTREA sound design environment. Ge composes and performs via various electro-acoustic and computer-mediated means, including with PLOrk/SLOrk, with Perry as a live coding duo, and with Princeton graduate student and comrade Rebecca Fiebrink in a duo exploring new performance paradigms, cool audio software, and great food.
+
+Georg Essl is currently Senior Research Scientist at Deutsche Telekom Laboratories at TU-Berlin, Germany. He works on mobile interaction, new interfaces for musical expression and sound synthesis algorithms that are abstract mathematical or physical models. After he received his Ph.D. in Computer Science at Princeton University under the supervision of Perry Cook he served on the faculty of the University of Florida and worked at the MIT Media Lab Europe in Dublin before joining T-Labs.
+
+Henri Penttinen was born in Espoo, Finland, in 1975. He completed his M.Sc. and PhD (Dr. Tech.) degrees in Electrical Engineering at the Helsinki University of Technology (TKK) in 2002 and 2006, respectively. He conducted his studies and teaches about digital signal processors and audio processing at the Department of Signal Processing and Acoustics (until 2007 known as Laboratory of Acoustics and Signal Processing) at TKK. Dr. Penttinen was a visiting scholar at Center for Computer Research in Music and Acoustics (CCRMA), Stanford University, during 2007 and 2008. His main research interests are sound synthesis, signal processing algorithms, musical acoustics, real-time audio applications in mobile environments. He is one of the co-founders and directors, with Georg Essl and Ge Wang, of the Mobile Phone Orchestra of CCRMA (MoPhO). He is also the co-inventor, with Jaakko Prättälä, of the electro-acoustic bottle (eBottle). His electro-acoustic pieces have been performed around Finland, in the USA, and Cuba. Additional Composer Biography: Jeffrey Cooper is a musician / producer from Bryan, Texas. Having worked as a programmer and DJ for a number of years, he is currently finishing a Master Degree in Music, Science, and Technology at Stanford University / CCRMA. Co- composer of music for mobile phones with the honorable Henri Penttinen.},
+ address = {Genova, Italy},
+ author = {Ge Wang, Georg Essl and Henri Penttinen},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ editor = {Roberto Doati},
+ month = {June},
+ publisher = {Casa Paganini},
+ title = {MoPho – A Suite for a Mobile Phone Orchestra},
+ year = {2008}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

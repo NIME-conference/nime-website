@@ -1,0 +1,307 @@
+<!-- copied out of alembic's default template. -->
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#242e2b"/>
+		<link rel="stylesheet" href="/assets/styles.css">
+    
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@16px.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="16x16" href="/assets/logos/logo@16px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@32px.png" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="32x32" href="/assets/logos/logo@32px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@96px.png" sizes="96x96">
+    <link rel="apple-touch-icon" sizes="96x96" href="/assets/logos/logo@96px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@120px.png" sizes="120x120">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/logos/logo@120px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@144px.png" sizes="144x144">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/logos/logo@144px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@180px.png" sizes="180x180">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logos/logo@180px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@512px.png" sizes="512x512">
+    <link rel="apple-touch-icon" sizes="512x512" href="/assets/logos/logo@512px.png">
+  
+    <link rel="icon" type="image/png" href="/assets/logos/logo@1024px.png" sizes="1024x1024">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/logos/logo@1024px.png">
+  
+
+<link rel="shortcut icon" href="/assets/logos/nime.png">
+
+		<!-- Overwrite this file with code you want before the closing head tag -->
+
+
+		
+  </head>
+
+	<body>
+		<header class="header">
+  <div class="container">
+    <a class="logo" href="/">
+  <img src="/assets/logos/nime.png" alt="NIME logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/past-nimes/">Past NIMEs</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/archives/">Proceedings</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/music/">Music</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/hosting/">Hosting</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/committee/">Committee</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/list/">Mailing List</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/statements/">Statements</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://forum.nime.org/">Forum</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/mentorship/">Mentorship</a>
+      </li>
+    
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title>
+<use xlink:href="#nav" fill="CurrentColor"></use></svg>
+
+  </button>
+</nav>
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+		<main class="main container">
+			<article class="article article--page content typeset">
+				
+				<h1>Water Birds</h1>
+				
+				<h4>
+
+
+
+Mara Helmuth, and Rebecca Danard</h4>
+				
+				<p>Music Proceedings of the International Conference on New Interfaces for Musical Expression</p>
+				
+				<ul>
+					<li>Year: 2012</li>
+					<li>Location: Ann Arbor, Michigan, U.S.A.</li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				</ul>
+				
+				<h2>Abstract:</h2>
+				
+				<p>Program notes:
+
+Water Birds is an interactive and collaborative composition for clarinet, bass clarinet and computer. The sound of the clarinets is processed live by spectral delays with MaxMSP and rtcmix~. Space structures the composition, as the particular sound parameters initiated depend on the performer's location on the stage. The development of the current version of the piece involved a custom wireless infrared sensor network, which responds to the clarinetist's movements. Currently the piece is performed without the sensor network, but the strategy of that configuration still drives the composition. A score containing five sound-generating ideas, consisting of musical fragments and a Zen poem, allows the performer to improvise, creating his/her own sound pathway through the piece. The pathway is reminiscent of the path of birds in the Zen poem, Dogen's On the Nondependence of Mind, which reads: ``Water birds/going and coming/their traces disappear/but they never/forget their path.''
+
+Composer(s) Credits:
+
+Mara Helmuth and Rebecca Danard
+
+Instrumentalist(s) Credits:
+
+Rebecca Danard (B♭ Clarinet, bass clarinet), Mara Helmuth (Computer)
+
+Artist(s) Biography:
+
+Mara Helmuth composes music often involving the computer, and creates multimedia and software for composition and improvisation. Her recordings include Sounding Out! (Everglade, forthcoming 2010), Sound Collaborations, (CDCM v.36, Centaur CRC 2903), Implements of Actuation (Electronic Music Foundation EMF 023), and Open Space CD 16, and her work has been performed internationally. She is on the faculty of the College-Conservatory of Music, University of Cincinnati and its Center for Computer Music's director. She holds a D.M.A. from Columbia University, and earlier degrees from the University of Illinois, Urbana-Champaign. Her software for composition and improvisation has involved granular synthesis, Internet2, and RTcmix instruments. Her writings have appeared in Audible Traces, Analytical Methods of Electroacoustic Music, the Journal of New Music Research and Perspectives of New Music. Installations including Hidden Mountain (2007) were created for the Sino-Nordic Arts Space in Beijing. She is a past president of the International Computer Music Association.
+
+Rebecca Danard: Performer, educator, scholar and entrepreneur, Rebecca Danard holds a doctorate in clarinet performance at the University of Cincinnati College-Conservatory of Music. Also an enthusiastic teacher, Rebecca is Adjunct Faculty at Carleton University. She is currently Artistic Director of the Ottawa New Music Creators: a collective of professional composers and performers dedicated to bringing contemporary music to Canada's capital. Rebecca's performance career centres on new and experimental music, including interdisciplinary collaborations, working with new technology, organizing events, and commissioning composers. She has worked with film makers, dancers, choreographers, actors, poets, lighting designers and visuals artists as well as performing musicians and composers. She has been invited to perform at festival such as Music10 (Hindemith Centre, Switzerland), the Ottawa Chamber Music Festival, the Ottawa Jazz Festival, the Bang on a Can Summer Festival, and Opera Theatre and Music Festival of Lucca; at conferences such as Clarinetfest, CLIEC and SEAMUS.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Monday May 21, 9:00pm</p>
+
+				<h2>Citation:</h2>
+
+				
+
+
+
+Mara Helmuth, and Rebecca Danard. 2012. 
+
+
+Water Birds. 
+
+
+<em>Music Proceedings of the International Conference on New Interfaces for Musical Expression</em>. 
+DOI: <a href="https://doi.org/"></a>
+
+
+
+				<h2>BibTeX Entry:</h2>
+
+<pre>
+@incollection{nime2012-music-HelmuthDanard2012,
+ abstract = {Program notes:
+
+Water Birds is an interactive and collaborative composition for clarinet, bass clarinet and computer. The sound of the clarinets is processed live by spectral delays with MaxMSP and rtcmix~. Space structures the composition, as the particular sound parameters initiated depend on the performer's location on the stage. The development of the current version of the piece involved a custom wireless infrared sensor network, which responds to the clarinetist's movements. Currently the piece is performed without the sensor network, but the strategy of that configuration still drives the composition. A score containing five sound-generating ideas, consisting of musical fragments and a Zen poem, allows the performer to improvise, creating his/her own sound pathway through the piece. The pathway is reminiscent of the path of birds in the Zen poem, Dogen's \emph{On the Nondependence of Mind}, which reads: ``Water birds/going and coming/their traces disappear/but they never/forget their path.''
+
+Composer(s) Credits:
+
+Mara Helmuth and Rebecca Danard
+
+Instrumentalist(s) Credits:
+
+Rebecca Danard (B$\flat$ Clarinet, bass clarinet), Mara Helmuth (Computer)
+
+Artist(s) Biography:
+
+Mara Helmuth composes music often involving the computer, and creates multimedia and software for composition and improvisation. Her recordings include Sounding Out! (Everglade, forthcoming 2010), Sound Collaborations, (CDCM v.36, Centaur CRC 2903), Implements of Actuation (Electronic Music Foundation EMF 023), and Open Space CD 16, and her work has been performed internationally. She is on the faculty of the College-Conservatory of Music, University of Cincinnati and its Center for Computer Music's director. She holds a D.M.A. from Columbia University, and earlier degrees from the University of Illinois, Urbana-Champaign. Her software for composition and improvisation has involved granular synthesis, Internet2, and RTcmix instruments. Her writings have appeared in \emph{Audible Traces, Analytical Methods of Electroacoustic Music, the Journal of New Music Research and Perspectives of New Music}. Installations including \emph{Hidden Mountain} (2007) were created for the Sino-Nordic Arts Space in Beijing. She is a past president of the International Computer Music Association.
+
+Rebecca Danard: Performer, educator, scholar and entrepreneur, \textbf{Rebecca Danard} holds a doctorate in clarinet performance at the University of Cincinnati College-Conservatory of Music. Also an enthusiastic teacher, Rebecca is Adjunct Faculty at Carleton University. She is currently Artistic Director of the Ottawa New Music Creators: a collective of professional composers and performers dedicated to bringing contemporary music to Canada's capital. Rebecca's performance career centres on new and experimental music, including interdisciplinary collaborations, working with new technology, organizing events, and commissioning composers. She has worked with film makers, dancers, choreographers, actors, poets, lighting designers and visuals artists as well as performing musicians and composers. She has been invited to perform at festival such as Music10 (Hindemith Centre, Switzerland), the Ottawa Chamber Music Festival, the Ottawa Jazz Festival, the Bang on a Can Summer Festival, and Opera Theatre and Music Festival of Lucca; at conferences such as Clarinetfest, CLIEC and SEAMUS.
+
+Concert Venue and Time: Lydia Mendelssohn Theatre, Monday May 21, 9:00pm},
+ address = {Ann Arbor, Michigan, U.S.A.},
+ author = {Mara Helmuth and Rebecca Danard},
+ booktitle = {Music Proceedings of the International Conference on New Interfaces for Musical Expression},
+ day = {21-23},
+ editor = {Georg Essl and Brent Gillespie and Michael Gurevich and Sile O'Modhrain},
+ month = {May},
+ publisher = {Electrical Engineering \&amp; Computer Science and Performing Arts Technology, University of Michigan},
+ title = {Water Birds},
+ year = {2012}
+}
+
+</pre>
+			</article>
+		</main>
+		<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">© NIME 2023</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/#top">Back to top</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+	</body>
+</html>

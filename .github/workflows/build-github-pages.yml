@@ -16,6 +16,9 @@ jobs:
       - name: build
         run: |
           bundle exec jekyll build --baseurl nime
+      - name: install SSH
+        run: |
+          sudo apt-get install -y openssh-client
       - name: Setting up SSH Environment
         run: |
           mkdir -p ~/.ssh && touch ~/.ssh/known_hosts

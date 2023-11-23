@@ -16,11 +16,12 @@ jobs:
       - name: build
         run: |
           bundle exec jekyll build --baseurl nime
-      - name: Adding Known Hosts
+      - name: Setting up SSH Environment
         run: |
-          mkdir -p ~/.ssh
-          touch ~/.ssh/known_hosts
+          mkdir -p ~/.ssh && touch ~/.ssh/known_hosts
           ssh-keyscan -H ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
+          eval $(ssh-agent)
+          ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
         with:

@@ -18,13 +18,7 @@ jobs:
           bundle exec jekyll build --baseurl nime
       - name: rsync
         run: |
-          rsync \
-	          -rvz \
-	          -e \
-	          'ssh -p 21098 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa' \
-	          --progress \
-	          _site/ \
-	          ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/nime/
+          rsync -rvz -e 'ssh -p 21098 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa' --progress _site/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/nime/
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:

@@ -16,9 +16,6 @@ jobs:
       - name: build
         run: |
           bundle exec jekyll build --baseurl nime
-      # - name: install SSH
-      #   run: |
-      #     sudo apt-get install -y openssh-client
       - name: set up known_hosts
         run: |
           mkdir -p ~/.ssh
@@ -28,6 +25,7 @@ jobs:
         run: |
           eval $(ssh-agent)
           echo "${{ secrets.SSH_PRIVATE_KEY }}" >> ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
           ssh-add
       - name: rsync
         run: |

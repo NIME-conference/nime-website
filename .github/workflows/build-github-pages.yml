@@ -20,7 +20,7 @@ jobs:
         run: |
           mkdir -p ~/.ssh
           touch ~/.ssh/known_hosts
-          ssh-keyscan -p 21098 -H ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
+          ssh-keyscan -p 65002 -H ${{ secrets.SERVER_IP }} >> ~/.ssh/known_hosts
       - name: set up private key
         run: |
           eval $(ssh-agent)
@@ -31,7 +31,7 @@ jobs:
         run: |
           rsync \
           -rvz \
-          -e 'ssh -p 21098 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa -i ~/.ssh/id_rsa' \
+          -e 'ssh -p 65002 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa -i ~/.ssh/id_rsa' \
           --progress \
           _site/ \
           ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/nime/

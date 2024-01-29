@@ -18,9 +18,12 @@ The NIME archives bibtex files are stored in a different repository. To copy the
 
 ## Hosting
 
-- Custom domain [handled by netlify](https://www.netlify.com/docs/custom-domains/#dns-configuration).
-- The website is published on a push to the `master` branch.
-- Proceedings and other big files are hosted on an AWS bucket, this is referenced in the `_redirects` file.
+- The website is hosted on a standard "shared hosting" server.
+- A GitHub action builds the jekyll site and deploys to our hosting server via rsync.
+- The website is published on every push to the `master` branch.
+- Proceedings are too big to be stored in GitHub so are manually deployed to the hosting server (`/proceedings/` folder) by the web officer.
+
+Contact the NIME Web Officer for further details.
 
 ## Plans and Problems:
 

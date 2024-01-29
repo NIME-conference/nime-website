@@ -15,7 +15,7 @@ jobs:
           bundler-cache: true
       - name: build
         run: |
-          bundle exec jekyll build --baseurl /nime
+          bundle exec jekyll build --baseurl /
       - name: set up known_hosts
         run: |
           mkdir -p ~/.ssh
@@ -27,16 +27,16 @@ jobs:
           echo "${{ secrets.SSH_PRIVATE_KEY }}" >> ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-add
-      - name: rsync
+      - name: rsync # deploys to shared hosting server using rsync
         run: |
           rsync \
           -rvz \
           -e 'ssh -p 65002 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa -i ~/.ssh/id_rsa' \
           --progress \
           _site/ \
-          ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/nime/
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
-        with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: _site # The folder the action should deploy.
+          ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/
+      # - name: Deploy 🚀
+      #   uses: JamesIves/github-pages-deploy-action@v4.2.5
+      #   with:
+      #     branch: gh-pages # The branch the action should deploy to.
+      #     folder: _site # The folder the action should deploy.

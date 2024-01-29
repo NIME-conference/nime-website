@@ -1,6 +1,6 @@
 # NIME website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c246d297-feff-4118-8f9b-63052909e6ae/deploy-status)](https://app.netlify.com/sites/nime-website/deploys)
+[![Build and Deploy](https://github.com/NIME-conference/nime-website/actions/workflows/build-github-pages.yml/badge.svg)](https://github.com/NIME-conference/nime-website/actions/workflows/build-github-pages.yml)
 
 This is the repository for the NIME conference permanent website and proceedings archive. It's deliberately a small site that links to the PDF proceedings and media files from previous NIMEs, and archival copies of the website from  previous editions of NIME.
 

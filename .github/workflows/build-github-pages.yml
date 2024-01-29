@@ -1,5 +1,4 @@
-name: Build and deploy Jekyll site to GitHub Pages
-
+name: Build Jekyll site and deploy via rsync
 on:
   push:
     branches:

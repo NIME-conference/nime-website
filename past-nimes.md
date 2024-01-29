@@ -9,28 +9,28 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 
 **NB: The pages below are historic web documents, and are not updated. If you are looking for the proceedings of the conferences, all papers are located in the common [NIME archive]({{site.baseurl}}/archives/).**
 
-*   [NIME 2001](/2001/): Seattle, Washington (archived site)
-*   [NIME 2002](/2002/): Media Lab Europe, Dublin, Ireland (archived site)
-*   [NIME 2003](/2003/): McGill University, Montreal, Canada (archived site)
-*   [NIME 2004](/2004/): Shizuoka University of Art and Culture, Hamamatsu, Japan (archived site)
-*   [NIME 2005](/2005/): University of British Columbia, Vancouver, Canada (archived site)
-*   [NIME 2006](/2006/): IRCAM, Paris, France (archived site)
-*   [NIME 2007](/2007/): New York University, USA (archived site)
-*   [NIME 2008](/2008/): University of Genova, Italy (archived site)
-*   [NIME 2009](/2009/): Carnegie Mellon School of Music, Pittsburgh, Pennsylvania, USA (archived site)
-*   [NIME 2010](/2010/): University of Technology, Sydney, Australia (archived site)
-*   [NIME 2011](/2011/): University of Oslo, Norway (archived site)
-*   [NIME 2012](/2012/): University of Michigan, Ann Arbor, Michigan, USA (archived site)
-*   [NIME 2013](/2013/): Korea Advanced Institute of Science and Technology, Daejeon, South Korea. (archived site)
-*   [NIME 2014](/2014/): Goldsmiths University, London, UK (archived site)
+*   [NIME 2001](/web_archive/2001/): Seattle, Washington (archived site)
+*   [NIME 2002](/web_archive/2002/): Media Lab Europe, Dublin, Ireland (archived site)
+*   [NIME 2003](/web_archive/2003/): McGill University, Montreal, Canada (archived site)
+*   [NIME 2004](/web_archive/2004/): Shizuoka University of Art and Culture, Hamamatsu, Japan (archived site)
+*   [NIME 2005](/web_archive/2005/): University of British Columbia, Vancouver, Canada (archived site)
+*   [NIME 2006](/web_archive/2006/): IRCAM, Paris, France (archived site)
+*   [NIME 2007](/web_archive/2007/): New York University, USA (archived site)
+*   [NIME 2008](/web_archive/2008/): University of Genova, Italy (archived site)
+*   [NIME 2009](/web_archive/2009/): Carnegie Mellon School of Music, Pittsburgh, Pennsylvania, USA (archived site)
+*   [NIME 2010](/web_archive/2010/): University of Technology, Sydney, Australia (archived site)
+*   [NIME 2011](/web_archive/2011/): University of Oslo, Norway (archived site)
+*   [NIME 2012](/web_archive/2012/): University of Michigan, Ann Arbor, Michigan, USA (archived site)
+*   [NIME 2013](/web_archive/2013/): Korea Advanced Institute of Science and Technology, Daejeon, South Korea. (archived site)
+*   [NIME 2014](/web_archive/2014/): Goldsmiths University, London, UK (archived site)
 *   [NIME 2015](https://web.archive.org/web/20160119221432/https://nime2015.lsu.edu/): Louisiana State University, Baton Rouge, Louisiana, USA
 *   [NIME 2016](https://web.archive.org/web/20161201181354/http://nime2016.org/): Griffith University, Brisbane, Australia
-*   [NIME 2017](/2017/): Aalborg University Copenhagen, Denmark ([archived site](/2017/))
-*   [NIME 2018](http://nime2018.icat.vt.edu): Blacksburg, VA, USA ([archived site](/2018/))
-*   [NIME 2019](/2019/): Porto Alegre, Brazil ([archived site](/2019/))
-*   [NIME 2020](/2020/): Birmingham, UK ([archived site](/2020/))
-*   [NIME 2021](https://nime2021.org/): Shanghai, China ([archived site](/2021/))
-*   [NIME 2022](https://nime2022.org/): Auckland, New Zealand
+*   [NIME 2017](/web_archive/2017/): Aalborg University Copenhagen, Denmark ([archived site](/web_archive/2017/))
+*   [NIME 2018](http://nime2018.icat.vt.edu): Blacksburg, VA, USA ([archived site](/web_archive/2018/))
+*   [NIME 2019](/web_archive/2019/): Porto Alegre, Brazil ([archived site](/web_archive/2019/))
+*   [NIME 2020](/web_archive/2020/): Birmingham, UK ([archived site](/web_archive/2020/))
+*   [NIME 2021](https://nime2021.org/): Shanghai, China ([archived site](/web_archive/2021/))
+*   [NIME 2022](/web_archive/2022/): Auckland, New Zealand
 *   [NIME 2023](https://nime2023.org/): Mexico City, Mexico.
 
 {% include video.html id="JnLylwvWIpE" %}

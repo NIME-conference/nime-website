@@ -33,7 +33,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2022](/web_archive/2022/): Auckland, New Zealand
 *   [NIME 2023](https://nime2023.org/): Mexico City, Mexico.
 
-{% include video.html id="JnLylwvWIpE" %}
+{% include youtubePlayer.html id="JnLylwvWIpE" %}
 
 ## Conference Chairs
 

@@ -1,0 +1,213 @@
+---
+---
+// Inter Font
+@import url('https://rsms.me/inter/inter.css');
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+$body-font: 'Inter', sans-serif;
+$header-font: 'Inter', sans-serif;
+
+html {
+    font-family: $body-font;
+}
+
+body {
+  font-family: $body-font;
+  font-weight: normal;
+}
+
+p {
+    font-family: $body-font;
+}
+
+
+h1, h3, h5 {
+  font-family: $header-font;
+  font-weight: 600 !important;
+}
+
+h2, h4, h6 {
+    font-family: $header-font;
+    font-weight: 500;
+}
+
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+    font-family: $header-font;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+}
+
+
+h2.bibliography {
+    font-size: 1.5rem !important;
+}
+
+.button {
+  font-family: $body-font;
+  font-weight: bold;
+}
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+article {
+
+    img:not(.card-img-top) {
+        max-width: 80%;
+        max-height: 80%;
+        height: inherit !important;
+        display:block;
+        margin:auto;
+    }
+
+    .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+        text-align: center;
+    }
+}
+
+img.carouselcontain {
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+// nice orange to red gradient
+//background: rgb(255,188,48);
+//background: linear-gradient(90deg, rgba(255,188,48,1) 0%, rgba(255,0,0,1) 100%);
+
+$ui-background: rgb(255,188,48);
+$ui-gradient: linear-gradient(90deg, rgba(255,188,48,0.8) 0%, rgba(255,80,80,0.8) 100%);
+
+$ui-0: #34414F;
+$ui-1: #66A983;
+$ui-2: #F0D564;
+$ui-3: #F7AE48;
+$ui-4: #DC702F;
+
+// add the bg-gradient to any element
+.cpm-grad {
+    color: #fff;
+    background: $ui-gradient !important; 
+}
+
+.heading-logo {
+    font-size: 5.5rem;
+    font-size: 7vw !important;
+    background: $ui-gradient;
+}
+
+
+.nav-item {
+    .active {
+        font-weight: 900;
+    }
+
+    &:hover {
+        font-weight: 900;
+        color: #fff;
+        background: $ui-background;
+        background: $ui-gradient;
+    }
+}
+
+.container a, main a {
+    color: $ui-4;
+    font-weight: 500;
+    
+    &:hover {
+        color: #fff;
+        background: $ui-gradient !important;
+//        -webkit-background-clip: text;
+//        -webkit-text-fill-color: transparent;
+    }
+}
+
+
+//a.nav-link.active {
+//    color: $ui-background;
+//    color: $ui-gradient !important;
+//}
+
+.navbar-brand {
+    font-weight: 900;
+}
+
+.nimeicon {
+    mask: url("/assets/logos/nime.svg");
+    display: inline-block;
+    width: 70px;
+    //height: 70px;
+    mask-size:cover;
+    background: $ui-background;
+    background: $ui-gradient;
+}
+
+// workshop boxes
+
+// nice callout boxes
+
+
+// swiped from ANU neotheme, but adjusted to use custom colours, not ANU colormap.
+@function get-custom-color-level($color, $level: 0) {
+	@return mix(#ffffff, $color, $level * 22%);
+}
+
+// colors follow the anu style guide: http://webpublishing.anu.edu.au/web-style-guide/style-sampler.php
+$info-color: $ui-3;
+$think-color: $ui-1;
+$talk-color: $ui-4;
+$extension-color: $ui-2;
+
+%callout-box {
+  padding: 1rem;
+  border-top: 4px solid get-color-level(#000000, 3);
+  background-color: get-color-level(#000000, 4);
+  margin: 1rem 0;
+
+  *:first-child {
+    margin-top: 0;
+  }
+
+  *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.callout-box {
+  @extend %callout-box;
+}
+
+
+.info-box {
+  @extend %callout-box;
+  border-color: $info-color;
+  background: get-custom-color-level($info-color, 4);
+}
+
+.think-box {
+    @extend %callout-box;
+    border-color: $think-color;
+    background: get-custom-color-level($think-color, 4);
+}
+
+.talk-box {
+    @extend %callout-box;
+    border-color: $talk-color;
+    background: get-custom-color-level($talk-color, 4);
+}
+
+.extension-box {
+    @extend %callout-box;
+    border-color: $extension-color;
+    background: get-custom-color-level($extension-color, 4);
+}

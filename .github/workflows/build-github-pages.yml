@@ -32,7 +32,7 @@ jobs:
           -rvz \
           -e 'ssh -p 65002 -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedAlgorithms=+ssh-rsa -i ~/.ssh/id_rsa' \
           --progress \
-          --iconv=lq.rq \
+          --iconv=utf8,iso88591 \
           _site/ \
           ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_IP }}:public_html/
       # - name: Deploy 🚀

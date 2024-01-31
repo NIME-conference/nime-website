@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/cpmpercussion/alembic
-  revision: 6a115b0999d0ac264d9cba7eaea4b96ffe158775
+  revision: 0583c1b93c8d509e90127709493c7475e8c67414
   specs:
     alembic-jekyll-theme (3.2.0)
       jekyll (~> 4.1.1)

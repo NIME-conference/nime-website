@@ -1,6 +1,6 @@
 title: NIME
 email: website@nime.org
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   The International Conference on New Interfaces for Musical Expression
   gathers researchers and musicians from all over the world to share their
   knowledge and late-breaking work on new musical interface design.
@@ -12,24 +12,21 @@ lang: en-GB
 logo: "/assets/logos/nime.png"
 css_inline: true
 
+markdown: kramdown
 sass:
+  sass_dir: _sass
   style: compressed
 permalink: pretty 
 excerpt_separator: <!-- more -->
 timezone: Europe/London
 
-markdown: kramdown
-theme: alembic-jekyll-theme
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-datapage-generator
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-datapage-generator
+  - jekyll-toc
 
 # This is the page_gen plugin config
 # This creates individual pages for each bibliography entry.
@@ -135,8 +132,3 @@ collections:
     description: "News from the NIME world" # The post list page content
     feature_image: "/assets/headers/nime2010-ultrasonic.jpg"
     feature_text: ""
-
-# sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-#   Twitter: "#0d94e7"
-#   facebook: "#3B5998"
-#   Email: true

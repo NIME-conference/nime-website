@@ -2,6 +2,7 @@
 layout: page
 title: The International Conference on New Interfaces for Musical Expression
 feature_image: "assets/nime_banner.jpg"
+feature_image_alt: "An enigmatic image of waves in space with the NIME logo subtly superimposed."
 ---
 
 ### Upcoming Conference
@@ -12,7 +13,7 @@ feature_image: "assets/nime_banner.jpg"
 
 The International Conference on New Interfaces for Musical Expression gathers researchers and musicians from all over the world to share their knowledge and late-breaking work on new musical interface design. The conference started out as a workshop at the [Conference on Human Factors in Computing Systems](https://www.acm.org/sigchi/) (CHI) in 2001. Since then, an annual series of international conferences have been held around the world, hosted by research groups dedicated to interface design, human-computer interaction, and computer music.
 
-{% include video.html id="JnLylwvWIpE" %}
+{% include youtubePlayer.html id="JnLylwvWIpE" %}
 
 This website serves as the [permanent home for the NIME proceedings](/archives), for historical records of NIMEs past, and planning documents and policies related to NIMEs of the future.
 

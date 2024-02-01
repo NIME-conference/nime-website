@@ -13,9 +13,12 @@ gem "jekyll" #, ">= 4.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  # Theme
-  gem "alembic-jekyll-theme", "~> 3.2.0", git: "https://github.com/cpmpercussion/alembic"
+  gem "jekyll-mentions"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem 'jekyll-fontawesome-svg'
   gem "jekyll-datapage-generator"
+  gem 'jekyll-toc'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

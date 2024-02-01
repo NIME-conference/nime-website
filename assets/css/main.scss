@@ -1,0 +1,115 @@
+---
+---
+// Inter Font
+// @import url('https://rsms.me/inter/inter.css');
+// @supports (font-variation-settings: normal) {
+//   html { font-family: 'Inter var', sans-serif; }
+// }
+
+// $body-font: 'Inter', sans-serif;
+// $header-font: 'Inter', sans-serif;
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans&display=swap');
+
+$header-font: 'Lato', sans-serif;
+$body-font: 'PT Sans', sans-serif;
+
+html {
+    font-family: $body-font;
+}
+
+body {
+  font-family: $body-font;
+  font-weight: normal;
+}
+
+p {
+    font-family: $body-font;
+}
+
+
+h1, h3, h5 {
+  font-family: $header-font;
+  font-weight: 600 !important;
+}
+
+h2, h4, h6 {
+    font-family: $header-font;
+    font-weight: 500;
+}
+
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+    font-family: $header-font;
+    font-weight: 600 !important;
+    text-transform: uppercase;
+}
+
+
+h2.bibliography {
+    font-size: 1.5rem !important;
+}
+
+.button {
+  font-family: $body-font;
+  font-weight: bold;
+}
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+article {
+
+    img:not(.card-img-top) {
+        max-width: 80%;
+        max-height: 80%;
+        height: inherit !important;
+        display:block;
+        margin:auto;
+    }
+
+    .display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+        text-align: center;
+    }
+}
+
+$ui-background: #7B8593ff;
+$ui-gradient: linear-gradient(90deg, rgb(116, 134, 177), rgb(99, 96, 104));
+
+$ui-0: #373840ff;
+$ui-1: rgb(116, 134, 177);
+$ui-2: rgb(55, 54, 67);
+$ui-3: rgb(99, 96, 104);
+$ui-4: #4d4bcd;
+
+.nav-item {
+    .active {
+        font-weight: 900;
+    }
+
+    &:hover {
+        font-weight: 900;
+        color: $ui-4;
+    }
+}
+
+.container a, main a {
+    color: $ui-4;
+    font-weight: 500;
+    
+    &:hover {
+        color: #fff;
+        background: $ui-gradient !important;
+    }
+}
+
+.navbar-brand {
+    font-weight: 900;
+}

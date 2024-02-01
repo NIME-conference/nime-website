@@ -1,15 +1,14 @@
-<nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
-  <div class="container-fluid">
+<nav class="navbar navbar-expand-lg">
+  <div class="container-lg">
   <a class="navbar-brand" href="#">
-    <img src="{% link /assets/logos/nime.svg %}" width="40" class="d-inline-block align-top" alt="Logo">
-    NIME
+    <img src="{% link /assets/logos/nime.svg %}" width="120" class="d-inline-block align-top" alt="NIME">
   </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
     <ul class="navbar-nav">
-      {% for link in site.data.navigation %}
+      {% for link in site.navigation_header %}
       {% assign class = nil %}
       {% if page.url == link.url %}
       {% assign class = "active" %}
@@ -20,7 +19,9 @@
       {% endfor %}
     </ul>
 
-    <ul class="navbar-nav">
+    {% comment %}
+    <!-- Colour Mode Toggling Icon ~~ a bit of custom CPM code. -->
+    <!-- <ul class="navbar-nav">
       <li class="nav-item">
         <button class="btn" id="btnSwitch">
         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16">
@@ -28,12 +29,16 @@
         </svg>
         </button>
       </li>
-    </ul>
+    </ul> -->
+    <!-- End Colour Mode Toggler -->
+    {% endcomment %}
   </div>
   </div>
 </nav>
-<script>
 
+{% comment %}
+<!-- Colour Mode Toggling Code -->
+<!-- <script>
 /*!
  * Color mode toggler for Bootstrap's docs (https://getbootstrap.com/)
  * Copyright 2011-2023 The Bootstrap Authors
@@ -70,4 +75,6 @@ document.getElementById('btnSwitch').addEventListener('click',()=>{
   setTheme('dark')
     }
 })
-</script>
+</script> -->
+<!-- End Colour Mode Toggling -->
+{% endcomment %}

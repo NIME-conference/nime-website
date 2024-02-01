@@ -1,13 +1,19 @@
 ---
 ---
 // Inter Font
-@import url('https://rsms.me/inter/inter.css');
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
-}
+// @import url('https://rsms.me/inter/inter.css');
+// @supports (font-variation-settings: normal) {
+//   html { font-family: 'Inter var', sans-serif; }
+// }
 
-$body-font: 'Inter', sans-serif;
-$header-font: 'Inter', sans-serif;
+// $body-font: 'Inter', sans-serif;
+// $header-font: 'Inter', sans-serif;
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans&display=swap');
+
+$header-font: 'Lato', sans-serif;
+$body-font: 'PT Sans', sans-serif;
 
 html {
     font-family: $body-font;
@@ -74,38 +80,14 @@ article {
     }
 }
 
-img.carouselcontain {
-    width: 100%;
-    object-fit: cover;
-    display: block;
-    margin: auto;
-}
+$ui-background: #7B8593ff;
+$ui-gradient: linear-gradient(90deg, rgb(116, 134, 177), rgb(99, 96, 104));
 
-// nice orange to red gradient
-//background: rgb(255,188,48);
-//background: linear-gradient(90deg, rgba(255,188,48,1) 0%, rgba(255,0,0,1) 100%);
-
-$ui-background: rgb(255,188,48);
-$ui-gradient: linear-gradient(90deg, rgba(255,188,48,0.8) 0%, rgba(255,80,80,0.8) 100%);
-
-$ui-0: #34414F;
-$ui-1: #66A983;
-$ui-2: #F0D564;
-$ui-3: #F7AE48;
-$ui-4: #DC702F;
-
-// add the bg-gradient to any element
-.cpm-grad {
-    color: #fff;
-    background: $ui-gradient !important; 
-}
-
-.heading-logo {
-    font-size: 5.5rem;
-    font-size: 7vw !important;
-    background: $ui-gradient;
-}
-
+$ui-0: #373840ff;
+$ui-1: rgb(116, 134, 177);
+$ui-2: rgb(55, 54, 67);
+$ui-3: rgb(99, 96, 104);
+$ui-4: #4d4bcd;
 
 .nav-item {
     .active {
@@ -114,9 +96,7 @@ $ui-4: #DC702F;
 
     &:hover {
         font-weight: 900;
-        color: #fff;
-        background: $ui-background;
-        background: $ui-gradient;
+        color: $ui-4;
     }
 }
 
@@ -127,87 +107,9 @@ $ui-4: #DC702F;
     &:hover {
         color: #fff;
         background: $ui-gradient !important;
-//        -webkit-background-clip: text;
-//        -webkit-text-fill-color: transparent;
     }
 }
 
-
-//a.nav-link.active {
-//    color: $ui-background;
-//    color: $ui-gradient !important;
-//}
-
 .navbar-brand {
     font-weight: 900;
-}
-
-.nimeicon {
-    mask: url("/assets/logos/nime.svg");
-    display: inline-block;
-    width: 70px;
-    //height: 70px;
-    mask-size:cover;
-    background: $ui-background;
-    background: $ui-gradient;
-}
-
-// workshop boxes
-
-// nice callout boxes
-
-
-// swiped from ANU neotheme, but adjusted to use custom colours, not ANU colormap.
-@function get-custom-color-level($color, $level: 0) {
-	@return mix(#ffffff, $color, $level * 22%);
-}
-
-// colors follow the anu style guide: http://webpublishing.anu.edu.au/web-style-guide/style-sampler.php
-$info-color: $ui-3;
-$think-color: $ui-1;
-$talk-color: $ui-4;
-$extension-color: $ui-2;
-
-%callout-box {
-  padding: 1rem;
-  border-top: 4px solid get-color-level(#000000, 3);
-  background-color: get-color-level(#000000, 4);
-  margin: 1rem 0;
-
-  *:first-child {
-    margin-top: 0;
-  }
-
-  *:last-child {
-    margin-bottom: 0;
-  }
-}
-
-.callout-box {
-  @extend %callout-box;
-}
-
-
-.info-box {
-  @extend %callout-box;
-  border-color: $info-color;
-  background: get-custom-color-level($info-color, 4);
-}
-
-.think-box {
-    @extend %callout-box;
-    border-color: $think-color;
-    background: get-custom-color-level($think-color, 4);
-}
-
-.talk-box {
-    @extend %callout-box;
-    border-color: $talk-color;
-    background: get-custom-color-level($talk-color, 4);
-}
-
-.extension-box {
-    @extend %callout-box;
-    border-color: $extension-color;
-    background: get-custom-color-level($extension-color, 4);
 }

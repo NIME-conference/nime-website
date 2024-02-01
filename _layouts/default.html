@@ -6,32 +6,10 @@
   <body>
     {% include nav.html %}
 
-    {% comment %}
-    <div class="p-5 mb-4 rounded-3 bg-transparent text-light text-center d-flex align-items-center">
-      <h1 class="heading-logo display-2 mx-auto">{{ site.title }}</h1>
-    </div>
-    {% endcomment %}
-
-    {% if page.titlepage %}
-    <div class="my-4 rounded-3 bg-transparent container">
-      <div class="row justify-content-between">
-          <h1 class="heading-logo text-light rounded-3">I'm Charles Martin.</h1>
-      </div>
-      <div class="row justify-content-between">
-  
-        <div class="col-md-4">
-          <img src="{{ site.title-image | absolute_url }}" class="rounded img-fluid" alt="Charles Martin playing a synthesiser in a dark street." />
-        </div>
-
-        <div class="col-lg-8 p-5 rounded-3 bg-body text-body">
-          <p class="lead">I'm a computer scientist specialising in music technology, musical AI and human-computer interaction at <a href="https://comp.anu.edu.au/people/faculty/charles-martin/">The Australian National University, Canberra</a>.</p>
-
-          <p class="lead">I develop musical apps such as <a href="https://microjam.info">MicroJam</a>, and <a href="https://metatone.net/phaserings">PhaseRings</a>,research <a href="https://creativeprediction.xyz">creative AI</a>, and perform music with <a href="https://metatone.net">Ensemble Metatone</a> and <a href="https://charlesmartin.com.au/andromeda-is-coming/">Andromeda is Coming</a>.</p>
-
-          <p class="lead">At the ANU, I lead research into  <a href="/lab/">intelligent musical instruments</a>. My lab's focus is on developing new intelligent instruments, performing new music with them, and bringing them to a broad audience of musicians and performers.</p>
-
-          <p class="lead">This website includes my personal blog, portfolio of projects and music, and academic profile.</p>
-        </div>
+    {% if page.feature_image %}
+    <div class="mx-0 px-0 bg-transparent container-fluid">
+      <div class="row justify-content-between mx-0 px-0">
+          <img src="{% link {{ page.feature_image }} %}" class="img-fluid p-0 m-0" {% if page.feature_image_alt %}alt="{{ page.feature_image_alt }}"{% endif %} />
       </div>
     </div>
     {% endif %}
@@ -42,11 +20,7 @@
       </main>
     </div>
 
-    <footer class="container my-2 px-0">
-      <div class="mb-4">
-        <p class="cpm-grad text-center rounded-3 py-2">&copy; NIME Community {{ site.time | date: '%Y' }}</p>
-      </div>
-    </footer>
+    {% include footer.html %}
     {% fa_svg_generate %}
     {% include scripts.html %}
   </body>

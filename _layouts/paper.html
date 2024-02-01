@@ -50,11 +50,7 @@
       </main>
     </div>
 
-    <footer class="container my-2 px-0">
-      <div class="mb-4">
-        <p class="cpm-grad text-center rounded-3 py-2">&copy; NIME Community {{ site.time | date: '%Y' }}</p>
-      </div>
-    </footer>
+    {% include footer.html %}
     {% fa_svg_generate %}
     {% include scripts.html %}
   </body>

@@ -1,3 +1,86 @@
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-Norderval2011
+  address: 'Oslo, Norway'
+  author: Kristin Norderval
+  bibtex: "@inproceedings{nime2011-installations-Norderval2011,\n address = {Oslo,\
+    \ Norway},\n author = {Kristin Norderval},\n booktitle = {Installation Proceedings\
+    \ of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
+    \ = {Norwegian Academy of Music},\n title = {TURN ME! I need 12 Volts!},\n url\
+    \ = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n year = {2011}\n\
+    }\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: TURN ME! I need 12 Volts!
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-2011
+  address: 'Oslo, Norway'
+  author: Nicolas d'Alessandro and Roberto Calderon
+  bibtex: "@inproceedings{nime2011-installations-2011,\n address = {Oslo, Norway},\n\
+    \ author = {Nicolas d'Alessandro and Roberto Calderon},\n booktitle = {Installation\
+    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
+    \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
+    \ = {Norwegian Academy of Music},\n title = {ROOM\\#81},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
+    \ year = {2011}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: "ROOM\\#81"
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-Peschta2011
+  address: 'Oslo, Norway'
+  author: Leo Peschta
+  bibtex: "@inproceedings{nime2011-installations-Peschta2011,\n address = {Oslo, Norway},\n\
+    \ author = {Leo Peschta},\n booktitle = {Installation Proceedings of the International\
+    \ Conference on New Interfaces for Musical Expression},\n editor = {Kjell Tore\
+    \ Innervik and Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy\
+    \ of Music},\n title = {BM 0.1},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
+    \ year = {2011}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: BM 0.1
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
+- ENTRYTYPE: inproceedings
+  ID: nime2011-installations-Andersson2011
+  address: 'Oslo, Norway'
+  author: 'MusicalFieldsForever – Anders-Petter Andersson, Birgitta Cappelen, Fredrik
+    Olofsson'
+  bibtex: "@inproceedings{nime2011-installations-Andersson2011,\n address = {Oslo,\
+    \ Norway},\n author = {MusicalFieldsForever – Anders-Petter Andersson, Birgitta\
+    \ Cappelen, Fredrik Olofsson},\n booktitle = {Installation Proceedings of the\
+    \ International Conference on New Interfaces for Musical Expression},\n editor\
+    \ = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher =\
+    \ {Norwegian Academy of Music},\n title = {ORFI},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
+    \ year = {2011}\n}\n"
+  booktitle: Installation Proceedings of the International Conference on New Interfaces
+    for Musical Expression
+  editor: Kjell Tore Innervik and Ivar Frounberg
+  month: June
+  publisher: Norwegian Academy of Music
+  title: ORFI
+  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
+  year: 2011
+
+
 - ENTRYTYPE: incollection
   ID: nime2012-installations-Kotin2012
   abstract: "Program notes:\n\nWhisker Organ is an interactive sound instrument linking\
@@ -1076,86 +1159,3 @@
   title: China Gates
   url: http://mypage.bluewin.ch/artclay
   year: 2008
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-Norderval2011
-  address: 'Oslo, Norway'
-  author: Kristin Norderval
-  bibtex: "@inproceedings{nime2011-installations-Norderval2011,\n address = {Oslo,\
-    \ Norway},\n author = {Kristin Norderval},\n booktitle = {Installation Proceedings\
-    \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {TURN ME! I need 12 Volts!},\n url\
-    \ = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n year = {2011}\n\
-    }\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: TURN ME! I need 12 Volts!
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-2011
-  address: 'Oslo, Norway'
-  author: Nicolas d'Alessandro and Roberto Calderon
-  bibtex: "@inproceedings{nime2011-installations-2011,\n address = {Oslo, Norway},\n\
-    \ author = {Nicolas d'Alessandro and Roberto Calderon},\n booktitle = {Installation\
-    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher\
-    \ = {Norwegian Academy of Music},\n title = {ROOM\\#81},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
-    \ year = {2011}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: "ROOM\\#81"
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-Peschta2011
-  address: 'Oslo, Norway'
-  author: Leo Peschta
-  bibtex: "@inproceedings{nime2011-installations-Peschta2011,\n address = {Oslo, Norway},\n\
-    \ author = {Leo Peschta},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Kjell Tore\
-    \ Innervik and Ivar Frounberg},\n month = {June},\n publisher = {Norwegian Academy\
-    \ of Music},\n title = {BM 0.1},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
-    \ year = {2011}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: BM 0.1
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2011-installations-Andersson2011
-  address: 'Oslo, Norway'
-  author: 'MusicalFieldsForever – Anders-Petter Andersson, Birgitta Cappelen, Fredrik
-    Olofsson'
-  bibtex: "@inproceedings{nime2011-installations-Andersson2011,\n address = {Oslo,\
-    \ Norway},\n author = {MusicalFieldsForever – Anders-Petter Andersson, Birgitta\
-    \ Cappelen, Fredrik Olofsson},\n booktitle = {Installation Proceedings of the\
-    \ International Conference on New Interfaces for Musical Expression},\n editor\
-    \ = {Kjell Tore Innervik and Ivar Frounberg},\n month = {June},\n publisher =\
-    \ {Norwegian Academy of Music},\n title = {ORFI},\n url = {http://www.nime.org/proceedings/2019/nime2019_music001.pdf},\n\
-    \ year = {2011}\n}\n"
-  booktitle: Installation Proceedings of the International Conference on New Interfaces
-    for Musical Expression
-  editor: Kjell Tore Innervik and Ivar Frounberg
-  month: June
-  publisher: Norwegian Academy of Music
-  title: ORFI
-  url: http://www.nime.org/proceedings/2019/nime2019_music001.pdf
-  year: 2011

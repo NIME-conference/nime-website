@@ -30,74 +30,74 @@ The Board is composed of the following members:
 * General Chairs of immediately past NIME conference
 
 #### 3.1 President
-* Responsibilities
-	* To chair the NIME Board meetings
-	* To oversee the life of the community
-	* To be the main contact person for any arising issue and any new initiatives
-	* To lead the process of nomination and election of new Board members
-* Eligibility and term of office
-	* The President must be a current member of the Board, but not a General Chair of an upcoming NIME
-	* Once elected, the President should step down from other chairing roles within NIME
-	* The first President of the NIME Board will be elected by the current Steering Committee
-	* All successive Presidents will be elected by Board members
-	* The term of office is 3 years
-	* The President can run again for this position but the maximum length of consecutive years is 9 (three consecutive mandates)
+##### 3.1.1 Responsibilities
+* To chair the NIME Board meetings
+* To oversee the life of the community
+* To be the main contact person for any arising issue and any new initiatives
+* To lead the process of nomination and election of new Board members
+##### 3.1.2 Eligibility and term of office
+* The President must be a current member of the Board, but not a General Chair of an upcoming NIME
+* Once elected, the President should step down from other chairing roles within NIME
+* The first President of the NIME Board will be elected by the current Steering Committee
+* All successive Presidents will be elected by Board members
+* The term of office is 3 years
+* The President can run again for this position but the maximum length of consecutive years is 9 (three consecutive mandates)
 
 #### 3.2 Chief of Committees
-* Responsibilities
-	* To oversee the activities of all the current and future NIME committees and working groups
-	* It is expected that the Chief of Committees will periodically organise meetings with the various committee chairs
-	* To update the Board on the status of such committees and working groups
-* Eligibility and term of office
-	* The Chief of Committees is elected by the community
-	* The term of office is 3 years
-	* The mandate can be renewed once
+##### 3.2.1 Responsibilities
+* To oversee the activities of all the current and future NIME committees and working groups
+* It is expected that the Chief of Committees will periodically organise meetings with the various committee chairs
+* To update the Board on the status of such committees and working groups
+##### 3.2.2 Eligibility and term of office
+* The Chief of Committees is elected by the community
+* The term of office is 3 years
+* The mandate can be renewed once
 
 #### 3.3 Proceeding and Web Officer
-* Responsibilities
-	* To ensure that the conference Proceedings on [nime.org](https://www.nime.org/archives/) are always updated 
-	* To ensure that the [Zenodo page](https://zenodo.org/communities/nime/?q=&l=list&p=1&s=10&sort=newest) is updated
-	* To set a deadline for each year’s General Chairs to submit the proceedings and to monitor the progress
-	* To perform routine updates on [nime.org](https://www.nime.org/archives/)
-* Eligibility and term of office
-	* The Proceedings and Web Officer is elected by the community
-	* The term of office is 3 years
-	* The mandate can be renewed once
+##### 3.3.1 Responsibilities
+* To ensure that the conference Proceedings on [nime.org](https://www.nime.org/archives/) are always updated 
+* To ensure that the [Zenodo page](https://zenodo.org/communities/nime/?q=&l=list&p=1&s=10&sort=newest) is updated
+* To set a deadline for each year’s General Chairs to submit the proceedings and to monitor the progress
+* To perform routine updates on [nime.org](https://www.nime.org/archives/)
+##### 3.3.2 Eligibility and term of office
+* The Proceedings and Web Officer is elected by the community
+* The term of office is 3 years
+* The mandate can be renewed once
 
 #### 3.4 Members-at-large (2x)
-* Responsibilities
-	* To volunteer for the tasks that will inevitably arise and are not in the remit of other Board members 
-	* To form, if needed, working groups to solve these tasks
-	* To update the Board 
-	* Miscellaneous
-* Eligibility and term of office
-	* The two Members-at-large are elected by the community
-	* The term of office is 2 years
-	* The mandate is not renewed
+##### 3.4.1 Responsibilities
+* To volunteer for the tasks that will inevitably arise and are not in the remit of other Board members 
+* To form, if needed, working groups to solve these tasks
+* To update the Board 
+* Miscellaneous
+##### 3.4.2  Eligibility and term of office
+* The two Members-at-large are elected by the community
+* The term of office is 2 years
+* The mandate is not renewed
 
 #### 3.5 Continuity Officer
-* Responsibilities
-	* To ensure that current and future conference organisers possess the necessary information to successfully run the conference
-	* To oversee the development of NIME Conference Policy (e.g. fees, publishing systems) that General Chairs will need to comply by
-	* To oversee the updates of the NIME cookbook by following up with Conference Chairs
-	* Keep a record of emails of registrants that are happy for their email to be used for election purposes
-* Eligibility and term of office
-	* The continuity officer is elected by the community
-	* The term of office is 4 years
+##### 3.5.1 Responsibilities
+* To ensure that current and future conference organisers possess the necessary information to successfully run the conference
+* To oversee the development of NIME Conference Policy (e.g. fees, publishing systems) that General Chairs will need to comply by
+* To oversee the updates of the NIME cookbook by following up with Conference Chairs
+* Keep a record of emails of registrants that are happy for their email to be used for election purposes
+##### 3.5.2  Eligibility and term of office
+* The continuity officer is elected by the community
+* The term of office is 4 years
 
 #### 3.6 General Chairs of Upcoming NIMEs
-* Responsibilities
-	* To update the Board on the status of the conference organisation
-* Eligibility and term of office
-	* **One** of the General Chairs of an upcoming NIME conference will be automatically invited to join the NIME Board as soon as they are formally notified that their bid to host the conference has been successful
+##### 3.6.1 Responsibilities
+* To update the Board on the status of the conference organisation
+##### 3.6.2  Eligibility and term of office
+* One of the General Chairs of an upcoming NIME conference will be automatically invited to join the NIME Board as soon as they are formally notified that their bid to host the conference has been successful
 
 #### 3.7 General Chair of the immediately past NIME conference
-* Responsibilities
-	* To offer advice to the new conference organisers
-	* To monitor the current status of the forthcoming conference
-	* Miscellaneous
-* Eligibility and term of office
-	* It is expected that one of the General Chair/s of a NIME conference will maintain their membership in the board up until the end of the successive year’s conference
+##### 3.7.1 Responsibilities
+* To offer advice to the new conference organisers
+* To monitor the current status of the forthcoming conference
+* Miscellaneous
+##### 3.7.2  Eligibility and term of office
+* It is expected that one of the General Chair/s of a NIME conference will maintain their membership in the board up until the end of the successive year’s conference
 
 ## 4. Board meetings
 * The board meets online 6 to 8 times a year
@@ -105,11 +105,11 @@ The Board is composed of the following members:
 * Efforts will be made to ensure that none of the board members will have to join the meeting at unsociable hours whenever possible
 
 ## 5. Board member's election process
-* Eligibility
-	* Anyone who attended at least one of the last 3 NIME conferences (either in person or remotely) can advance their nomination
-	* The nomination modalities will be communicated on [forum.nime.org](https://forum.nime.org)
-* Elections
-	* The election modalities will be communicated on [forum.nime.org](https://forum.nime.org)
+#### 5.1 Eligibility
+* Anyone who attended at least one of the last 3 NIME conferences (either in person or remotely) can advance their nomination
+* The nomination modalities will be communicated on [forum.nime.org](https://forum.nime.org)
+#### 5.2 Elections
+* The election modalities will be communicated on [forum.nime.org](https://forum.nime.org)
 
 ## 6. Advisory board
 #### 6.1 Composition
@@ -124,7 +124,6 @@ The Advisory Board is composed of:
 * Advisory Board members participating in NIME Board meetings are non-voting members
 
 ## 7. Times and modalities to constitute the NIME Board 
-
 #### 7.1 Constitution of the first NIME Board
 * On 1 March 2024, the current Steering Committee will elect the President of the Board
 * From 1 March 2024, the President will lead the process of election of the other Board members

@@ -3,9 +3,10 @@ layout: page
 title: NIME Board, terms of reference
 permalink: /board/
 ---
-| Updated: -
-| Created: 16 February 2024
----
+> Created: 16 February 2024
+> 
+> Updated: -
+
 ## 1. Rationale
 In the past, the NIME community has expressed its preference for an informal organisational structure. However, there is a need to restructure NIME with a more rigorous governance model to account for the community’s growth while avoiding fragmentation among the numerous bottom-up initiatives. The NIME Board will replace the NIME Steering Committee (SC). While the SC has executive power around the main decisions in the life of the community and the conference itself, its membership draws on previous NIME hosts in recent (unspecified number of) years or future NIME hosts. This model excludes active NIME members who might not have the possibility to organise NIME but who would be eager and deserve to be involved. The new governance model, outlined in this document, is conceived to overcome these limitations and is centred on efficiency, fairness, and the development of the community, in general.
   

@@ -17,7 +17,7 @@ In the past, the NIME community has expressed its preference for an informal org
 * To oversee the work of the various committees and working groups, encouraging consolidation and focus on their long-term sustainability
 * To form or approve the creation of new committees or working groups, as needed
 * To approve changes and updates to the NIME website and archives
-* To maintain engagement with the NIME Advisory Board, including inviting one representative to attend NIME Board meetings, and to leverage their input, as needed
+* To maintain engagement with the NIME Advisory Group, including inviting one representative to attend NIME Board meetings, and to leverage their input, as needed
 
 ## 3. Boards roles and membership
 The Board is composed of the following members:
@@ -55,7 +55,7 @@ The Board is composed of the following members:
 * The term of office is 3 years
 * The mandate can be renewed once
 
-#### 3.3 Proceeding and Web Officer
+#### 3.3 Proceedings and Web Officer
 ##### 3.3.1 Responsibilities
 * To ensure that the conference Proceedings on [nime.org](https://www.nime.org/archives/) are always updated 
 * To ensure that the [Zenodo page](https://zenodo.org/communities/nime/?q=&l=list&p=1&s=10&sort=newest) is updated
@@ -119,17 +119,17 @@ The Board is composed of the following members:
 #### 5.2 Elections
 * The election modalities will be communicated on [forum.nime.org](https://forum.nime.org)
 
-## 6. Advisory board
+## 6. Advisory Group
 #### 6.1 Composition
-The Advisory Board is composed of:
-* The General Chairs of past NIME conferences who have expressed interest in it 
-* Individuals whose specific expertise and/or historical, institutional,cultural, and/or technical insights are valued by the wider NIME community, and who express interest in being part of it. Such individuals will convey this interest to the Advisory Board, who will approve or decline the nomination.
+The Advisory Group is composed of:
+* The General Chairs of all past NIME conferences who have expressed interest in it 
+* Individuals whose specific expertise and/or historical, institutional,cultural, and/or technical insights are valued by the wider NIME community. Such individuals can put forward their nominations to take part in the Advisory Group (details to be announced on [forum.nime.org](https://forum.nime.org)). The nominations are then considered by the NIME Board.
 
 #### 6.2 Representation in the NIME Board
-* The Advisory Board can decide the modalities of their operations
-* A nominee from the advisory board can request to be present at NIME Board meetings
-* The NIME Board can request a nominee from the advisory board to be present at NIME Board meetings and offer feedback, as needed
-* Advisory Board members participating in NIME Board meetings are non-voting members
+* The Advisory Group can decide the modalities of their operations
+* A nominee from the Advisory Group can request to be present at NIME Board meetings
+* The NIME Board can request a nominee from the Advisory Group to be present at NIME Board meetings and offer feedback, as needed
+* Advisory Group members participating in NIME Board meetings are non-voting members
 
 ## 7. Times and modalities to constitute the NIME Board 
 #### 7.1 Constitution of the first NIME Board

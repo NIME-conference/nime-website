@@ -46,7 +46,7 @@ The Board is composed of the following members:
 
 #### 3.2 Chief of Committees
 ##### 3.2.1 Responsibilities
-* To oversee the activities of all the current and future NIME committees and working groups
+* To oversee the activities of all the current and future [NIME committees](committee) and working groups
 * It is expected that the Chief of Committees will periodically organise meetings with the various committee chairs
 * To update the Board on the status of such committees and working groups
 

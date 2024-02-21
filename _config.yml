@@ -104,14 +104,14 @@ navigation_header:
   url: /
 - title: Past NIMEs
   url: /past-nimes/
-- title: Proceedings
+- title: Paper proceedings
   url: /archives/
-- title: Music
+- title: Music proceedings
   url: /music/
 - title: Hosting
   url: /hosting/
-- title: Committee
-  url: /committee/
+- title: Board
+  url: /board/
 - title: Mailing List
   url: /list/
 - title: Statements

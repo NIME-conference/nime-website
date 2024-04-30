@@ -32,7 +32,7 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Live Concert 1, Wednesday\
     \ May 31, Biblioteca Vasconcelos},\n title = {SPLT/SCRN: A Game-Piece for Dueling\
-    \ Improvisers},\n url = {https://www.nime.org/proceedings/2023/nime23_music_12.pdf},\n\
+    \ Improvisers},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_12.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_1.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -41,7 +41,7 @@
   month: May
   note: 'Live Concert 1, Wednesday May 31, Biblioteca Vasconcelos'
   title: 'SPLT/SCRN: A Game-Piece for Dueling Improvisers'
-  url: https://www.nime.org/proceedings/2023/nime23_music_12.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_12.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_1.pdf
   year: 2023
 
@@ -78,7 +78,7 @@
     \ = {13},\n author = {Anderson Maq},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Online Presentation},\n title = {(ex)tension by Fabrizio\
-    \ di Salvo in collaboration with reConvert},\n url = {https://www.nime.org/proceedings/2023/nime23_music_13.pdf},\n\
+    \ di Salvo in collaboration with reConvert},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_13.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -87,7 +87,7 @@
   month: May
   note: Online Presentation
   title: (ex)tension by Fabrizio di Salvo in collaboration with reConvert
-  url: https://www.nime.org/proceedings/2023/nime23_music_13.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_13.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -120,8 +120,8 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Live Concert 5, Friday June\
     \ 2, Centro de Cultura Digital},\n title = {Elegy (Ready, Set, Rapture)},\n url\
-    \ = {https://www.nime.org/proceedings/2023/nime23_music_19.pdf},\n urlsuppl1 =\
-    \ {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n year = {2023}\n\
+    \ = {https://www.nime.org/proceedings/2023/nime2023_music_19.pdf},\n urlsuppl1\
+    \ = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -129,7 +129,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: 'Elegy (Ready, Set, Rapture)'
-  url: https://www.nime.org/proceedings/2023/nime23_music_19.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_19.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -155,7 +155,7 @@
     \ described as immersive, intense and crafted.},\n articleno = {26},\n author\
     \ = {Boris Wilmot},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
-    \ = {May},\n note = {Online Presentation},\n title = {ALEA(s)},\n url = {https://www.nime.org/proceedings/2023/nime23_music_26.pdf},\n\
+    \ = {May},\n note = {Online Presentation},\n title = {ALEA(s)},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_26.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -164,7 +164,7 @@
   month: May
   note: Online Presentation
   title: ALEA(s)
-  url: https://www.nime.org/proceedings/2023/nime23_music_26.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_26.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -197,7 +197,7 @@
     \ {Sunhuimei Xia},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Online Presentation},\n title = {The Center of the Universe},\n\
-    \ url = {https://www.nime.org/proceedings/2023/nime23_music_28.pdf},\n urlsuppl1\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_music_28.pdf},\n urlsuppl1\
     \ = {https://www.nime2023.org/program/online-in-person-concerts},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -206,7 +206,7 @@
   month: May
   note: Online Presentation
   title: The Center of the Universe
-  url: https://www.nime.org/proceedings/2023/nime23_music_28.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_28.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -263,7 +263,7 @@
     \ = {29},\n author = {Seth A Davis},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Online Presentation},\n title = {“Chomsky Hash” for\
-    \ improvisation, electric guitar, and live electronics},\n url = {https://www.nime.org/proceedings/2023/nime23_music_29.pdf},\n\
+    \ improvisation, electric guitar, and live electronics},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_29.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -272,7 +272,7 @@
   month: May
   note: Online Presentation
   title: '“Chomsky Hash” for improvisation, electric guitar, and live electronics'
-  url: https://www.nime.org/proceedings/2023/nime23_music_29.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_29.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -293,8 +293,8 @@
     \ = {Qiujiang Lu},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Online Presentation},\n title = {Galactic Madness},\n url\
-    \ = {https://www.nime.org/proceedings/2023/nime23_music_36.pdf},\n urlsuppl1 =\
-    \ {https://www.nime2023.org/program/online-in-person-concerts},\n year = {2023}\n\
+    \ = {https://www.nime.org/proceedings/2023/nime2023_music_36.pdf},\n urlsuppl1\
+    \ = {https://www.nime2023.org/program/online-in-person-concerts},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
     Musical Expression
@@ -302,7 +302,7 @@
   month: May
   note: Online Presentation
   title: Galactic Madness
-  url: https://www.nime.org/proceedings/2023/nime23_music_36.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_36.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -331,7 +331,7 @@
     \ {Matthew Goodheart},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Live Concert 5, Friday June 2, Centro de Cultura Digital},\n\
-    \ title = {Refraction Interlude: piano},\n url = {https://www.nime.org/proceedings/2023/nime23_music_52.pdf},\n\
+    \ title = {Refraction Interlude: piano},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_52.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -340,7 +340,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: 'Refraction Interlude: piano'
-  url: https://www.nime.org/proceedings/2023/nime23_music_52.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_52.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -397,7 +397,7 @@
     \ Ricki O'Rawe},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Live Concert 4, Thursday June 1, Centro de Cultura Digital},\n\
-    \ title = {Where is that Batallón de San Patricio Groove?},\n url = {https://www.nime.org/proceedings/2023/nime23_music_66.pdf},\n\
+    \ title = {Where is that Batallón de San Patricio Groove?},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_66.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_4.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -406,7 +406,7 @@
   month: May
   note: 'Live Concert 4, Thursday June 1, Centro de Cultura Digital'
   title: 'Where is that Batallón de San Patricio Groove?'
-  url: https://www.nime.org/proceedings/2023/nime23_music_66.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_66.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_4.pdf
   year: 2023
 
@@ -451,7 +451,7 @@
     \ Atake and Iannis Zannos},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Online Presentation},\n title = {Unboxing: Public-Space\
-    \ Performance With Wearable-Sensors And SuperCollider},\n url = {https://www.nime.org/proceedings/2023/nime23_music_73.pdf},\n\
+    \ Performance With Wearable-Sensors And SuperCollider},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_73.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -460,7 +460,7 @@
   month: May
   note: Online Presentation
   title: 'Unboxing: Public-Space Performance With Wearable-Sensors And SuperCollider'
-  url: https://www.nime.org/proceedings/2023/nime23_music_73.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_73.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -488,7 +488,7 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Online Presentation},\n\
     \ title = {Music(re)ality: A Collaborative Improvisation between Virtual and Real\
-    \ World},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1099.pdf},\n\
+    \ World},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1099.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -497,7 +497,7 @@
   month: May
   note: Online Presentation
   title: 'Music(re)ality: A Collaborative Improvisation between Virtual and Real World'
-  url: https://www.nime.org/proceedings/2023/nime23_music_1099.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1099.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -538,7 +538,7 @@
     \ = {D Stewart},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Live Concert 4, Thursday June 1, Centro de Cultura Digital},\n\
-    \ title = {Sculpture DAXR},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1101.pdf},\n\
+    \ title = {Sculpture DAXR},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1101.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_4.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -547,7 +547,7 @@
   month: May
   note: 'Live Concert 4, Thursday June 1, Centro de Cultura Digital'
   title: Sculpture DAXR
-  url: https://www.nime.org/proceedings/2023/nime23_music_1101.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1101.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_4.pdf
   year: 2023
 
@@ -584,7 +584,7 @@
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Live Concert 3, Thursday\
     \ June 1, Centro de Cultura Digital},\n title = {Transcontinental Grapevine},\n\
-    \ url = {https://www.nime.org/proceedings/2023/nime23_music_1110.pdf},\n urlsuppl1\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_music_1110.pdf},\n urlsuppl1\
     \ = {https://www.nime.org/proceedings/2023/nime23_concert_3.pdf},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -593,7 +593,7 @@
   month: May
   note: 'Live Concert 3, Thursday June 1, Centro de Cultura Digital'
   title: Transcontinental Grapevine
-  url: https://www.nime.org/proceedings/2023/nime23_music_1110.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1110.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_3.pdf
   year: 2023
 
@@ -620,7 +620,7 @@
     \ author = {Dimitris Papageorgiou},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Live Concert 2, Wednesday May 31, Biblioteca Vasconcelos},\n\
-    \ title = {T/ensor/~ 0.3},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1113.pdf},\n\
+    \ title = {T/ensor/~ 0.3},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1113.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_2.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -629,7 +629,7 @@
   month: May
   note: 'Live Concert 2, Wednesday May 31, Biblioteca Vasconcelos'
   title: T/ensor/~ 0.3
-  url: https://www.nime.org/proceedings/2023/nime23_music_1113.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1113.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_2.pdf
   year: 2023
 
@@ -661,7 +661,7 @@
     \ articleno = {1115},\n author = {Ryan R Smith and Shawn Lawson},\n booktitle\
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Rob Hamilton},\n month = {May},\n note = {Online Presentation},\n\
-    \ title = {DEF FUNCTION(DYSTOPIAKIRA)},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1115.pdf},\n\
+    \ title = {DEF FUNCTION(DYSTOPIAKIRA)},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1115.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -670,7 +670,7 @@
   month: May
   note: Online Presentation
   title: DEF FUNCTION(DYSTOPIAKIRA)
-  url: https://www.nime.org/proceedings/2023/nime23_music_1115.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1115.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -704,7 +704,7 @@
     \ Paté and Florent Berthaut},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Online Presentation},\n title = {VS : Improvisation\
-    \ with Automated Interactive Instruments},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1137.pdf},\n\
+    \ with Automated Interactive Instruments},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1137.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -713,7 +713,7 @@
   month: May
   note: Online Presentation
   title: 'VS : Improvisation with Automated Interactive Instruments'
-  url: https://www.nime.org/proceedings/2023/nime23_music_1137.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1137.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -747,7 +747,7 @@
     \ articleno = {1141},\n author = {Francesco Dal Rì and Francesca Zanghellini},\n\
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Rob Hamilton},\n month = {May},\n note\
-    \ = {Online Presentation},\n title = {Codex Saqqara},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1141.pdf},\n\
+    \ = {Online Presentation},\n title = {Codex Saqqara},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1141.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -756,7 +756,7 @@
   month: May
   note: Online Presentation
   title: Codex Saqqara
-  url: https://www.nime.org/proceedings/2023/nime23_music_1141.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1141.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -801,7 +801,7 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Rob Hamilton},\n month = {May},\n note\
     \ = {Live Concert 5, Friday June 2, Centro de Cultura Digital},\n title = {Flightless\
-    \ Path},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1148.pdf},\n\
+    \ Path},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1148.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -810,7 +810,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: Flightless Path
-  url: https://www.nime.org/proceedings/2023/nime23_music_1148.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1148.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -861,7 +861,7 @@
     \ L A Sobek},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Live Concert 5, Friday June 2, Centro de Cultura Digital},\n\
-    \ title = {The Moirai Mask},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1158.pdf},\n\
+    \ title = {The Moirai Mask},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1158.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -870,7 +870,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: The Moirai Mask
-  url: https://www.nime.org/proceedings/2023/nime23_music_1158.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1158.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -932,7 +932,7 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Rob Hamilton},\n month = {May},\n note\
     \ = {Live Concert 4, Thursday June 1, Centro de Cultura Digital},\n title = {Carbon\
-    \ Based EM Fields},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1166.pdf},\n\
+    \ Based EM Fields},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1166.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_4.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -941,7 +941,7 @@
   month: May
   note: 'Live Concert 4, Thursday June 1, Centro de Cultura Digital'
   title: Carbon Based EM Fields
-  url: https://www.nime.org/proceedings/2023/nime23_music_1166.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1166.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_4.pdf
   year: 2023
 
@@ -986,7 +986,7 @@
     \ author = {Cayn Borthwick},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Live Concert 5, Friday June 2, Centro de Cultura Digital},\n\
-    \ title = {Sonic Swells - Riding Swells},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1168.pdf},\n\
+    \ title = {Sonic Swells - Riding Swells},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1168.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -995,7 +995,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: Sonic Swells - Riding Swells
-  url: https://www.nime.org/proceedings/2023/nime23_music_1168.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1168.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -1026,7 +1026,7 @@
     \ Armitage and Celeste Betancur},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Live Concert 5, Friday June 2, Centro de Cultura Digital},\n\
-    \ title = {Pandora's Mycophony},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1174.pdf},\n\
+    \ title = {Pandora's Mycophony},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1174.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1035,7 +1035,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: Pandora's Mycophony
-  url: https://www.nime.org/proceedings/2023/nime23_music_1174.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1174.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -1059,7 +1059,7 @@
     \ author = {Teodoro Dannemann},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Live Concert 1, Wednesday May 31, Biblioteca Vasconcelos},\n\
-    \ title = {Sabotaging Piano Concert},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1212.pdf},\n\
+    \ title = {Sabotaging Piano Concert},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1212.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1068,7 +1068,7 @@
   month: May
   note: 'Live Concert 1, Wednesday May 31, Biblioteca Vasconcelos'
   title: Sabotaging Piano Concert
-  url: https://www.nime.org/proceedings/2023/nime23_music_1212.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1212.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -1099,7 +1099,7 @@
     \ = {1214},\n author = {Solomiya Moroz and Zubin Kanga},\n booktitle = {Music\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Online Presentation},\n\
-    \ title = {Returns \\& Simulacra},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1214.pdf},\n\
+    \ title = {Returns \\& Simulacra},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1214.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1108,7 +1108,7 @@
   month: May
   note: Online Presentation
   title: Returns & Simulacra
-  url: https://www.nime.org/proceedings/2023/nime23_music_1214.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1214.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -1167,7 +1167,7 @@
     \ = {1245},\n author = {Diemo Schwarz},\n booktitle = {Music Proceedings of the\
     \ International Conference on New Interfaces for Musical Expression},\n editor\
     \ = {Rob Hamilton},\n month = {May},\n note = {Live Concert 5, Friday June 2,\
-    \ Centro de Cultura Digital},\n title = {Absence},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1245.pdf},\n\
+    \ Centro de Cultura Digital},\n title = {Absence},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1245.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1176,7 +1176,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: Absence
-  url: https://www.nime.org/proceedings/2023/nime23_music_1245.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1245.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -1197,7 +1197,7 @@
     \ = {Daniel Jones},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Live Concert 3, Thursday June 1, Centro de Cultura Digital},\n\
-    \ title = {Dream Structures},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1249.pdf},\n\
+    \ title = {Dream Structures},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1249.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_3.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1206,7 +1206,7 @@
   month: May
   note: 'Live Concert 3, Thursday June 1, Centro de Cultura Digital'
   title: Dream Structures
-  url: https://www.nime.org/proceedings/2023/nime23_music_1249.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1249.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_3.pdf
   year: 2023
 
@@ -1232,7 +1232,7 @@
     \ a shared sonic space.},\n articleno = {1262},\n author = {Gerard Roma},\n booktitle\
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Rob Hamilton},\n month = {May},\n note = {Online Presentation},\n\
-    \ title = {Stir bugs},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1262.pdf},\n\
+    \ title = {Stir bugs},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1262.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1241,7 +1241,7 @@
   month: May
   note: Online Presentation
   title: Stir bugs
-  url: https://www.nime.org/proceedings/2023/nime23_music_1262.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1262.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -1286,7 +1286,7 @@
     \ Jr and Sang Won Lee},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Live Concert 4, Thursday June 1, Centro de Cultura\
-    \ Digital},\n title = {Branch},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1272.pdf},\n\
+    \ Digital},\n title = {Branch},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1272.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_4.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1295,7 +1295,7 @@
   month: May
   note: 'Live Concert 4, Thursday June 1, Centro de Cultura Digital'
   title: Branch
-  url: https://www.nime.org/proceedings/2023/nime23_music_1272.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1272.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_4.pdf
   year: 2023
 
@@ -1338,7 +1338,7 @@
     \ Claro Monteiro},\n booktitle = {Music Proceedings of the International Conference\
     \ on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month\
     \ = {May},\n note = {Live Concert 4, Thursday June 1, Centro de Cultura Digital},\n\
-    \ title = {Displacements},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1284.pdf},\n\
+    \ title = {Displacements},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1284.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_4.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1347,7 +1347,7 @@
   month: May
   note: 'Live Concert 4, Thursday June 1, Centro de Cultura Digital'
   title: Displacements
-  url: https://www.nime.org/proceedings/2023/nime23_music_1284.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1284.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_4.pdf
   year: 2023
 
@@ -1378,7 +1378,7 @@
     \ booktitle = {Music Proceedings of the International Conference on New Interfaces\
     \ for Musical Expression},\n editor = {Rob Hamilton},\n month = {May},\n note\
     \ = {Live Concert 3, Thursday June 1, Centro de Cultura Digital},\n title = {Shard\
-    \ Speakers: Beyond Hexagons},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1285.pdf},\n\
+    \ Speakers: Beyond Hexagons},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1285.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_3.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1387,7 +1387,7 @@
   month: May
   note: 'Live Concert 3, Thursday June 1, Centro de Cultura Digital'
   title: 'Shard Speakers: Beyond Hexagons'
-  url: https://www.nime.org/proceedings/2023/nime23_music_1285.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1285.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_3.pdf
   year: 2023
 
@@ -1418,7 +1418,7 @@
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Live Concert 2, Wednesday\
     \ May 31, Biblioteca Vasconcelos},\n title = {Fluid Flows, Transit, and Symbols},\n\
-    \ url = {https://www.nime.org/proceedings/2023/nime23_music_1287.pdf},\n urlsuppl1\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_music_1287.pdf},\n urlsuppl1\
     \ = {https://www.nime.org/proceedings/2023/nime23_concert_2.pdf},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1427,7 +1427,7 @@
   month: May
   note: 'Live Concert 2, Wednesday May 31, Biblioteca Vasconcelos'
   title: 'Fluid Flows, Transit, and Symbols'
-  url: https://www.nime.org/proceedings/2023/nime23_music_1287.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1287.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_2.pdf
   year: 2023
 
@@ -1462,7 +1462,7 @@
     \ Markin},\n booktitle = {Music Proceedings of the International Conference on\
     \ New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n month =\
     \ {May},\n note = {Live Concert 1, Wednesday May 31, Biblioteca Vasconcelos},\n\
-    \ title = {Survival Kit},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1305.pdf},\n\
+    \ title = {Survival Kit},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1305.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_1.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1471,7 +1471,7 @@
   month: May
   note: 'Live Concert 1, Wednesday May 31, Biblioteca Vasconcelos'
   title: Survival Kit
-  url: https://www.nime.org/proceedings/2023/nime23_music_1305.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1305.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_1.pdf
   year: 2023
 
@@ -1500,7 +1500,7 @@
     \ author = {Marianne Teixido and Emilio Ocelotl},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Live Concert 5, Friday June\
-    \ 2, Centro de Cultura Digital},\n title = {deep structures},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1315.pdf},\n\
+    \ 2, Centro de Cultura Digital},\n title = {deep structures},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1315.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_5.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1509,7 +1509,7 @@
   month: May
   note: 'Live Concert 5, Friday June 2, Centro de Cultura Digital'
   title: deep structures
-  url: https://www.nime.org/proceedings/2023/nime23_music_1315.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1315.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_5.pdf
   year: 2023
 
@@ -1533,7 +1533,7 @@
     \ = {1316},\n author = {Chi Wang},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Online Presentation},\n title = {Transparent Affordance},\n\
-    \ url = {https://www.nime.org/proceedings/2023/nime23_music_1316.pdf},\n urlsuppl1\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_music_1316.pdf},\n urlsuppl1\
     \ = {https://www.nime2023.org/program/online-in-person-concerts},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1542,7 +1542,7 @@
   month: May
   note: Online Presentation
   title: Transparent Affordance
-  url: https://www.nime.org/proceedings/2023/nime23_music_1316.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1316.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -1602,7 +1602,7 @@
     \ Pogorzhelskiy and Tatsuya Saito and Kai Kunze and Kouta Minamizawa},\n booktitle\
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Rob Hamilton},\n month = {May},\n note = {Online Presentation},\n\
-    \ title = {Innermost Echoes},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1340.pdf},\n\
+    \ title = {Innermost Echoes},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1340.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1611,7 +1611,7 @@
   month: May
   note: Online Presentation
   title: Innermost Echoes
-  url: https://www.nime.org/proceedings/2023/nime23_music_1340.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1340.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -1671,7 +1671,7 @@
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Rob Hamilton},\n month = {May},\n note = {Live Concert 3, Thursday\
     \ June 1, Centro de Cultura Digital},\n title = {Pandemonium Quintet play Drone\
-    \ \\& Drama Versions},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1389.pdf},\n\
+    \ \\& Drama Versions},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1389.pdf},\n\
     \ urlsuppl1 = {https://www.nime.org/proceedings/2023/nime23_concert_3.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1680,7 +1680,7 @@
   month: May
   note: 'Live Concert 3, Thursday June 1, Centro de Cultura Digital'
   title: Pandemonium Quintet play Drone & Drama Versions
-  url: https://www.nime.org/proceedings/2023/nime23_music_1389.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1389.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_3.pdf
   year: 2023
 
@@ -1707,7 +1707,7 @@
     \ International Conference on New Interfaces for Musical Expression},\n editor\
     \ = {Rob Hamilton},\n month = {May},\n note = {Live Concert 2, Wednesday May 31,\
     \ Biblioteca Vasconcelos},\n title = {Laser Phase Synthesis [XXI VII III I]},\n\
-    \ url = {https://www.nime.org/proceedings/2023/nime23_music_1392.pdf},\n urlsuppl1\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_music_1392.pdf},\n urlsuppl1\
     \ = {https://www.nime.org/proceedings/2023/nime23_concert_2.pdf},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1716,7 +1716,7 @@
   month: May
   note: 'Live Concert 2, Wednesday May 31, Biblioteca Vasconcelos'
   title: 'Laser Phase Synthesis [XXI VII III I]'
-  url: https://www.nime.org/proceedings/2023/nime23_music_1392.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1392.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_2.pdf
   year: 2023
 
@@ -1742,7 +1742,7 @@
     \ interaction.},\n articleno = {1393},\n author = {Omar C Hamido},\n booktitle\
     \ = {Music Proceedings of the International Conference on New Interfaces for Musical\
     \ Expression},\n editor = {Rob Hamilton},\n month = {May},\n note = {Online Presentation},\n\
-    \ title = {4 Disklavier Preludes},\n url = {https://www.nime.org/proceedings/2023/nime23_music_1393.pdf},\n\
+    \ title = {4 Disklavier Preludes},\n url = {https://www.nime.org/proceedings/2023/nime2023_music_1393.pdf},\n\
     \ urlsuppl1 = {https://www.nime2023.org/program/online-in-person-concerts},\n\
     \ year = {2023}\n}\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1751,7 +1751,7 @@
   month: May
   note: Online Presentation
   title: 4 Disklavier Preludes
-  url: https://www.nime.org/proceedings/2023/nime23_music_1393.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1393.pdf
   urlsuppl1: https://www.nime2023.org/program/online-in-person-concerts
   year: 2023
 
@@ -1797,7 +1797,7 @@
     \ Conference on New Interfaces for Musical Expression},\n editor = {Rob Hamilton},\n\
     \ month = {May},\n note = {Live Concert 2, Wednesday May 31, Biblioteca Vasconcelos},\n\
     \ title = {Finger Breath – Material and control through intimate sounds},\n url\
-    \ = {https://www.nime.org/proceedings/2023/nime23_music_1394.pdf},\n urlsuppl1\
+    \ = {https://www.nime.org/proceedings/2023/nime2023_music_1394.pdf},\n urlsuppl1\
     \ = {https://www.nime.org/proceedings/2023/nime23_concert_2.pdf},\n year = {2023}\n\
     }\n"
   booktitle: Music Proceedings of the International Conference on New Interfaces for
@@ -1806,7 +1806,7 @@
   month: May
   note: 'Live Concert 2, Wednesday May 31, Biblioteca Vasconcelos'
   title: Finger Breath – Material and control through intimate sounds
-  url: https://www.nime.org/proceedings/2023/nime23_music_1394.pdf
+  url: https://www.nime.org/proceedings/2023/nime2023_music_1394.pdf
   urlsuppl1: https://www.nime.org/proceedings/2023/nime23_concert_2.pdf
   year: 2023
 

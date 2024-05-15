@@ -802,11 +802,13 @@
     \ the chimes similarly to how a percussionist uses their hand to sweep across\
     \ a set of chimes.},\n address = {Mexico City, Mexico},\n articleno = {31},\n\
     \ author = {Steven Kemper},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Salvador Chavez\
-    \ and Tito Rivas},\n month = {May},\n title = {Tremolo-Chimes},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_31.pdf},\n\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.11194792},\n\
+    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Tremolo-Chimes},\n\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_installations_31.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194792
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Tremolo-Chimes
@@ -849,12 +851,13 @@
     \ demodulated, audible sound emanates from the point on the wall, ceiling or floor\
     \ at which they are reflected.},\n address = {Mexico City, Mexico},\n articleno\
     \ = {57},\n author = {Ryo Ikeshiro},\n booktitle = {Installation Proceedings of\
-    \ the International Conference on New Interfaces for Musical Expression},\n editor\
-    \ = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Bug},\n url\
-    \ = {https://www.nime.org/proceedings/2023/nime2023_installations_57.pdf},\n year\
-    \ = {2023}\n}\n"
+    \ the International Conference on New Interfaces for Musical Expression},\n doi\
+    \ = {10.5281/zenodo.11194794},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ month = {May},\n title = {Bug},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_57.pdf},\n\
+    \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194794
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Bug
@@ -878,11 +881,12 @@
     \ address = {Mexico City, Mexico},\n articleno = {1087},\n author = {Woohun Joo\
     \ and Zachary Gould and Aanuoluwapo Ojelade},\n booktitle = {Installation Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Immersive\
-    \ Mindfulness},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1087.pdf},\n\
+    \ doi = {10.5281/zenodo.11194796},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ month = {May},\n title = {Immersive Mindfulness},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1087.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194796
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Immersive Mindfulness
@@ -922,11 +926,12 @@
     \ resonate emotionally or otherwise engage.},\n address = {Mexico City, Mexico},\n\
     \ articleno = {1098},\n author = {Michael Mulshine},\n booktitle = {Installation\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Near\
-    \ and far},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1098.pdf},\n\
+    \ doi = {10.5281/zenodo.11194798},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ month = {May},\n title = {Near and far},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1098.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194798
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Near and far
@@ -972,11 +977,13 @@
     \ with respect to their covert bodily processes.},\n address = {Mexico City, Mexico},\n\
     \ articleno = {1130},\n author = {Çağrı Erdem and Katja Schia},\n booktitle =\
     \ {Installation Proceedings of the International Conference on New Interfaces\
-    \ for Musical Expression},\n editor = {Salvador Chavez and Tito Rivas},\n month\
-    \ = {May},\n title = {Music-Dance with acoustic Feedback},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1130.pdf},\n\
+    \ for Musical Expression},\n doi = {10.5281/zenodo.11194802},\n editor = {Salvador\
+    \ Chavez and Tito Rivas},\n month = {May},\n title = {Music-Dance with acoustic\
+    \ Feedback},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1130.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194802
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Music-Dance with acoustic Feedback
@@ -1006,11 +1013,13 @@
     \ of sound, gender and technology.},\n address = {Mexico City, Mexico},\n articleno\
     \ = {1151},\n author = {Patty J Preece and Melania Jack and Giacomo Lepri},\n\
     \ booktitle = {Installation Proceedings of the International Conference on New\
-    \ Interfaces for Musical Expression},\n editor = {Salvador Chavez and Tito Rivas},\n\
-    \ month = {May},\n title = {Oscillations},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1151.pdf},\n\
+    \ Interfaces for Musical Expression},\n doi = {10.5281/zenodo.11194804},\n editor\
+    \ = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Oscillations},\n\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_installations_1151.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194804
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Oscillations
@@ -1048,11 +1057,13 @@
     \ piece gradually evolves with crowd participation as a collective experience\
     \ on the Internet.},\n address = {Mexico City, Mexico},\n articleno = {1175},\n\
     \ author = {Pohao Chi},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Salvador Chavez\
-    \ and Tito Rivas},\n month = {May},\n title = {Song of Distances},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1175.pdf},\n\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.11194806},\n\
+    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Song\
+    \ of Distances},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1175.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194806
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Song of Distances
@@ -1089,11 +1100,13 @@
     \ from a boat by a sailor, and sacrifices are made to these sharks.},\n address\
     \ = {Mexico City, Mexico},\n articleno = {1199},\n author = {Mio Matsui and Shinya\
     \ Fujii},\n booktitle = {Installation Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n editor = {Salvador Chavez and Tito\
-    \ Rivas},\n month = {May},\n title = {Sacrifice Container},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1199.pdf},\n\
+    \ on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.11194810},\n\
+    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Sacrifice\
+    \ Container},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1199.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194810
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Sacrifice Container
@@ -1130,11 +1143,13 @@
     \ the Textile and Sound research project by Gertrud Fischbacher and Marius Schebella.},\n\
     \ address = {Mexico City, Mexico},\n articleno = {1201},\n author = {Marius Schebella\
     \ and Gertrud Fischbacher},\n booktitle = {Installation Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Salvador Chavez\
-    \ and Tito Rivas},\n month = {May},\n title = {Loop},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1201.pdf},\n\
+    \ Conference on New Interfaces for Musical Expression},\n doi = {10.5281/zenodo.11194812},\n\
+    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Loop},\n\
+    \ url = {https://www.nime.org/proceedings/2023/nime2023_installations_1201.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194812
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Loop
@@ -1167,11 +1182,12 @@
     \ a gesture made by the self-portrait of fire.},\n address = {Mexico City, Mexico},\n\
     \ articleno = {1266},\n author = {Jaime A Lobato},\n booktitle = {Installation\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Burning\
-    \ Thoughts},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1266.pdf},\n\
+    \ doi = {10.5281/zenodo.11194814},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ month = {May},\n title = {Burning Thoughts},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1266.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194814
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Burning Thoughts
@@ -1211,11 +1227,12 @@
     \ as well as a small set of personal data.},\n address = {Mexico City, Mexico},\n\
     \ articleno = {1289},\n author = {Sihwa Park},\n booktitle = {Installation Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {YouTube\
-    \ Mirror},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1289.pdf},\n\
+    \ doi = {10.5281/zenodo.11194818},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ month = {May},\n title = {YouTube Mirror},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1289.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194818
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: YouTube Mirror
@@ -1251,11 +1268,12 @@
     \ event-based, and frugal ways.},\n address = {Mexico City, Mexico},\n articleno\
     \ = {1370},\n author = {Laewoo Kang and Steven Jackson},\n booktitle = {Installation\
     \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Salvador Chavez and Tito Rivas},\n month = {May},\n title = {Three\
-    \ Philosophers},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1370.pdf},\n\
+    \ doi = {10.5281/zenodo.11194820},\n editor = {Salvador Chavez and Tito Rivas},\n\
+    \ month = {May},\n title = {Three Philosophers},\n url = {https://www.nime.org/proceedings/2023/nime2023_installations_1370.pdf},\n\
     \ year = {2023}\n}\n"
   booktitle: Installation Proceedings of the International Conference on New Interfaces
     for Musical Expression
+  doi: 10.5281/zenodo.11194820
   editor: Salvador Chavez and Tito Rivas
   month: May
   title: Three Philosophers

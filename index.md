@@ -5,9 +5,11 @@ feature_image: "assets/nime_banner.jpg"
 feature_image_alt: "An enigmatic image of waves in space with the NIME logo subtly superimposed."
 ---
 
-### Upcoming Conference
+### Upcoming NIME Conferences
 
-[**NIME2024**](http://www.nime2024.org/) will be held in a hybrid mode in Utrecht (NL) and online 4-6 September 2024.
+- [**NIME2024**](http://www.nime2024.org/) will be held in a hybrid mode in Utrecht (NL) and online 4-6 September 2024.
+
+- [**NIME2025**](https://nime2025.org) will be held from 24-27 June, 2025 at The Australian National University, Ngunnawal and Ngambri Country (Canberra), Australia. 
 
 ### NIME
 

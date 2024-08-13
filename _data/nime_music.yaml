@@ -5041,7 +5041,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008-music-Bokowiec2008
+  ID: nime2008-music-Bokowiec2008a
   abstract: "Program notes:\nThe Suicided Voice is the second piece in the Vox Circuit\
     \ Trilogy, a series of interactive vocal works completed in 2007. In this piece\
     \ the acoustic voice of the performer is “suicided” and given up to digital processing\
@@ -5087,7 +5087,7 @@
     \ the first generation of the Bodycoder System in 1996."
   address: 'Genova, Italy'
   author: Mark A. Bokowiec and Julie Wilson-Bokowiec
-  bibtex: "@inproceedings{nime2008-music-Bokowiec2008,\n abstract = {Program notes:\n\
+  bibtex: "@inproceedings{nime2008-music-Bokowiec2008a,\n abstract = {Program notes:\n\
     The Suicided Voice is the second piece in the Vox Circuit Trilogy, a series of\
     \ interactive vocal works completed in 2007. In this piece the acoustic voice\
     \ of the performer is “suicided” and given up to digital processing and physical\
@@ -5145,7 +5145,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2008-music-Bokowiec2008
+  ID: nime2008-music-Bokowiec2008b
   abstract: "Program notes:\nEtch is the third work in the Vox Circuit Trilogy (2007).\
     \ In Etch extended vocal techniques, Yakut and Bell Canto singing, are coupled\
     \ with live interactive sound processing and manipulation. Etch calls forth fauna,\
@@ -5213,7 +5213,7 @@
     \ Music Foundation Festival NEW WAVES supported by the British Council."
   address: 'Genova, Italy'
   author: Mark A. Bokowiec and Julie Wilson-Bokowiec
-  bibtex: "@inproceedings{nime2008-music-Bokowiec2008,\n abstract = {Program notes:\n\
+  bibtex: "@inproceedings{nime2008-music-Bokowiec2008b,\n abstract = {Program notes:\n\
     Etch is the third work in the Vox Circuit Trilogy (2007). In Etch extended vocal\
     \ techniques, Yakut and Bell Canto singing, are coupled with live interactive\
     \ sound processing and manipulation. Etch calls forth fauna, building soundscapes\
@@ -7620,7 +7620,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Vickery2016
+  ID: nime2016-music-Vickery2016a
   abstract: "Program notes: Nature Forms II is an eco-structuralist work, maintaining\
     \ what Opie and Brown term the “primary rules” of “environmentally-based musical\
     \ composition”: that “structures must be derived from natural sound sources” and\
@@ -7638,7 +7638,7 @@
     \ Percussion"
   address: 'Brisbane, Australia'
   author: Lindsay Vickery
-  bibtex: "@inproceedings{nime2016-music-Vickery2016,\n abstract = {Program notes:\
+  bibtex: "@inproceedings{nime2016-music-Vickery2016a,\n abstract = {Program notes:\
     \ Nature Forms II is an eco-structuralist work, maintaining what Opie and Brown\
     \ term the “primary rules” of “environmentally-based musical composition”: that\
     \ “structures must be derived from natural sound sources” and that “structural\
@@ -7950,7 +7950,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Tahiroglu2016
+  ID: nime2016-music-Tahiroglu2016a
   abstract: 'Program notes: "NOISA Étude 2" is a second set of performance instructions
     created to showcase compelling, evolving and complex soundscapes only possible
     when operating the NOISA instruments, integrating the system’s autonomous responses
@@ -7964,7 +7964,7 @@
     raw data extracted from the muscles’ tension.'
   address: 'Brisbane, Australia'
   author: Juan Carlos Vasquez & Koray Tahiroğlu
-  bibtex: "@inproceedings{nime2016-music-Tahiroglu2016,\n abstract = {Program notes:\
+  bibtex: "@inproceedings{nime2016-music-Tahiroglu2016a,\n abstract = {Program notes:\
     \ \"NOISA Étude 2\" is a second set of performance instructions created to showcase\
     \ compelling, evolving and complex soundscapes only possible when operating the\
     \ NOISA instruments, integrating the system’s autonomous responses as part of\
@@ -8081,10 +8081,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Sorensen2016
+  ID: nime2016-music-Sorensen2016a
   address: 'Brisbane, Australia'
   author: Andrew Sorensen
-  bibtex: "@inproceedings{nime2016-music-Sorensen2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Sorensen2016a,\n address = {Brisbane, Australia},\n\
     \ author = {Andrew Sorensen},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8135,10 +8135,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Beck2016
+  ID: nime2016-music-Beck2016b
   address: 'Brisbane, Australia'
   author: Stephen Beck
-  bibtex: "@inproceedings{nime2016-music-Beck2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Beck2016b,\n address = {Brisbane, Australia},\n\
     \ author = {Stephen Beck},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8153,10 +8153,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Nakanishi2016
+  ID: nime2016-music-Nakanishi2016a
   address: 'Brisbane, Australia'
   author: Yoshihito Nakanishi
-  bibtex: "@inproceedings{nime2016-music-Nakanishi2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Nakanishi2016a,\n address = {Brisbane, Australia},\n\
     \ author = {Yoshihito Nakanishi},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8225,10 +8225,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Bussigel2016
+  ID: nime2016-music-Bussigel2016a
   address: 'Brisbane, Australia'
   author: Travis Thatcher & Peter Bussigel
-  bibtex: "@inproceedings{nime2016-music-Bussigel2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Bussigel2016a,\n address = {Brisbane, Australia},\n\
     \ author = {Travis Thatcher & Peter Bussigel},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Brown and Toby Gifford},\n month = {June},\n publisher = {Griffith\
@@ -8297,10 +8297,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Nakanishi2016
+  ID: nime2016-music-Nakanishi2016b
   address: 'Brisbane, Australia'
   author: Yoshihito Nakanishi
-  bibtex: "@inproceedings{nime2016-music-Nakanishi2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Nakanishi2016b,\n address = {Brisbane, Australia},\n\
     \ author = {Yoshihito Nakanishi},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8351,10 +8351,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Sorensen2016
+  ID: nime2016-music-Sorensen2016b
   address: 'Brisbane, Australia'
   author: Andrew Sorensen
-  bibtex: "@inproceedings{nime2016-music-Sorensen2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Sorensen2016b,\n address = {Brisbane, Australia},\n\
     \ author = {Andrew Sorensen},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8388,10 +8388,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Bussigel2016
+  ID: nime2016-music-Bussigel2016b
   address: 'Brisbane, Australia'
   author: Peter Bussigel
-  bibtex: "@inproceedings{nime2016-music-Bussigel2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Bussigel2016b,\n address = {Brisbane, Australia},\n\
     \ author = {Peter Bussigel},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8424,10 +8424,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Tahiroglu2016
+  ID: nime2016-music-Tahiroglu2016b
   address: 'Brisbane, Australia'
   author: Koray Tahiroğlu
-  bibtex: "@inproceedings{nime2016-music-Tahiroglu2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Tahiroglu2016b,\n address = {Brisbane, Australia},\n\
     \ author = {Koray Tahiroğlu},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8534,10 +8534,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Vickery2016
+  ID: nime2016-music-Vickery2016b
   address: 'Brisbane, Australia'
   author: Lindsay Vickery
-  bibtex: "@inproceedings{nime2016-music-Vickery2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Vickery2016b,\n address = {Brisbane, Australia},\n\
     \ author = {Lindsay Vickery},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8606,10 +8606,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2016-music-Beck2016
+  ID: nime2016-music-Beck2016a
   address: 'Brisbane, Australia'
   author: Stephen David Beck and Scott Smallwood
-  bibtex: "@inproceedings{nime2016-music-Beck2016,\n address = {Brisbane, Australia},\n\
+  bibtex: "@inproceedings{nime2016-music-Beck2016a,\n address = {Brisbane, Australia},\n\
     \ author = {Stephen David Beck and Scott Smallwood},\n booktitle = {Music Proceedings\
     \ of the International Conference on New Interfaces for Musical Expression},\n\
     \ editor = {Andrew Brown and Toby Gifford},\n month = {June},\n publisher = {Griffith\
@@ -12257,10 +12257,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010-music-Collins2010
+  ID: nime2010-music-Collins2010a
   address: 'Sydney, Australia'
   author: Nicolas Collins
-  bibtex: "@inproceedings{nime2010-music-Collins2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010-music-Collins2010a,\n address = {Sydney, Australia},\n\
     \ author = {Nicolas Collins},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\
@@ -12556,7 +12556,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010-music-Collins2010
+  ID: nime2010-music-Collins2010b
   abstract: "Program notes: Kinesics is a structure for improvisation; the computer\
     \ uses extensive machine listening technology to track the pianist and generates\
     \ feature-based effects. The computer also guides the pianist to explore actions\
@@ -12576,7 +12576,7 @@
     Nick Collins - Piano"
   address: 'Sydney, Australia'
   author: Nick Collins
-  bibtex: "@inproceedings{nime2010-music-Collins2010,\n abstract = {Program notes:\
+  bibtex: "@inproceedings{nime2010-music-Collins2010b,\n abstract = {Program notes:\
     \ Kinesics is a structure for improvisation; the computer uses extensive machine\
     \ listening technology to track the pianist and generates feature-based effects.\
     \ The computer also guides the pianist to explore actions from a catalogue of\
@@ -12928,7 +12928,7 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010-music-Hopson2010
+  ID: nime2010-music-Hopson2010a
   abstract: "Program notes: Life on (Planet) is a work for two rocks and interactive\
     \ computer processing. The performer clicks and rubs the rocks together in front\
     \ of a stereo microphone. The computer responds to how the rocks are played, with\
@@ -12947,7 +12947,7 @@
     \ (www.grabrarearts.com)."
   address: 'Sydney, Australia'
   author: Holland Hopson
-  bibtex: "@inproceedings{nime2010-music-Hopson2010,\n abstract = {Program notes:\
+  bibtex: "@inproceedings{nime2010-music-Hopson2010a,\n abstract = {Program notes:\
     \ Life on (Planet) is a work for two rocks and interactive computer processing.\
     \ The performer clicks and rubs the rocks together in front of a stereo microphone.\
     \ The computer responds to how the rocks are played, with particular regard to\
@@ -13104,10 +13104,10 @@
 
 
 - ENTRYTYPE: inproceedings
-  ID: nime2010-music-Hopson2010
+  ID: nime2010-music-Hopson2010b
   address: 'Sydney, Australia'
   author: Holland Hopson
-  bibtex: "@inproceedings{nime2010-music-Hopson2010,\n address = {Sydney, Australia},\n\
+  bibtex: "@inproceedings{nime2010-music-Hopson2010b,\n address = {Sydney, Australia},\n\
     \ author = {Holland Hopson},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Johnston,\
     \ Sam Ferguson, Jos Mulder, Somaya Langley, Garth Paine, Jon Drummond, Greg Schiemer,\

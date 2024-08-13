@@ -7595,7 +7595,27 @@
     basis of this work. When listening to the desert sounds through headphones at
     the time of recording, one is aware of a kind of hyper-real sonic environment.
     The amplified soundfield in the headphones is surreal in its presence and accuracy
-    and multiplies my direct experience of listening many times.'
+    and multiplies my direct experience of listening many times. About the performer: 
+    Garth is particularly fascinated with sound as an
+    experiential medium, both in musical performance and as an exhibitable object.
+    This passion has led to several interactive responsive environments where the
+    inhabitant generates the sonic landscape through their presence and behaviour.
+    Garth has composed several music scores for dance generated through video tracking
+    of the choreography, and more recently using Bio-Sensing on the dancers body.
+    His immersive interactive environments have been exhibited in Australia, Europe,
+    Japan, USA, Canada, UK, Hong Kong and New Zealand. Garth Paine is internationally
+    regarded as an innovator in the field of interactivity in electronic music and
+    media arts (some papers here). He gained his PhD in interactive immersive environments
+    from the Royal Melbourne Institute of Technology, Australia in 2003, and completed
+    a Graduate Diploma in software engineering in the following year at Swinburne
+    University. All a long way from his Bachelor of classical Flute performance from
+    the conservatorium of Tasmania. Garth is Associate Professor in Digital Sound
+    and Interactive Media at the School of Arts Media + Engineering at Arizona State
+    University in the USA. His previous post was as Associate Professor of Sound Technologies
+    at the University of Western Sydney, where he established the Virtual, Interactive,
+    Performance Research environment (VIPRe) . He is often invited to run workshops
+    on interactivity for musical performance and commissioned to develop interactive
+    system for realtime musical composition for dance and theatre performances.'
   address: 'Brisbane, Australia'
   author: Garth Paine
   bibtex: "@inproceedings{nime2016-music-Paine2016,\n abstract = {Program notes: Becoming\
@@ -7605,7 +7625,27 @@
     \ listening to the desert sounds through headphones at the time of recording,\
     \ one is aware of a kind of hyper-real sonic environment. The amplified soundfield\
     \ in the headphones is surreal in its presence and accuracy and multiplies my\
-    \ direct experience of listening many times.},\n address = {Brisbane, Australia},\n\
+    \ direct experience of listening many times. About the performer:\
+    \ Garth is particularly fascinated with sound as an experiential medium, both\
+    \ in musical performance and as an exhibitable object. This passion has led to\
+    \ several interactive responsive environments where the inhabitant generates the\
+    \ sonic landscape through their presence and behaviour. Garth has composed several\
+    \ music scores for dance generated through video tracking of the choreography,\
+    \ and more recently using Bio-Sensing on the dancers body. His immersive interactive\
+    \ environments have been exhibited in Australia, Europe, Japan, USA, Canada, UK,\
+    \ Hong Kong and New Zealand. Garth Paine is internationally regarded as an innovator\
+    \ in the field of interactivity in electronic music and media arts (some papers\
+    \ here). He gained his PhD in interactive immersive environments from the Royal\
+    \ Melbourne Institute of Technology, Australia in 2003, and completed a Graduate\
+    \ Diploma in software engineering in the following year at Swinburne University.\
+    \ All a long way from his Bachelor of classical Flute performance from the conservatorium\
+    \ of Tasmania. Garth is Associate Professor in Digital Sound and Interactive Media\
+    \ at the School of Arts Media + Engineering at Arizona State University in the\
+    \ USA. His previous post was as Associate Professor of Sound Technologies at the\
+    \ University of Western Sydney, where he established the Virtual, Interactive,\
+    \ Performance Research environment (VIPRe) . He is often invited to run workshops\
+    \ on interactivity for musical performance and commissioned to develop interactive\
+    \ system for realtime musical composition for dance and theatre performances.},\n address = {Brisbane, Australia},\n\
     \ author = {Garth Paine},\n booktitle = {Music Proceedings of the International\
     \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
     \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
@@ -8638,99 +8678,6 @@
   month: June
   publisher: Griffith University
   title: Taking the Auspices
-  year: 2016
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2016-music-Drummond2016
-  address: 'Brisbane, Australia'
-  author: Jon Drummond
-  bibtex: "@inproceedings{nime2016-music-Drummond2016,\n address = {Brisbane, Australia},\n\
-    \ author = {Jon Drummond},\n booktitle = {Music Proceedings of the International\
-    \ Conference on New Interfaces for Musical Expression},\n editor = {Andrew Brown\
-    \ and Toby Gifford},\n month = {June},\n publisher = {Griffith University},\n\
-    \ title = {Light Traces},\n year = {2016}\n}\n"
-  booktitle: Music Proceedings of the International Conference on New Interfaces for
-    Musical Expression
-  editor: Andrew Brown and Toby Gifford
-  month: June
-  publisher: Griffith University
-  title: Light Traces
-  year: 2016
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2016-music-Sniff2016
-  address: 'Brisbane, Australia'
-  author: Dj Sniff
-  bibtex: "@inproceedings{nime2016-music-Sniff2016,\n address = {Brisbane, Australia},\n\
-    \ author = {Dj Sniff},\n booktitle = {Music Proceedings of the International Conference\
-    \ on New Interfaces for Musical Expression},\n editor = {Andrew Brown and Toby\
-    \ Gifford},\n month = {June},\n publisher = {Griffith University},\n title = {Live\
-    \ performance},\n year = {2016}\n}\n"
-  booktitle: Music Proceedings of the International Conference on New Interfaces for
-    Musical Expression
-  editor: Andrew Brown and Toby Gifford
-  month: June
-  publisher: Griffith University
-  title: Live performance
-  year: 2016
-
-
-- ENTRYTYPE: inproceedings
-  ID: nime2016-music-Paine2016
-  abstract: 'About the performer: Garth is particularly fascinated with sound as an
-    experiential medium, both in musical performance and as an exhibitable object.
-    This passion has led to several interactive responsive environments where the
-    inhabitant generates the sonic landscape through their presence and behaviour.
-    Garth has composed several music scores for dance generated through video tracking
-    of the choreography, and more recently using Bio-Sensing on the dancers body.
-    His immersive interactive environments have been exhibited in Australia, Europe,
-    Japan, USA, Canada, UK, Hong Kong and New Zealand. Garth Paine is internationally
-    regarded as an innovator in the field of interactivity in electronic music and
-    media arts (some papers here). He gained his PhD in interactive immersive environments
-    from the Royal Melbourne Institute of Technology, Australia in 2003, and completed
-    a Graduate Diploma in software engineering in the following year at Swinburne
-    University. All a long way from his Bachelor of classical Flute performance from
-    the conservatorium of Tasmania. Garth is Associate Professor in Digital Sound
-    and Interactive Media at the School of Arts Media + Engineering at Arizona State
-    University in the USA. His previous post was as Associate Professor of Sound Technologies
-    at the University of Western Sydney, where he established the Virtual, Interactive,
-    Performance Research environment (VIPRe) . He is often invited to run workshops
-    on interactivity for musical performance and commissioned to develop interactive
-    system for realtime musical composition for dance and theatre performances.'
-  address: 'Brisbane, Australia'
-  author: Garth Paine
-  bibtex: "@inproceedings{nime2016-music-Paine2016,\n abstract = {About the performer:\
-    \ Garth is particularly fascinated with sound as an experiential medium, both\
-    \ in musical performance and as an exhibitable object. This passion has led to\
-    \ several interactive responsive environments where the inhabitant generates the\
-    \ sonic landscape through their presence and behaviour. Garth has composed several\
-    \ music scores for dance generated through video tracking of the choreography,\
-    \ and more recently using Bio-Sensing on the dancers body. His immersive interactive\
-    \ environments have been exhibited in Australia, Europe, Japan, USA, Canada, UK,\
-    \ Hong Kong and New Zealand. Garth Paine is internationally regarded as an innovator\
-    \ in the field of interactivity in electronic music and media arts (some papers\
-    \ here). He gained his PhD in interactive immersive environments from the Royal\
-    \ Melbourne Institute of Technology, Australia in 2003, and completed a Graduate\
-    \ Diploma in software engineering in the following year at Swinburne University.\
-    \ All a long way from his Bachelor of classical Flute performance from the conservatorium\
-    \ of Tasmania. Garth is Associate Professor in Digital Sound and Interactive Media\
-    \ at the School of Arts Media + Engineering at Arizona State University in the\
-    \ USA. His previous post was as Associate Professor of Sound Technologies at the\
-    \ University of Western Sydney, where he established the Virtual, Interactive,\
-    \ Performance Research environment (VIPRe) . He is often invited to run workshops\
-    \ on interactivity for musical performance and commissioned to develop interactive\
-    \ system for realtime musical composition for dance and theatre performances.},\n\
-    \ address = {Brisbane, Australia},\n author = {Garth Paine},\n booktitle = {Music\
-    \ Proceedings of the International Conference on New Interfaces for Musical Expression},\n\
-    \ editor = {Andrew Brown and Toby Gifford},\n month = {June},\n publisher = {Griffith\
-    \ University},\n year = {2016}\n}\n"
-  booktitle: Music Proceedings of the International Conference on New Interfaces for
-    Musical Expression
-  editor: Andrew Brown and Toby Gifford
-  month: June
-  publisher: Griffith University
   year: 2016
 
 

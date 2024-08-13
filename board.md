@@ -1,13 +1,39 @@
 ---
 layout: page
-title: NIME Board, terms of reference
+title: NIME Board
 permalink: /board/
 ---
-> Created: 16 February 2024
-> 
-> Updated: -
 
-## 1. Rationale
+## NIME Board Members
+* [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale), President of the Board
+* [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees
+* [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer
+* [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer
+* [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large
+* [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Member-at-large, Chair NIME 2025
+* [Hans Leeuw](https://www.hku.nl/en/research/research-areas/technology/music-design/hans-leeuw), Chair NIME 2024
+* [Hugo Solis](https://investigacion.uam.mx/en/index.php/listado-catalogo/80579), Chair NIME 2023
+
+
+## NIME Advisory Group
+* [Michael Lyons](https://www.ritsumei.ac.jp/cias/about/faculty/teacher/article/?id=31), Chair NIME 2004
+* [Sidney Fels](https://ece.ubc.ca/sid-fels/), Chair NIME 2005
+* [Norbert Schnell](https://www.hfm-trossingen.de/hochschule/personen/detail/norbert-schnell), Chair NIME 2006
+* [Andrew Johnston](https://profiles.uts.edu.au/Andrew.Johnston), Chair NIME 2010
+* [Georg Essl](https://uwm.edu/math/people/essl-georg/), Chair NIME 2012
+* [Woon Seung Yeo](https://www.ewha.ac.kr/ewhaen/academics/convergence-prof.do?mode=view&pId=eDR5KEJsvxa29NU80yZXDw%3D%3D), Chair NIME 2013
+* [Atau Tanaka](https://www.gold.ac.uk/computing/people/tanaka-atau/), Chair NIME 2014
+* [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrinkl), Chair NIME 2014
+* [Jesse Allison](https://www.lsu.edu/cmda/music/people/faculty/allison.php), Chair NIME 2015
+* [Andrew Brown](https://experts.griffith.edu.au/18549-andrew-brown), Chair NIME 2016
+* [Stefania Serafin](https://vbn.aau.dk/en/persons/107881), Chair NIME 2017
+* [Dan Overholt](https://vbn.aau.dk/da/persons/dano), Chair NIME 2017
+
+
+
+## Terms of Reference
+
+### 1. Rationale
 In the past, the NIME community has expressed its preference for an informal organisational structure. We recognise the need to retain the original spirit of NIME, while introducing a governance model that accounts for the community’s growth and avoids fragmentation among the numerous bottom-up initiatives. The NIME Board will replace the NIME Steering Committee (SC). While the SC has executive power around the main decisions in the life of the community and the conference itself, its membership draws on previous NIME hosts in recent (unspecified number of) years or future NIME hosts. This model excludes active NIME members who might not have the possibility to organise NIME but who would be eager and deserve to be involved. The new governance model, outlined in this document, is conceived to overcome these limitations and is centred on efficiency, fairness, and the development of the community, in general.
   
 ## 2. Tasks and responsibilities of the Board
@@ -39,7 +65,7 @@ The Board is composed of the following members:
 ##### 3.1.2 Eligibility and term of office
 * The President must be a current member of the Board, but not a General Chair of an upcoming NIME
 * Once elected, the President should step down from other chairing roles within NIME
-* The first President of the NIME Board will be elected by the current Steering Committee
+* The first President of the NIME Board is elected by the last Steering Committee
 * All successive Presidents will be elected by Board members
 * The term of office is 3 years
 * The President can run again for this position but the maximum length of consecutive years is 9 (three consecutive mandates)
@@ -55,10 +81,10 @@ The Board is composed of the following members:
 * The term of office is 3 years
 * The mandate can be renewed once
 
-#### 3.3 Proceedings and Web Officer
+#### 3.3 Proceedings Officer
 ##### 3.3.1 Responsibilities
 * To ensure that the conference Proceedings on [nime.org](https://www.nime.org/archives/) are always updated 
-* To ensure that the [Zenodo page](https://zenodo.org/communities/nime/?q=&l=list&p=1&s=10&sort=newest) is updated
+* To ensure that the [Zenodo page](https://zenodo.org/communities/nime/) is updated
 * To set a deadline for each year’s General Chairs to submit the proceedings and to monitor the progress
 * To perform routine updates on [nime.org](https://www.nime.org/archives/)
 
@@ -89,6 +115,7 @@ The Board is composed of the following members:
 ##### 3.5.2  Eligibility and term of office
 * The continuity officer is elected by the community
 * The term of office is 4 years
+* The mandate can be renewed once
 
 #### 3.6 General Chairs of Upcoming NIMEs
 ##### 3.6.1 Responsibilities
@@ -109,21 +136,21 @@ The Board is composed of the following members:
 ## 4. Board meetings
 * The board meets online 6 to 8 times a year
 * The meetings last on average 2 hours
-* Efforts will be made to ensure that none of the board members will have to join the meeting at unsociable hours whenever possible
+* Efforts are made to ensure that none of the board members have to join the meeting at unsociable hours whenever possible
 
 ## 5. Board member's election process
 #### 5.1 Eligibility
 * Anyone who attended at least one of the last 3 NIME conferences (either in person or remotely) can advance their nomination
-* The nomination modalities will be communicated on [forum.nime.org](https://forum.nime.org)
+* The nomination modalities are communicated on [forum.nime.org](https://forum.nime.org)
 
 #### 5.2 Elections
-* The election modalities will be communicated on [forum.nime.org](https://forum.nime.org)
+* The election modalities and results are communicated on [forum.nime.org](https://forum.nime.org)
 
 ## 6. Advisory Group
 #### 6.1 Composition
 The Advisory Group is composed of:
 * The General Chairs of all past NIME conferences who have expressed interest in it 
-* Individuals whose specific expertise and/or historical, institutional,cultural, and/or technical insights are valued by the wider NIME community. Such individuals can put forward their nominations to take part in the Advisory Group (details to be announced on [forum.nime.org](https://forum.nime.org)). The nominations are then considered by the NIME Board.
+* Individuals whose specific expertise and/or historical, institutional,cultural, and/or technical insights are valued by the wider NIME community. Such individuals can put forward their nominations to take part in the Advisory Group (details announced on [forum.nime.org](https://forum.nime.org)). The nominations are then considered by the NIME Board.
 
 #### 6.2 Representation in the NIME Board
 * The Advisory Group can decide the modalities of their operations
@@ -133,14 +160,16 @@ The Advisory Group is composed of:
 
 ## 7. Times and modalities to constitute the NIME Board 
 #### 7.1 Constitution of the first NIME Board
-* On 1 March 2024, the current Steering Committee will elect the President of the Board
-* From 1 March 2024, the President will lead the process of election of the other Board members
-* This transition process is expected to last up to 2 months
-* The current Steering Committee will cease its functions at the end of the election period
-* The new governance will be effective at the end of the election period
-* At the end of the election period, the President will constitute the NIME Board
+* On 1 March 2024, the last [Steering Committee](https://nime.org/committee/) elected the President of the Board
+* From 1 March 2024, the President led the process of election of the other Board members
+* On 17 April 2024 The President announced the election results and constituted the NIME Board
+* At the end of the election period, the Steering Committee ceased its functions and the NIME Board governance became effective
 
 #### 7.2 Successive elections
 * The structure of the NIME Board is conceived to guarantee continuity in the life of the community. As a consequence, the various roles will come to an end in different years. 
 * When a Board seat is about to expire, it’s the President’s responsibility to lead the election process for new members
-* Outgoing Board members are expected to organise handover sessions with the elected member.
+* Outgoing Board members are expected to organise handover sessions with the newly elected member.
+
+> Created: 16 February 2024
+> 
+> Updated: 13 August 2024

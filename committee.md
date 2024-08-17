@@ -4,7 +4,7 @@ title: NIME Committees
 permalink: /committee/
 ---
 
-> On 17 April 2024 the Steering Committee ceased its functions, and governance was officially transferred to the [NIME Board](https://nime.org/board/). Please note that the information regarding other Committees, Officers, and Advisory Board on this page is not up to date."and governance was officially transferred
+> On 17 April 2024 the Steering Committee ceased its functions, and governance was officially transferred to the [NIME Board](https://nime.org/board/). Please note that the information regarding other Committees, Officers, and Advisory Board on this page is not up to date.
 
 ## Steering Committee
 The Steering Committee is responsible for [guiding the future direction](https://nime.gitbook.io/conference-cookbok/steering/steeringcommittee) of the NIME conference. It is composed of previous, current and  future NIME conference chairs, currently:

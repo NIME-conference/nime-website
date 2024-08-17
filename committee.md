@@ -4,7 +4,7 @@ title: NIME Committees
 permalink: /committee/
 ---
 
-> On 17 April 2024 the Steering Committee ceased its functions and the [NIME Board](https://nime.org/board/) governance became effective
+> On 17 April 2024 the Steering Committee ceased its functions, and governance was officially transferred to the [NIME Board](https://nime.org/board/). Please note that the information regarding other Committees, Officers, and Advisory Board on this page is not up to date."and governance was officially transferred
 
 ## Steering Committee
 The Steering Committee is responsible for [guiding the future direction](https://nime.gitbook.io/conference-cookbok/steering/steeringcommittee) of the NIME conference. It is composed of previous, current and  future NIME conference chairs, currently:
@@ -36,7 +36,7 @@ There are currently three committees that deal with specific issues related to t
 * [Raul Masu](https://raulmasu.org/)
 	
 
-## NIME Officers
+## Officers
 
 The NIME Officers are responsible for the keeping the ongoing aspects of the organisation running in between conferences (see [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/officers) for details). 
 
@@ -57,3 +57,19 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Sponsorship officer
 	- To be filled
+
+
+## Advisory Board
+
+* [Michael Lyons](https://www.ritsumei.ac.jp/cias/about/faculty/teacher/article/?id=31), Chair NIME 2004
+* [Sidney Fels](https://ece.ubc.ca/sid-fels/), Chair NIME 2005
+* [Norbert Schnell](https://www.hfm-trossingen.de/hochschule/personen/detail/norbert-schnell), Chair NIME 2006
+* [Andrew Johnston](https://profiles.uts.edu.au/Andrew.Johnston), Chair NIME 2010
+* [Georg Essl](https://uwm.edu/math/people/essl-georg/), Chair NIME 2012
+* [Woon Seung Yeo](https://www.ewha.ac.kr/ewhaen/academics/convergence-prof.do?mode=view&pId=eDR5KEJsvxa29NU80yZXDw%3D%3D), Chair NIME 2013
+* [Atau Tanaka](https://www.gold.ac.uk/computing/people/tanaka-atau/), Chair NIME 2014
+* [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrinkl), Chair NIME 2014
+* [Jesse Allison](https://www.lsu.edu/cmda/music/people/faculty/allison.php), Chair NIME 2015
+* [Andrew Brown](https://experts.griffith.edu.au/18549-andrew-brown), Chair NIME 2016
+* [Stefania Serafin](https://vbn.aau.dk/en/persons/107881), Chair NIME 2017
+* [Dan Overholt](https://vbn.aau.dk/da/persons/dano), Chair NIME 2017

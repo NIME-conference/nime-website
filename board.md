@@ -15,22 +15,6 @@ permalink: /board/
 * [Hugo Solis](https://investigacion.uam.mx/en/index.php/listado-catalogo/80579), Chair NIME 2023
 
 
-## NIME Advisory Group
-* [Michael Lyons](https://www.ritsumei.ac.jp/cias/about/faculty/teacher/article/?id=31), Chair NIME 2004
-* [Sidney Fels](https://ece.ubc.ca/sid-fels/), Chair NIME 2005
-* [Norbert Schnell](https://www.hfm-trossingen.de/hochschule/personen/detail/norbert-schnell), Chair NIME 2006
-* [Andrew Johnston](https://profiles.uts.edu.au/Andrew.Johnston), Chair NIME 2010
-* [Georg Essl](https://uwm.edu/math/people/essl-georg/), Chair NIME 2012
-* [Woon Seung Yeo](https://www.ewha.ac.kr/ewhaen/academics/convergence-prof.do?mode=view&pId=eDR5KEJsvxa29NU80yZXDw%3D%3D), Chair NIME 2013
-* [Atau Tanaka](https://www.gold.ac.uk/computing/people/tanaka-atau/), Chair NIME 2014
-* [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrinkl), Chair NIME 2014
-* [Jesse Allison](https://www.lsu.edu/cmda/music/people/faculty/allison.php), Chair NIME 2015
-* [Andrew Brown](https://experts.griffith.edu.au/18549-andrew-brown), Chair NIME 2016
-* [Stefania Serafin](https://vbn.aau.dk/en/persons/107881), Chair NIME 2017
-* [Dan Overholt](https://vbn.aau.dk/da/persons/dano), Chair NIME 2017
-
-
-
 ## Terms of Reference
 
 ### 1. Rationale

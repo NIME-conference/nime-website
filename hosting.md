@@ -4,13 +4,13 @@ title: Hosting
 permalink: /hosting/
 ---
 
-The Steering Committee is looking for hosts for NIME 2025 and later. Previous conferences have usually been hosted by one institution (or a few geographically close ones). The Steering Committee is interested in exploring hub-based conference formats in 2022 and onwards. There are many ways this could be done. One solution could be to have a central conference hub with satellite venues around the world. Another option could be to have a more distributed organization across multiple locations. Whatever format, we would need to think differently about the organization. We are particularly encouraging collaboration between individuals and/or institutions around the world.
+The Steering Committee is looking for hosts for NIME 2026 and later. Previous conferences have usually been hosted by one institution (or a few geographically close ones). The Steering Committee is interested in exploring hub-based conference formats. There are many ways this could be done. One solution could be to have a central conference hub with satellite venues around the world. Another option could be to have a more distributed organization across multiple locations. Whatever format, we would need to think differently about the organization. We are particularly encouraging collaboration between individuals and/or institutions around the world.
 
-If you are interested in hosting NIME, please get in touch with the Steering Committee (steering(æ)nime.org) or the [Chair](https://profiles.auckland.ac.nz/f-morreale) to discuss more. You can also take a look at the [NIME Conference Cookbok](https://nime.gitbook.io/conference-cookbok/) with information about how the conferences is run.
+If you are interested in hosting NIME, please get in touch with the President of the [NIME Board](https://www.nime.org/board/) to discuss more. You can also take a look at the [NIME Conference Cookbok](https://nime.gitbook.io/conference-cookbok/) with information about how the conferences is run.
 
 ### Deadline
 
-Please get in touch as soon as possible to discuss your ideas with the [Steering Committee](https://www.nime.org/committee/).
+Please get in touch as soon as possible to discuss your ideas with the [NIME Board](https://www.nime.org/board/).
 
 
 ### Template for Hosting Proposal

@@ -1,5 +1,5 @@
 {% comment %}
-Generates approriate metadata for a bibliographic entry in the proceedings.
+Generates appropriate metadata for a bibliographic entry in the proceedings.
 Hopefully this results in well-formed listings in Google Scholar over time.
 
 These are constructed following guidelines here:
@@ -24,11 +24,10 @@ Parameters:
 {% if include.entry.issn %}<meta name="citation_issn" content="{{ include.entry.issn }}">{% endif %}
 {% if include.entry.isbn %}<meta name="citation_isbn" content="{{ include.entry.isbn }}">{% endif %}
 <meta name="citation_pdf_url" content="{{ include.entry.url }}">
+{% if include.entry.doi %}<meta name="dc.Identifier" scheme="doi" content="{{ include.entry.doi }}">{% endif %}
 
 {% comment %}
-Some unused / to be explored metadata...
-
-{% if include.entry.doi %}<meta name="dc.Identifier" scheme="doi" content="{{ include.entry.doi }}">{% endif %}
+<!-- Some unused / to be explored metadata... -->
 {% if include.entry.articleno %}<meta name="dc.Identifier" scheme="article-no" content="{{ include.entry.articleno}}">{% endif %}
 <meta name="dc.Language" content="EN">
 {% endcomment %}

@@ -10,7 +10,7 @@ Posts to the list should be restricted to calls for papers/works, job announceme
 
 Except where specifically relevant to a large proportion of the NIME community, posts regarding products, software and concert performances should not be posted.
 
-In order to subscribe to the list, please send an email to [community.subscribe@nime.org](mailto:community.subscribe@nime.org). To unsubscribe from the list, send an email to [community.unsubscribe@nime.org](mailto:community.unsubscribe@nime.org).
+In order to subscribe to the list, please send an email to [nime-community+subscribe@googlegroups.com](mailto:nime-community+subscribe@googlegroups.com). To unsubscribe from the list, send an email to [mailto:nime-community+unsubscribe@googlegroups.com](mailto:nime-community+unsubscribe@googlegroups.com).
 
 ### Mailing List Archive
 
@@ -19,3 +19,4 @@ The mailing list is hosted on [Google Groups](https://groups.google.com/forum/#!
 <!-- ### Technical Issues
 
 Please direct any questions about the mailing list to [Andrew Johnston](http://www.uts.edu.au/staff/andrew.johnston). -->
+

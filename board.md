@@ -5,15 +5,13 @@ permalink: /board/
 ---
 
 ## NIME Board Members
-* [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale), President of the Board
-* [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees
-* [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer
-* [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer
-* [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large
-* [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Member-at-large, Chair NIME 2025
-* [Hans Leeuw](https://www.hku.nl/en/research/research-areas/technology/music-design/hans-leeuw), Chair NIME 2024
-* [Hugo Solis](https://investigacion.uam.mx/en/index.php/listado-catalogo/80579), Chair NIME 2023
-
+* [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale), President of the Board (University of Auckland, New Zealand)
+* [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees (University of Nottingham, UK)
+* [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer (Imperial College, UK)
+* [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
+* [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large (University of Aveiro, Portugal)
+* [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Member-at-large, Chair NIME 2025 (Australian National University, Australia)
+* [Hans Leeuw](https://www.hku.nl/en/research/research-areas/technology/music-design/hans-leeuw), Chair NIME 2024 (HKU, The Netherlands)
 
 ## Terms of Reference
 
@@ -73,7 +71,7 @@ The Board is composed of the following members:
 * To perform routine updates on [nime.org](https://www.nime.org/archives/)
 
 ##### 3.3.2 Eligibility and term of office
-* The Proceedings and Web Officer is elected by the community
+* The Proceedings Officer is elected by the community
 * The term of office is 3 years
 * The mandate can be renewed once
 
@@ -117,17 +115,28 @@ The Board is composed of the following members:
 ##### 3.7.2  Eligibility and term of office
 * It is expected that one of the General Chair/s of a NIME conference will maintain their membership in the board up until the end of the successive year’s conference
 
+#### 3.8 Vacancies
+* When a vacancy occurs on the Board, the President of the Board may appoint an eligible person to serve the remainder or a portion of the former member’s term
+
 ## 4. Board meetings
+#### 4.1 Frequency
 * The board meets online 6 to 8 times a year
-* The meetings last on average 2 hours
-* Efforts are made to ensure that none of the board members have to join the meeting at unsociable hours whenever possible
+* The meetings last on average 2 hours.
+* Efforts are made to ensure that none of the board members have to join the meeting at unsociable hours whenever possible.
+
+#### 4.2 Approvals
+* Cases requiring approval are discussed during board meetings and if necessary, the associated documents are circulated in advance along with the meeting agenda
+* Approval requires a majority vote from all board members, including those absent and those present but abstaining
+* Absent members can cast their votes via email/forum before or after the board meeting
+
 
 ## 5. Board member's election process
 #### 5.1 Eligibility
-* Anyone who attended at least one of the last 3 NIME conferences (either in person or remotely) can advance their nomination
+* Anyone who attended at least one of the last 5 NIME conferences (either in person or remotely) can advance their nomination
 * The nomination modalities are communicated on [forum.nime.org](https://forum.nime.org)
 
 #### 5.2 Elections
+* Anyone who attended at least one of the last 5 NIME conferences (either in person or remotely) has the right to vote
 * The election modalities and results are communicated on [forum.nime.org](https://forum.nime.org)
 
 ## 6. Advisory Group
@@ -150,10 +159,10 @@ The Advisory Group is composed of:
 * At the end of the election period, the Steering Committee ceased its functions and the NIME Board governance became effective
 
 #### 7.2 Successive elections
-* The structure of the NIME Board is conceived to guarantee continuity in the life of the community. As a consequence, the various roles will come to an end in different years. 
+* The structure of the NIME Board is conceived to guarantee continuity in the life of the community and as a consequence, the various roles will come to an end in different years 
 * When a Board seat is about to expire, it’s the President’s responsibility to lead the election process for new members
 * Outgoing Board members are expected to organise handover sessions with the newly elected member.
 
 > Created: 16 February 2024
 > 
-> Updated: 13 August 2024
+> Updated: 7 August 2024

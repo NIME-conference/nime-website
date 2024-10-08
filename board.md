@@ -10,7 +10,8 @@ permalink: /board/
 * [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer (Imperial College, UK)
 * [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
 * [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large (University of Aveiro, Portugal)
-* [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Member-at-large, Chair NIME 2025 (Australian National University, Australia)
+* [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Member-at-large (Loughborough University London, UK)
+* [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Chair NIME 2025 (Australian National University, Australia)
 * [Hans Leeuw](https://www.hku.nl/en/research/research-areas/technology/music-design/hans-leeuw), Chair NIME 2024 (HKU, The Netherlands)
 
 ## Terms of Reference

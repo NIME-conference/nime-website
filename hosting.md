@@ -4,45 +4,44 @@ title: Hosting
 permalink: /hosting/
 ---
 
-The Steering Committee is looking for hosts for NIME 2026 and later. Previous conferences have usually been hosted by one institution (or a few geographically close ones). The Steering Committee is interested in exploring hub-based conference formats. There are many ways this could be done. One solution could be to have a central conference hub with satellite venues around the world. Another option could be to have a more distributed organization across multiple locations. Whatever format, we would need to think differently about the organization. We are particularly encouraging collaboration between individuals and/or institutions around the world.
+The **Board of NIME** invites bids to host its 2026 and 2027 conferences.
 
-If you are interested in hosting NIME, please get in touch with the President of the [NIME Board](https://www.nime.org/board/) to discuss more. You can also take a look at the [NIME Conference Cookbok](https://nime.gitbook.io/conference-cookbok/) with information about how the conferences is run.
+# Eligibility
 
-### Deadline
+For **NIME 2026**, we welcome bids from institutions in the **Americas, Asia, or Africa**  
+For **NIME 2027**, bids are welcome from **Europe**, in addition to the regions mentioned for 2026\.
 
-Please get in touch as soon as possible to discuss your ideas with the [NIME Board](https://www.nime.org/board/).
+# Bid Components
 
+Proposals should include the following elements:
 
-### Template for Hosting Proposal
+1. **Host Institution**: Brief introduction to the hosting institution(s) and any relevant affiliations.  
+2. **General chairs**: Please indicate who are going the be the General chairs, their affiliation, their connection to NIME.Highlight previous experience in hosting academic conferences or large events.  
+3. **Other chairs**: Specify the additional chairing roles being considered and specify any intended deviation from the chairing structure of previous conferences.  
+4. **Organising Team**: Provide details of the team, including key chairs. This can be a tentative list.  
+5. **Proposed Theme**: Please describe the conference’s theme, highlighting its relevance to current NIME research.  
+6. **Venue**: Provide details about the proposed venue(s) for the conference, including space for workshops, concerts, keynotes, and poster sessions.  
+7. **Dates**: Preferred conference dates should fall between May and July, but we can make exceptions.  
+8. **Sustainability**: Outline plans for making the event eco-friendly, reducing the carbon footprint by encouraging local participation, hybrid formats, or sustainable practices (e.g., vegetarian catering, reusable materials).  
+9. **Diversity and Accessibility**: Describe measures to encourage participation from underrepresented communities, young/emerging artists, or individuals outside academia.  
+10. **Budget**: Provide a preliminary budget that includes expected income (registration fees, sponsorship) and expenses (venue costs, technical equipment, etc.).  
+11. **Local Support**: Describe potential funding sources, partnerships, or sponsors, especially from local governments or institutions.
 
-- Introduction
-    - Location: City, country
-    - Host: Responsible institution(s)
-    - Chairs: Names of general chairs (preferably also other chairs)
-    - Dates: Proposed dates (preferably late May or beginning June)
+# Submission Timeline
 
-- Concept
-    - Summarize plans for the concept of the conference
+* **Bid Submission Deadline**: 31 December 2024  
+* **Selection Notification**: 31 January 2025
 
-- Motivation for hosting NIME
-    - What is your motivation for hosting NIME?
-    - What is unique to your NIME hosting?
+# Submission Process
 
-- Team
-   - Names and short bios of key people
-   - Describe the rest of the team, including support staff
+Proposals should be submitted as a single PDF document to Fabio Morreale, president of the NIME Board [f.morreale@auckland.ac.nz](mailto:f.morreale@auckland.ac.nz). Please specify whether the proposal is for 2026, 2027, or both years. For any questions or to discuss your proposal prior to submission, feel free to get in touch with any member of the NIME Board.
 
-- Possible Dates
-    - Explain why you have chosen the dates and if there are any restrictions
-    - Would you be interested in other years if your proposal is not accepted for the dates you proposed?
+# Review Criteria
 
-- Available facilities
-    - Name and description of venues/resources for lectures, concerts, and installations
-    - Include a geographical overview of the venues
+Proposals will be evaluated on the following criteria:
 
-- Avenues for funding to support the event
-    - How will funds be secured to help hosting the event?
-    - Include a list of (possible) sponsors, granting agencies etc.
-
-- Budget Estimates
-    - Attach estimate of budget (ask for example budgets)
+* Reputation, prestige, and suitability of the venue.  
+* Experience and capability of the organising team.  
+* Relevance and quality of the proposed theme.  
+* Efforts to encourage diverse participation and minimise environmental impact.  
+* Financial feasibility and sponsorship opportunities.

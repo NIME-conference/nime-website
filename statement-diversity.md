@@ -2,8 +2,6 @@
 layout: page
 title: NIME Conference Diversity Statement
 permalink: /diversity/
-date: 2018-09-26
-categories:  []
 ---
 
 ### Short version
@@ -29,7 +27,7 @@ In discussions, we can respect one another’s identities and experiences by:
 We value diversity in the communities we bring together, and we welcome your contributions to bringing balanced representation of the richness of our collective human experience.
 
 Here are some ways you can
-[help us](http://www.nime.org/steering) build a more diverse conference experience:
+[help us](/board/) build a more diverse conference experience:
 
 * Recommend diverse speakers and/or program committee members to the conference chairs (see program information) 	
 * Forward our call for proposals to relevant affinity groups with the message that we are looking for a diverse speaker roster
@@ -42,7 +40,7 @@ Here are some ways you can
 - Version: 1.0
 - Date: 26 September 2018
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Feedback: Add an [issue](https://github.com/NIME-conference/nime-website/issues) or start a [discussion](https://forum.nime.org/).
+- Feedback: Start a [discussion](https://forum.nime.org/).
 - Based on:
     - [O'Reilly Conference Diversity](https://www.oreilly.com/conferences/diversity.csp)
     - [Different Games Inclusivity Statement](http://goo.gl/Le1QJp)

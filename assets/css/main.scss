@@ -10,24 +10,33 @@
 // $header-font: 'Inter', sans-serif;
 
 // Fonts
-@import url('https://fonts.googleapis.com/css?family=Lato|PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,600|Noto+Sans:400,600&display=swap');
 
 $header-font: 'Lato', sans-serif;
-$body-font: 'PT Sans', sans-serif;
+$body-font: 'Noto Sans', sans-serif;
 
 html {
     font-family: $body-font;
 }
 
 body {
-  font-family: $body-font;
-  font-weight: normal;
+    font-family: $body-font;
+    font-weight: normal;
 }
 
 p {
     font-family: $body-font;
 }
 
+ol {
+    font-family: $body-font;
+    font-weight: normal;
+}
+
+ul {
+    font-family: $body-font;
+    font-weight: normal;
+}
 
 h1, h3, h5 {
   font-family: $header-font;
@@ -44,7 +53,6 @@ h2, h4, h6 {
     font-weight: 600 !important;
     text-transform: uppercase;
 }
-
 
 h2.bibliography {
     font-size: 1.5rem !important;
@@ -90,13 +98,8 @@ $ui-3: rgb(99, 96, 104);
 $ui-4: #4d4bcd;
 
 .nav-item {
-    .active {
-        font-weight: 900;
-    }
-
     &:hover {
         font-weight: 900;
-        color: $ui-4;
     }
 }
 
@@ -112,4 +115,24 @@ $ui-4: #4d4bcd;
 
 .navbar-brand {
     font-weight: 900;
+}
+
+.navbar .navbar-nav .nav-link.active, 
+.navbar .navbar-nav .nav-link.show {
+    color: rgba(0, 0, 0, 0.65) !important;
+    font-weight: normal;
+}
+
+.dropdown-item {
+    color: rgba(0, 0, 0, 0.65) !important;
+}
+
+.dropdown-item:hover {
+    color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.dropdown-item:focus,
+.dropdown-item:active {
+    background-color: #f8f9fa !important;
+    color: rgba(0, 0, 0, 0.8) !important;
 }

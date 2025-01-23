@@ -34,4 +34,10 @@ Regarding issues on the NIME forum, please reach out to the administrators at [f
 
 We value your attendance and participation in the community.
 
+-------------------------
 
+- Version: 1.2
+- Date: 3 September 2024
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Authors: NIME Board
+- Feedback: Start a [discussion](https://forum.nime.org/).

@@ -13,7 +13,7 @@
     <div class="container rounded bg-body">	   
       <main class="my-2 p-4" aria-label="Content">
         <article class="article article--page content typeset">
-          <h1>{{ page.entry.title }}</h1>
+          <h2>{{ page.entry.title }}</h2>
           <h4>{% include author_names.html entry=page.entry %}</h4>
           <p>{{ page.entry.booktitle }}</p>
           <ul>
@@ -36,18 +36,15 @@
           {% elsif page.entry.url %}<li><a href="{{ page.entry.url }}">PDF link</a></li>{% endif %}
           <!-- Only use if trying to save bandwidth. -->
           {% endcomment %}
-          <h2>Abstract:</h2>
+          <h3>Abstract:</h3>
           <p>{{ page.entry.abstract }}</p>
-          <h2>Citation:</h2>
-          {% include citation.html entry=page.entry %}
-          <h2>BibTeX Entry:</h2>
-  <pre>
-  {{ page.entry.bibtex }}
-  </pre>
+          <h3>Citation:</h3>
+          <p>{% include citation.html entry=page.entry %}</p>
+          <h4>BibTeX Entry:</h4>
+          <pre>{{ page.entry.bibtex }}</pre>
         </article>
       </main>
     </div>
-
     {% include footer.html %}
     {% fa_svg_generate %}
     {% include scripts.html %}

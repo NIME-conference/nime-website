@@ -4,7 +4,6 @@ title: Committees
 permalink: /committees/
 ---
 
-
 ### Ethics Committee
 * [Natalia Fuchs](http://artypical.com/) (lead)
 * [Doga Cadvir](https://www.dogacavdir.com/) (member)

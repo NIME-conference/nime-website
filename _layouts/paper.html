@@ -36,11 +36,11 @@
           {% elsif page.entry.url %}<li><a href="{{ page.entry.url }}">PDF link</a></li>{% endif %}
           <!-- Only use if trying to save bandwidth. -->
           {% endcomment %}
-          <h3>Abstract:</h3>
+          <h3>Abstract</h3>
           <p>{{ page.entry.abstract }}</p>
-          <h3>Citation:</h3>
+          <h3>Citation</h3>
           <p>{% include citation.html entry=page.entry %}</p>
-          <h4>BibTeX Entry:</h4>
+          <h4>BibTeX Entry</h4>
           <pre>{{ page.entry.bibtex }}</pre>
         </article>
       </main>

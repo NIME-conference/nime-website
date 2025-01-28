@@ -4,21 +4,34 @@ title: Committees
 permalink: /committees/
 ---
 
+
 ### Ethics Committee
-* [Nicolas Gold](http://www0.cs.ucl.ac.uk/staff/n.gold/) (chair)
-* [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
-* [Raul Masu](https://raulmasu.org/)
-* [Cecile Chevalier](http://cecilechevalier.net/)
+* [Natalia Fuchs](http://artypical.com/) (lead)
+* [Doga Cadvir](https://www.dogacavdir.com/) (member)
+* [Kerem Ergener](https://www.keremergener.com/) (member)
 
 ### Diversity Committee
-* [Laurel Pardue](https://www.qmul.ac.uk/eecs-temp/profiles/parduelaurel.html) (chair)
-* [Juan Pablo Martinez](https://zavilaz.wordpress.com/)
+* [Courtney Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/) (co-lead)
+* [João Tragtenberg](https://www.linkedin.com/in/jo%C3%A3o-tragtenberg-23240859) (co-lead)
+* [Andrew McMillan](https://andrewmcmillan.weebly.com/) (member)
+* [Yichen Wang](https://yichenwangs.github.io/) (member)
+* [Zeynep Ozcan](http://zeynepozcan.net/) (member)
 
 ### Environmental Committee
-* [John Sullivan](http://www-new.idmil.org/people/john-sullivan/) (chair)
-* [Adam Pultz Melbye](http://www.adampultz.com/)
-* [Raul Masu](https://raulmasu.org/)
-	
+* [Raul Masu](https://raulmasu.org/) (lead)
+* [Ha-Moon Young](https://www.sustainable-music.org/) (member)
+* [Florent Berthaut](https://pro.univ-lille.fr/florent-berthaut) (member)
+* [Benedict Gaster](https://people.uwe.ac.uk/Person/BenedictGaster) (member)
+
+### WiNIME Committee
+* [Isabela Corintha](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230/) (lead)
+* [Aida Khorsandi](https://www.rcmusic.com/bios/aida-khorsandi) (member)
+* [Eleni-Ira Panourgia](https://eleniirapanourgia.com/) (member)
+
+### LATAM NIME Committee
+* [João Tragtenberg](https://www.linkedin.com/in/jo%C3%A3o-tragtenberg-23240859) (co-lead)
+* [Alvaro Lopez](https://www.linkedin.com/in/alvaro-e-lopez-duarte/) (co-lead)
+
 <br/><br/>
 
 ### Officers
@@ -26,9 +39,6 @@ permalink: /committees/
 	- [Andrew Johnston](http://andrewjohnston.net/) (lead)
 	- [Michael Lyons](https://www.linkedin.com/in/michaeljlyons)
 	- [Tom Mitchell](https://people.uwe.ac.uk/Person/TomMitchell)
-* WiNIME officer:
-	- [Isabela Corintha Almeida](https://scholar.google.com/citations?user=gdej3wIAAAAJ)
-	- [Anna Xambó](http://annaxambo.me/)
 * Forum officer:
 	- [S. Astrid Bin](https://www.astridbin.com/)
 * Sponsorship officer

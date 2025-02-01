@@ -6,12 +6,12 @@ permalink: /hosting/
 
 The **Board of NIME** invites bids to host its 2026 and 2027 conferences.
 
-# Eligibility
+## Eligibility
 
-For **NIME 2026**, we welcome bids from institutions in the **Americas, Asia, or Africa**  
-For **NIME 2027**, bids are welcome from **Europe**, in addition to the regions mentioned for 2026\.
+- For **NIME 2026**, we prioritize bids from institutions in the **Americas, Asia, or Africa**.
+- For **NIME 2027**, bids are welcome from **Europe**, in addition to the regions mentioned for 2026.
 
-# Bid Components
+## Bid Components
 
 Proposals should include the following elements:
 
@@ -27,16 +27,11 @@ Proposals should include the following elements:
 10. **Budget**: Provide a preliminary budget that includes expected income (registration fees, sponsorship) and expenses (venue costs, technical equipment, etc.).  
 11. **Local Support**: Describe potential funding sources, partnerships, or sponsors, especially from local governments or institutions.
 
-# Submission Timeline
-
-* **Bid Submission Deadline**: 31 December 2024  
-* **Selection Notification**: 31 January 2025
-
-# Submission Process
+## Submission Process
 
 Proposals should be submitted as a single PDF document to Fabio Morreale, president of the NIME Board [f.morreale@auckland.ac.nz](mailto:f.morreale@auckland.ac.nz). Please specify whether the proposal is for 2026, 2027, or both years. For any questions or to discuss your proposal prior to submission, feel free to get in touch with any member of the NIME Board.
 
-# Review Criteria
+## Review Criteria
 
 Proposals will be evaluated on the following criteria:
 
@@ -45,3 +40,6 @@ Proposals will be evaluated on the following criteria:
 * Relevance and quality of the proposed theme.  
 * Efforts to encourage diverse participation and minimise environmental impact.  
 * Financial feasibility and sponsorship opportunities.
+
+## Conference Cookbook
+For more details on how NIME conferences are generally hosted and run, refer to the [NIME Cookbook](https://nime.gitbook.io/conference-cookbok/).

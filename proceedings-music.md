@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Installation Proceedings
-permalink: /installations/
+title: Music Proceedings
+permalink: /music/
 ---
 
-This page contains a list of peer-reviewed installations shown at NIME conferences. (_N.B.: this list is currently incomplete. We are currently assembling installation proceedings from previous NIMEs_)
+This page lists all peer-reviewed music performed at NIME conferences, organized in reverse chronological order. (_N.B.: this list is currently incomplete. We are currently assembling music proceedings from previous NIMEs_)
 
 <!-- This liquid code sets up a list of years up to now (this year) and generates lists of bib entries for each year. Empty years are not listed. -->
 {% assign first_year = 2001 %}
@@ -12,13 +12,13 @@ This page contains a list of peer-reviewed installations shown at NIME conferenc
 {% assign nime_years = (first_year .. current_year) %}
 {% for i in nime_years reversed %}
 
-{% assign year_entries = site.data.nime_installations | where: "year", i %}
+{% assign year_entries = site.data.nime_music | where: "year", i %}
 {% unless year_entries == empty %}
 <h3>{{ i }}</h3>
 
 <ul>
 {% for entry in year_entries %}
-{% capture entry_url %}{{ entry.ID | datapage_url: "proc_installations" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
+{% capture entry_url %}{{ entry.ID | datapage_url: "proc_music" | replace: ".html", "/index.html" | relative_url }}{% endcapture %}
 <li>{% include citation.html entry=entry link=entry_url %}</li>
 {% endfor %}
 </ul>
@@ -27,7 +27,7 @@ This page contains a list of peer-reviewed installations shown at NIME conferenc
 
 
 {% comment %}
-{% bibliography --file nime_installations %}
+{% bibliography --file nime_music %}
 {% endcomment %}
 
 <script>

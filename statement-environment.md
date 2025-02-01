@@ -2,8 +2,6 @@
 layout: page
 title: NIME Conference Environmental Statement
 permalink: /environment/
-date: 2020-10-26
-categories:  []
 ---
 
 ### Short version
@@ -42,4 +40,4 @@ To support sustainable practices within and beyond NIME, we are building a [wiki
 - Version: 1.0
 - Date: 26 October 2020
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Feedback: Add an [issue](https://github.com/NIME-conference/nime-website/issues) or start a [discussion](https://forum.nime.org/).
+- Feedback: Start a [discussion](https://forum.nime.org/).

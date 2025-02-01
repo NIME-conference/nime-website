@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NIME Board
+title: Board
 permalink: /board/
 ---
 
@@ -13,6 +13,8 @@ permalink: /board/
 * [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Member-at-large (Loughborough University London, UK)
 * [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Chair NIME 2025 (Australian National University, Australia)
 * [Hans Leeuw](https://www.hku.nl/en/research/research-areas/technology/music-design/hans-leeuw), Chair NIME 2024 (HKU, The Netherlands)
+
+<br/><br/>
 
 ## Terms of Reference
 
@@ -55,7 +57,7 @@ The Board is composed of the following members:
 
 #### 3.2 Chief of Committees
 ##### 3.2.1 Responsibilities
-* To oversee the activities of all the current and future [NIME committees](committee) and working groups
+* To oversee the activities of all the current and future [NIME committees](/committee/) and working groups
 * It is expected that the Chief of Committees will periodically organise meetings with the various committee chairs
 * To update the Board on the status of such committees and working groups
 
@@ -66,10 +68,10 @@ The Board is composed of the following members:
 
 #### 3.3 Proceedings Officer
 ##### 3.3.1 Responsibilities
-* To ensure that the conference Proceedings on [nime.org](https://www.nime.org/archives/) are always updated 
+* To ensure that the conference Proceedings on [nime.org](https://www.nime.org/papers/) are always updated 
 * To ensure that the [Zenodo page](https://zenodo.org/communities/nime/) is updated
 * To set a deadline for each year’s General Chairs to submit the proceedings and to monitor the progress
-* To perform routine updates on [nime.org](https://www.nime.org/archives/)
+* To perform routine updates on [nime.org](https://www.nime.org/)
 
 ##### 3.3.2 Eligibility and term of office
 * The Proceedings Officer is elected by the community
@@ -92,7 +94,7 @@ The Board is composed of the following members:
 ##### 3.5.1 Responsibilities
 * To ensure that current and future conference organisers possess the necessary information to successfully run the conference
 * To oversee the development of NIME Conference Policy (e.g. fees, publishing systems) that General Chairs will need to comply by
-* To oversee the updates of the NIME cookbook by following up with Conference Chairs
+* To oversee the updates of the [NIME Cookbook](https://nime.gitbook.io/conference-cookbok) by following up with Conference Chairs
 * Keep a record of emails of registrants that are happy for their email to be used for election purposes
 
 ##### 3.5.2  Eligibility and term of office
@@ -154,7 +156,7 @@ The Advisory Group is composed of:
 
 ## 7. Times and modalities to constitute the NIME Board 
 #### 7.1 Constitution of the first NIME Board
-* On 1 March 2024, the last [Steering Committee](https://nime.org/committee/) elected the President of the Board
+* On 1 March 2024, the last [Steering Committee](/committee/) elected the President of the Board
 * From 1 March 2024, the President led the process of election of the other Board members
 * On 17 April 2024 The President announced the election results and constituted the NIME Board
 * At the end of the election period, the Steering Committee ceased its functions and the NIME Board governance became effective
@@ -164,6 +166,10 @@ The Advisory Group is composed of:
 * When a Board seat is about to expire, it’s the President’s responsibility to lead the election process for new members
 * Outgoing Board members are expected to organise handover sessions with the newly elected member.
 
-> Created: 16 February 2024
-> 
-> Updated: 7 August 2024
+-------------------------
+
+- Version: 1.2
+- Date: 8 October 2024
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Authors: NIME Board
+- Feedback: Start a [discussion](https://forum.nime.org/).

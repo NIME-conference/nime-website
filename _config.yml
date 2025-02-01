@@ -100,28 +100,36 @@ include:
 - _redirects
 
 navigation_header:
-- title: Home
-  url: /
-- title: Past NIMEs
-  url: /past-nimes/
-- title: Papers
-  url: /archives/
-- title: Music
-  url: /music/
-- title: Installations
-  url: /installations/
 - title: Hosting
   url: /hosting/
-- title: Board
-  url: /board/
-- title: Mailing List
-  url: /list/
-- title: Statements
-  url: /statements/
-- title: Forum
-  url: https://forum.nime.org/
-- title: Mentorship
-  url: /mentorship/
+- title: Past NIMEs
+  url: /past-nimes/
+- title: Proceedings
+  dropdown:
+    - title: Papers
+      url: /papers/
+    - title: Music
+      url: /music/
+    - title: Installations
+      url: /installations/
+- title: About
+  dropdown:
+    - title: Statements
+      url: /statements/
+    - title: Board
+      url: /board/
+    - title: Committees
+      url: /committees/
+    - title: Communities
+      url: /communities/
+    - title: Mentorship
+      url: /mentorship/
+- title: Connect
+  dropdown:
+    - title: Mailing List
+      url: /mailinglist/
+    - title: Forum
+      url: https://forum.nime.org/
 
 navigation_footer:
 - title: Back to top

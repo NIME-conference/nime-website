@@ -34,13 +34,16 @@ permalink: /committees/
 <br/><br/>
 
 ### Officers
-* Mailing list officers:
+* Mailing List:
 	- [Andrew Johnston](http://andrewjohnston.net/) (lead)
 	- [Michael Lyons](https://www.linkedin.com/in/michaeljlyons)
 	- [Tom Mitchell](https://people.uwe.ac.uk/Person/TomMitchell)
-* Forum officer:
+* Forum:
 	- [S. Astrid Bin](https://www.astridbin.com/)
-* Sponsorship officer
+* Mentorship Program:
+	- [Kerem Ergener](https://keremergener.com/) (lead)
+	- [Doga Cavdir](https://https://www.dogacavdir.com/)
+* Sponsorship
 	- To be filled
 
 <br/><br/>

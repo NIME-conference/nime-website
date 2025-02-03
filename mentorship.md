@@ -52,14 +52,9 @@ In the motivation letter, the applicant should ask what type of mentor they want
 * The mentor should respect the uniqueness, honor their mentee's integrity, and influence them through constructive feedback.
 * The mentor should set realistic expectations and goals for their mentee.
 
-### Committee 
-
-* [Kerem Ergener](https://keremergener.com/), Head of The Mentorship Program (Louisiana State University, US)
-* [Doga Cavdir](https://https://www.dogacavdir.com/), Supervisor of The Mentorship Program (IT-Universitetet i København, Denmark)
-
 ### Language Support
 
-* Si necesitas una traducción al Español por favor contacta a: [Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
+* Si necesitas una traducción al Español por favor contacta a: [Juan Martinez Avila](mailto:j.avila@nottingham.ac.uk)
 * Se precisar de ajuda para traduzir este formulário em Português, contacte: [Joao Tragtenberg](mailto:tragtenberg@gmail.com)
 * Se avete bisogno di aiuto in italiano con l'inglese contattate: [Raul Masu](mailto:raul@raulmasu.org)
 * Si vous avez besoin d'aide pour traduire ce formulaire en Français, contact: [Kerem Ergener](mailto:kergen1@lsu.edu)

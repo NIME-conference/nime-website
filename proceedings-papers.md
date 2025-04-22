@@ -13,6 +13,7 @@ This page lists all papers published at the NIME conferences, organized in rever
 * **ISSN** for the proceedings series: **ISSN 2220-4806**. Each year's ISBN is in the BibTeX files and are also listed [here]({{site.baseurl}}/proceedings-isbn/).
 * **Impact factor:** Academic work should always be considered on its own right (cf. [DORA declaration](https://sfdora.org/)). That said, the NIME proceedings are generally ranked highly in, for example, the [Google Scholar ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=hum_musicmusicology).
 * **Ethics:** Please take a look at NIME's [Publication ethics and malpractice statement](/ethics/).
+* **Retracted works:** The list of works that have been retracted from the NIME proceedings can be accessed [here](/proceedings-retracted/).
 * **Contact:** If you find any errors in the database, please feel free to fork and modify at [GitHub](https://github.com/NIME-conference/NIME-bibliography), or add an issue in the [tracker](https://github.com/NIME-conference/NIME-bibliography/issues).
 
 <!-- This liquid code sets up a list of years up to now (this year) and generates lists of bib entries for each year. Empty years are not listed. -->

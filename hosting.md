@@ -4,12 +4,12 @@ title: Hosting
 permalink: /hosting/
 ---
 
-The **Board of NIME** invites bids to host its 2026 and 2027 conferences.
+The **Board of NIME** invites bids to host its 2027 and 2028 conferences.
 
 ## Eligibility
 
-- For **NIME 2026**, we prioritize bids from institutions in the **Americas, Asia, or Africa**.
-- For **NIME 2027**, bids are welcome from **Europe**, in addition to the regions mentioned for 2026.
+- For **NIME 2027**, we prioritize bids from institutions in the **Americas, Asia, or Africa**.
+- For **NIME 2028**, bids are welcome from **Europe**, in addition to the regions mentioned for 2026.
 
 ## Bid Components
 

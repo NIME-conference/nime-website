@@ -8,9 +8,9 @@ feature_image_alt: "An enigmatic image of waves in space with the NIME logo subt
 
 ### Upcoming NIME Conferences
 
-- [**NIME2025**](https://nime2025.org) will be held from 24 to 27 June, 2025 at The Australian National University, Ngunnawal and Ngambri Country (Canberra), Australia. 
+- [**NIME2026**](https://nime2026.org) will be held from 23 to 26 June, 2026 at the Loughborough University, London, United Kingdom. 
 
-- The Board of NIME invites bids to [host](/hosting/) its 2026 and 2027 conferences.
+- The Board of NIME invites bids to [host](/hosting/) its 2027 and 2028 conferences.
 
 ### NIME
 

@@ -5,7 +5,7 @@ permalink: /board/
 ---
 
 ## NIME Board Members
-* [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale), President of the Board (University of Auckland, New Zealand)
+* [Fabio Morreale](https://fabio.kiwi), President of the Board (Sony AI, Spain)
 * [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees (University of Nottingham, UK)
 * [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer (Imperial College, UK)
 * [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)

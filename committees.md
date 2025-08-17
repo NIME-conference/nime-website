@@ -5,9 +5,9 @@ permalink: /committees/
 ---
 
 ### Ethics Committee
-* [Natalia Fuchs](http://artypical.com/) (lead)
+* [Kerem Ergener](https://www.keremergener.com/) (lead)
+* [Natalia Fuchs](http://artypical.com/) (member)
 * [Doga Cadvir](https://www.dogacavdir.com/) (member)
-* [Kerem Ergener](https://www.keremergener.com/) (member)
 
 ### Diversity Committee
 * [Courtney Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/) (co-lead)

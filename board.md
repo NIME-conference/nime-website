@@ -7,12 +7,18 @@ permalink: /board/
 ## NIME Board Members
 * [Fabio Morreale](https://fabio.kiwi), President of the Board (Sony AI, Spain)
 * [Juan Martinez Avila](https://www.nottingham.ac.uk/computerscience/people/j.avila), Chair of Committees (University of Nottingham, UK)
-* [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer (Imperial College, UK)
+* [Andrew McPherson](https://profiles.imperial.ac.uk/andrew.mcpherson), Continuity Officer and Chair NIME 2026 (Imperial College, UK)
 * [Stefano Fasciani](http://people.uio.no/stefanof), Proceedings Officer (University of Oslo, Norway)
 * [Isabela Corintha Almeida](https://www.linkedin.com/in/isabela-corintha-almeida-89a88230), Member-at-large (University of Aveiro, Portugal)
-* [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Member-at-large (Loughborough University London, UK)
+* [Courtney N. Reed](https://www.lborolondon.ac.uk/staff/courtney-n-reed/), Chair NIME 2026 (Loughborough University London, UK)
 * [Charles Martin](https://comp.anu.edu.au/people/charles-martin/), Chair NIME 2025 (Australian National University, Australia)
-* [Hans Leeuw](https://www.hku.nl/en/research/research-areas/technology/music-design/hans-leeuw), Chair NIME 2024 (HKU, The Netherlands)
+
+<br/><br/>
+
+Upcoming elections:
+* 2026: 2x Members-at-Large
+* 2027: Chair of Committees, Proceedings Officer
+* 2028: Continuity Officer
 
 <br/><br/>
 
@@ -36,7 +42,7 @@ The Board is composed of the following members:
 * Chief of Committees
 * Continuity Officer
 * Proceedings Officer
-* 2x members-at-large
+* 2x Members-at-Large
 * General Chairs of upcoming NIME conferences
 * General Chairs of immediately past NIME conference
 
